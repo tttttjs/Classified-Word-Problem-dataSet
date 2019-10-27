@@ -1,0 +1,3 @@
+A two-layer hollow flowerpot array, with 10 pots on each side of the outermost layer, how many pots are shared?$$$21.4$$$64
+The parade has 8 rows and 12 columns, and then 69 people have been added, which makes the team increase the number of rows and columns. Do you know how many rows or columns are added?$$$21.1$$$3,3
+The National Day parade has 5 rows and 6 columns, and then 42 people are added, so that the number of rows and columns added by the team is the same, then the number of rows (columns) is increased to _____.$$$21.1$$$3

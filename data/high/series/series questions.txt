@@ -1,0 +1,859 @@
+In order to examine the growth of a certain type of wheat, 10 wheat seedlings were taken from them, and the seedling height (unit: cm) was measured as: 16, 9, 14, 11, 12, 10, 16, 8, 17, 19 The median and range are () A.13,16#%#B.14,11#%#C.12,11#%#D.13,11$$$High +4.3$$$D
+Cooperative communication is one of the important ways to learn mathematics. The number of cooperative learning groups in each class of a school is 8, 7, 7, 8, 9, and 7. The mode of this group of data is ( ) A.7 #%#B.7.5#%#C.8#%#D.9$$$High +4.3$$$A
+The following is the production of a car factory from July to December: (unit: car) 480, 420, 450, 540, 540, 600 of which 540 is the data of this group ( ) A. mode #% #B. median # %#C.Average$$$High +4.3$$$A
+A basketball interest group of 7 students participated in the shooting competition, each voted 10, the number of votes: 8, 5, 7, 5, 8, 6, 8, the median and median of this group of data They are ( ) A.5,7#%#B.6,7#%#C.8,6#%#D.8,7$$$High +4.3$$$D
+The scores of 8 members of a study group in the mid-term test are as follows: 81, 88, 76, 91, 96, 84, x, 78. If the mode of the group is 84, then x = _____.$$$High +4.3$$$84
+In a "Chinese Good Poetry" competition, the scores of a certain team are as follows: 95, 85, 95, 85, 80, 95, 90. The mode and median of this group of data are ( ) A.95, 90 #%#B.95,85#%#C.90,95#%#D.80,85$$$High +4.3$$$A
+In a singing competition, a player scores as follows: 92, 88, 95, 93, 96, 95. The mode and median of this set of data are ( ) A.94, 94 #% #B.95, 95#%#C.94,95#%#D.95,94$$$High +4.3$$$D
+In the "Mayor Cup" football match, the scores of the six participating teams are as follows (unit: one): 3, 5, 6, 2, 5, 1, the mode of this group of data is () A.5# %#B.6#%#C.4#%#D.2$$$High +4.3$$$A
+In the "Data Analysis" chapter test, the scores of the seven students in the "Courage Forward" study group were 92, 88, 95, 93, 96, 95, 94. The median and mode of the data were ( ) A .94,94#%#B.94,95#%#C.93,95#%#D.93,96$$$High +4.3$$$B
+The ages of 10 players in a basketball team are shown in the table below. The mode and median of the 10 players are ( )#%#<img>A.19,19#%#B.19,19.5# %#C.20,19#%#D.20,19.5$$$High +4.3$$$A
+In the "Scheduled Shooting" project of the Fun Games, the shooting results (unit: one) of the eight classes of our school are: 24, 20, 19, 20, 22, 23, 20, 22. In this group of data The mode and median are () A.22, 20#%#B.22, 21#%#C.20, 21#%#D.20, 22$$$High +4.3$$$C
+The age (unit: age) of the youngest 8-digit scholars who won the 2010 "Feltz Award" was 29, 28, 29, 31, 31, 31, 29, 31, respectively. The median of this set of data is _____.$$$High +4.3$$$30
+In the DART game of the New Year's party, the throwing scores (unit: ring) of the seven students are: 7, 9, 9, 4, 9, 8, 8 respectively, then the mode of this group of data is _____.$$$High +4.3$$$9
+A class of sports committee members recorded the first group of seven students to shoot a shot (10 per person), the number of shots into the basket is 6, 10, 5, 3, 4, 8, 4, the data of this group The median and range are () A.4, 7#%#B.7,5#%#C.5,7#%#D.3,7$$$High +4.3$$$C
+The age of 12 members of a middle school basketball team is as follows: the mode and median of the team members are ()#%#<img>#%#A.16,15#%#B.15,15.5 #%#C.15,17#%#D.15,16$$$High +4.3$$$D
+There is a set of data 16, x, 19, 19, whose average is smaller than the mode, then the average and median of the set of data are () A.18,17,5#%#B.18,19 #%#C.19,18#%#D.18,18.5$$$High +4.3$$$D
+In the speech contest of “Sunshine Youth, Inspirational Youth” held in the school, the five judges gave the player Xiao Ming the equal scores: 90, 85, 90, 80, 95, then the mode of the data is () A.95B. 90C.85D.80$$$High +4.3$$$B
+Li Dabo planted 100 cherry trees in the contracted orchard. This year, he has entered the harvest period. When harvesting, he picked cherries from 6 trees and weighed the output of each tree (unit: kilogram) as shown in the following table. The median of this set of data is m, the total yield of cherries is about n, then m, n are ( ) #%#<img>A.18, 2000#%#B.19,1900#%#C. 18.5, 1900#%#D.19,1850$$$High +4.3$$$B
+In a math test, the scores of five students in a group were: 110, 105, 90, 95, 90, and the median of the five data was ( ) A.90 #%#B.95#%#C.100 #%#D.105$$$High +4.3$$$B
+In a singing competition, the score of a player is as follows: 92, 88, 95, 93, 96, 95, 94. The mode and median of this group of data are () A.94, 94 #%#B .95,95#%#C.94,95#%#D.95,94$$$High +4.3$$$D
+Six students in a class (9) of a middle school performed a one-minute skipping competition during the inter-class sports activities. The results were as follows: 126, 144, 134, 118, 126, 152. In this set of data, the mode and median were _____ and _____.$$$High +4.3$$$134$130
+In the class competition of “Creating a National Environmental Model City in Guiyang City” organized by the class, the scores of 8 students in Xiao Yue’s group were (unit: minute) 95, 94, 94, 98, 94, 90, 94, 90, then The mode of the scores of these 8 students is () A.98 points #%#B.95分#%#C.94分#%#D.90 points$$$High +4.3$$$C
+1f; In the comprehensive practice class, the number of works (unit:: pieces) made by a classmate is 5, 7, 3, 6, 4, respectively, and the median of this set of data is _____.$$$High +4.3$$$5
+In the skipping competition organized by the second class of a school, the number of skipping ropes of the first group of five students is 198, 230, 220, 216, 209, respectively. The median of the five data is () A.220#%#B.218#% #C.216#%#D.209$$$High +4.3$$$C
+There are 10 students in a class who participate in the "fixed-point shooting" game of basketball. Each person casts 10 times. Their goals are 6,1,4,2,6,4,8,6,4,6. The range and median of the data are ( ) A.7, 5#%#B.5,5#%#C.5,4#%#D.7,4$$$High +4.3$$$A
+The current height of a building measured by 7 students is as follows (unit: m): 29.8, 30.0, 30.0, 30.0, 30.2, 44.0, 30.0. #%# In this set of data, the median is _____, mode Is _____, the average is _____.$$$High +4.3$$$30.0$30.0$32.0
+In a certain number of tests, the scores of the five students were: 89, 91, 105, 105, 110. The median of this group of data is _____, the mode is _____, and the average is _____.$$$High +4.3$$$105$105$100
+In a football match, the scores of the six participating teams are as follows (unit: one): 3, 5, 6, 2, 5, 1, the mode of this group of data is () A.5 #% #B. 6#%#C.4#%#D.2$$$High +4.3$$$A
+The meteorological department of our city measured the daily temperature difference data of the seven miles in a week as follows: 4,6,6,5,7,6,8 (unit: °C), the average and the number of the data in this group are () .A.7,6#%#B.6,5#%#C.5,6#%#D.6,6$$$High +4.3$$$D
+Knowing that the average number of data x, y, and z is 3, the average of the data x+1, y+1, and z+1 is ( )$$$High +4.3$$$4
+The set of data 3, -1, 0, 2, x has a range of 5, and x is a natural number, then x = _____.$$$High +4.3$$$4
+A group of data from small to large is known: 2, 5, x, y, 2x, 11 has an average and median of 7, and the mode of this set of data is _____.$$$High +4.3$$$5
+The average of a set of data 2, 3, 5, 7, 8 is ().$$$High +4.3$$$5
+A set of data 2,1,1,2,x If the mode is 2, then x=_____, if the average is 2, then $x=$_____.$$$High +4.3$$$4
+The average number of data 3, 4, 5, a, 8 is 5, then the median of this set of data is _____, and the mode is _____.$$$High +4.3$$$5
+A set of data: 1, 2, 2, 3, if you add a data 2, the statistic that changes is ( ) A. Average #% #B. Median #%#C.众数#%#D .variance$$$High +4.3$$$D
+It is known that a group of data -3, x, -2, 3, l, 6 has a median of l, and its variance is _____.$$$High +4.3$$$9
+The average of a set of data 2, 4, x, -1 is 3, then the value of x is ( ).$$$High +4.3$$$7
+The average of the following data was calculated in two ways: 35, 35, 34, 47, 47, 84, 84, 84, 84, 125.$$$High +4.3$$$=65.9
+If the range of a set of data -2, 0, 3, 5, x is 9, then the value of x can be _____; #%#(2)(2016·通辽) has a set of data: 2, x, 4, 6,7, the mode of this set of data is known to be 6, then the variance of this set of data is _____.$$$High +4.3$$$16/5
+A set of data 1, a, 3, 6, 7 is known, its average is 4, and the median of this set of data is _____.$$$High +4.3$$$3
+Knowing that the average of a set of data 5,10,15,x,9 is 8, then the median of this set of data is _____.$$$High +4.3$$$9
+The average of a set of data 1, 2, 3, x, 5 is 3, then the variance of the set of data is _____.$$$High +4.3$$$2
+The median and mode of a set of data 1, 2, 3, 5, 3, 4, 10 are ( ).$$$High +4.3$$$3$3
+It is known that a set of data 2, 3, 4, x, 1, 4, 3 has a unique mode 4, and the average and median of the set of data are ( ).$$$High +4.3$$$3$3
+It is known that a group of data a, b, C has an average of 5 and a variance of 4, then the average and variance of the data a-2, b-2, and C-2 are respectively ().$$$High +4.3$$$3$4
+The average of a set of data 2, x, 4, 3, 3 is 3, then the median, mode, and variance of the set of data are ( ).$$$High +4.3$$$3$3
+A set of data: the variance of 3, 2, 1, 2, 2 is _____.$$$High +4.3$$$0.4
+Knowing that the set of data 5,8,10,x,9 has a mode of 8, then the variance of this set of data is _____.$$$High +4.3$$$2.8
+A set of data is subtracted by 80 at the same time, and the average of the new set of data is 2.3, then the average of the original data is _____.$$$High +4.3$$$82.3
+It is known that the median of a group of data 0, 4, x, 10 in order from small to dog is 5, then $x=$( )$$$High +4.3$$$6
+Knowing that the average number of data 1, 2, x, 5 is 2.5, the mode of this set of data is _____.$$$High +4.3$$$2
+It is known that the average of a set of data 1, 2, 2, and x is 3, and the range of the data is _____.$$$High +4.3$$$6
+The variance of a set of data 1, 2, 3, 4, 5 is _____.$$$High +4.3$$$2
+The difference between a set of data 1, 2, 3, 0.-2, -3 is ().$$$High +4.3$$$5
+If the set of data -1,0,2,4,x has a range of 7, then the value of x is ( )$$$High +4.3$$$6$-3
+After subtracting 40 from each of a set of data, the average of the resulting new set of data is 2, and the average of the original set of data is ( ).$$$High +4.3$$$42
+If the average of a set of data 1, 2, 3, x is 2, the variance of this set of data is _____.$$$High +4.3$$$1/2
+A set of data: l, 3, 2, 5, the average of x is 3, then the standard deviation of this set of data is ().$$$High +4.3$$$2
+Calculate the variance of the data of 22, 24, 26, 28, 30 is _.$$$High +4.3$$$8
+A set of data is arranged from small to large as 13, 14, 19, $a$, 23, 27, 28, 31, and the median is 22, then $x$ is equal to ( ).$$$High +4.3$$$twenty one
+It is known that a set of data is arranged from small to large as -1, 0, 4, x, 6, and 15, and the median of this set of data is 5, then the mode of the data is ( ).$$$High +4.3$$$B6
+If the set of data -1,0,2,4,x and the range is 7, the value of x is ( ).$$$High +4.3$$$-3
+Insert a data x into a set of data 1, 0, 4, 5, 8 so that the median is 3, then insert the data x = _____.$$$High +4.3$$$2
+Given a set of data: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, the average of this set of data is _____.$$$High +4.3$$$3
+If the number of occurrences of 23, 25, 28, 22 in a set of data is 2, 3, 4, 3, and there is no other data, the median of this set of data is _______.$$$High +4.3$$$25
+The median and mean of a set of data 3, 3, 4, 2, 8 are ( ).$$$High +4.3$$$3
+If the average of a set of data 3, 4, x, 6, and 8 is 5, the mode of the set of data is ( )$$$High +4.3$$$4
+A set of data: 1, 2, 3, 3, 4, 5, the variance of this set of data is _____.$$$High +4.3$$$5/3
+The mode of a set of data 1, 3, 2, 5, 2, a is a, the median of this set of data is _____.$$$High +4.3$$$2
+The median and mode of a set of data 6, 8, 7, 8, 10, 9 are ( ).$$$High +4.3$$$8
+Calculate the variance of a set of data 8, 9, 10, 11, 12 as ().$$$High +4.3$$$2
+It is known that the median of a set of data -3, x, -2, 3, 1, and 6 is 1, and the variance is _____.$$$High +4.3$$$9
+The sum of the mode and the mean of a set of data 10, 13, 9, 16, 13, 10, 13 is _____.$$$High +4.3$$$25
+In a set of data 2, 3, x, y, 12, the only mode is 12, the average is 6, and the median of this set of data is ___________.$$$High +4.3$$$3
+A group of data from small to large is known: 0, 4, x, 10 has a median of 5, and the value of x is ( ).$$$High +4.3$$$6
+It is known that the median of a set of data 24, 27, 19, 13, x, 12 is 21, then the value of x is equal to _____.$$$High +4.3$$$twenty three
+Known data ${{a}_{1}}$,${{}}{2}}$,${{a}_{3}}$,${{a}_{4}}$ , ${{a}_{5}}$ is a positive integer that is not equal to each other, and the mean and median are both 3. The variance of this set of data is _____.$$$High +4.3$$$2
+The two sets of data: 3, a, 2b, 5 and a, 6, b have an average of 6, if the two sets of data are combined into a set of data, the median of the new set of data is _____.$$$High +4.3$$$6
+A group of data from small to large is known: 2, 5, x, y, 2x, 11 has an average and median of 7, and the mode of this set of data is _____.$$$High +4.3$$$5
+Known data 1, 5, 4, 3, 3, 2, the standard deviation of this set of data is _____.$$$High +4.3$$$5
+If the mode of a set of data 3, x, 4, 5, 6 is 6, the median of this set of data is ( ).$$$High +4.3$$$5
+If the variance of a set of data 2, 3, 4, 5, x is equal to the variance of another set of data 5, 6, 7, 8, 9 then x = _____.$$$High +4.3$$$1 or 6
+$(2013•$包头) A set of data is ranked as $2,4,8,x,10,14.$ from small to large. If the median of this set of data is $9, $ is the mode of the data is $ ().$$$High +4.3$$$10
+A knows that a set of data is -1, 0, 4, x, 6, 15, and the median of this set of data is 5, then the mode of the data is ().$$$High +4.3$$$6
+If the average of a set of data 1, 3, 2, 5, x is 3, the variance of this data is ( ).$$$High +4.3$$$2
+If the average of a set of data 10,9,a,1-',9 is 10, find the variance of the set of data.$$$High +4.3$$$2
+It is known that the average of a set of data 7, 6, x, 9, 11 is 9, then x is equal to _____.$$$High +4.3$$$12
+Knowing 4 sets of data: 15, 13, 15, 16, 17, 16, 14, 15, the difference between the set of data is ( ).$$$High +4.3$$$4
+The only mode of a set of data 3, 2, x, 2, 6, 3 is 2, then the median of this set of data is _____.$$$High +4.3$$$2.5
+The mode of a set of data 1, 3, 3, 5, 7 is _____.$$$High +4.3$$$3
+It is known that the variance of a set of data 1, 2, 3, 4, 5 is 2, and the variance of the other set of data 11, 12, 13, 14, 15 is _____.$$$High +4.3$$$2
+The arithmetic mean of a set of data -6, -4, 3, 4, 7, 8 is ( )$$$High +4.3$$$2
+It is known that the average of a set of data 5, 10, 15, x, 9 is 8, x = _____.$$$High +4.3$$$1
+The variance of a set of data -2, -1, 0, 1, 2 is _____.$$$High +4.3$$$2
+If the mode 0, -1, 6, 1, x is -1, then the variance of this set of data is _____.$$$High +4.3$$$34/5
+If the variance of a set of data 2,3,4,5,x is equal to the variance of another set of data 5,6,7,8,9, find the value of x.$$$High +4.3$$$6$1
+Knowing that the average of a set of data 1, 2, x, 5 is 4, the variance of this set of data is _____.$$$High +4.3$$$7.5
+If the average of 6, 8, 12, x is 9, the median of this set of data is ( ).$$$High +4.3$$$C9
+The average of a set of data 6, 4, a, 3, 2 is 5, and the variance of this set of data is ( ).$$$High +4.3$$$8
+The number of seven interest groups in a class is: 4, 4, 5, x, 6, 6, 7. The average number of data in this group is known to be 5, and the median of this set of data is ( )$$$High +4.3$$$5
+The mode of a set of data 6, 4, 5, 5, 6 is ( ).$$$High +4.3$$$5$6
+The median of a set of data 1, 3, 2, 5, 8, 7, 1 is ().$$$High +4.3$$$3
+A set of data is arranged in order of decreasing from 1, to 2, 4, x, 6, and 9. The median of the set of data is 5, and the mode of the set of data is _____.$$$High +4.3$$$6
+If the difference between a set of data 1, 2, 3, and x is 6, the value of x is #%#().$$$High +4.3$$$7
+If the mode of a set of data 2, 3, x, 5, 7 is 7, the median of this set of data is ( ).$$$High +4.3$$$5
+Knowing that the average of a set of data 5,10,15,I,9 is 8, then the median of this set of data is _____.$$$High +4.3$$$9
+A set of data is known as: a + 0.1, a + 0.2, a + 0.3, a - 0.1, a - 0.2, a, then the average of this set of data is _____.$$$High +4.3$$$a+0.05
+If the range of the set of data -2, 0, 3, 5, x is 9, then the average of the set of data is _____.$$$High +4.3$$$2.6$0.4
+A set of data, the average of 6, 4, a, 3, 2 is 5, the variance of this set of data is ().$$$High +4.3$$$8
+Known a set of data: 3,3,4,7,8, then its variance is #%#_____.$$$High +4.3$$$4.4
+Knowing that a set of data 0, 2, x, 4, 5 has a mode of 4, then the median of this set of data is _____.$$$High +4.3$$$4
+The variance of a set of data 16, 15, 14, 13, 12 is _____.$$$High +4.3$$$2
+Knowing that a set of data is 1, 2, 3, 4, 5, the variance of this set of data is _____.$$$High +4.3$$$2
+If the mode of a set of data 2, 3, I, 5, 7 is 7, the median of this set of data is ().$$$High +4.3$$$5
+The set of data 8, 8, x, 6 has the same mode as the mean, then the median of this set of data is ( ).$$$High +4.3$$$8
+There is a set of data: 2,5,5,6,7, the average of this set of data is ().$$$High +4.3$$$5
+The mode of a set of data 3, 4, 5, x, 7 is 4, then the value of x is ( ).$$$High +4.3$$$4
+A set of data: 1, 2, 3, 4, 5, 6, 7, 8, 9, 2, 4, 2, whose mode and median are ( ).$$$High +4.3$$$2$4
+A set of data: 5, 4, 6, 5, 6, 6, 3, the mode of this set of data is ( ).$$$High +4.3$$$6
+It is known that a group of data is -1, 0, 4, x, 6, and 15 in descending order, and the median is 5, and its mode is _____.$$$High +4.3$$$6
+It is known that the average of 20 data is 6, and the sum of the squares of these 20 data is 800, then the variance of this set of data is equal to _____.$$$High +4.3$$$4
+There is a set of data: 2, x, 4, 6, 7, known that the mode of this set of data is 6, then the variance of this set of data is _____.$$$High +4.3$$$3.2
+The average of a set of data 6, 4, a, 3, 2 is 4, then the variance of this set of data is ( ).$$$High +4.3$$$2
+The following set of data is known: 2,6,9,8,x,0,4,6. Their average is 5, then x is ( ).$$$High +4.3$$$5
+Knowing that the average number of data 2,1,$x$,5 is 3, the median of this set of data is _____.$$$High +4.3$$$2.5
+Insert a data x in the data -2, -1, 0, 5, 6, so that the median of this set of data is 2, then x = _____.$$$High +4.3$$$4
+A set of data: 1, 2, a average number of 0, then the variance of this set of data is _____.$$$High +4.3$$$14/3
+A set of data 5, 4, 6, 5, 6, 6, 3, the mode of this set of data is ().$$$High +4.3$$$6
+There is a set of data: 6, 7, 8, 9, 10, the average of this set of data is ( ).$$$High +4.3$$$8
+If the average of a set of data 2, 4, x, 6, and 8 is 6, the difference of the set of data is _____, and the variance is _____.$$$High +4.3$$$8$8
+A set of data is arranged from small to large as 2, 4, 8, x, 10, 14. If the median of this set of data is 9, the mode of this set of data is ().$$$High +4.3$$$10
+If the mode and the average of the sample data 10, 10, x, and 8 are the same, the standard deviation of the data of 12, 12, x + 2, 10 is _____.$$$High +4.3$$$Sqrt{2
+If the range of the set of data -1,0,2,4,x is 7, then the value of x is ()A.-3#%#B.6#%#C.7#%#D.6$$$High +4.3$$$6$-3
+A set of data: the median of 3, 2, 1, 2, 2 is _____, and the variance is _____.$$$High +4.3$$$2$0.4
+Knowing that a set of data is: 10, 8, 10, 10, 7, the variance of this set of data is _____.$$$High +4.3$$$1.6
+If the average of a set of data 1, 7, 8, a, 4 is 5, the median is m, and the range is n, then m+n=_____.$$$High +4.3$$$12
+The average of a set of data x, y, 6, 9, 4, 5 is 6, then $x+y=$_____.$$$High +4.3$$$12
+If the average of a set of data 3,7,2,a,4,6 is 5, then the value of a is ( ).$$$High +4.3$$$8
+If the set of data 2, -1, 0, 2, -1, a has a mode of 2, the average of the set of data is ?.$$$High +4.3$$$2/3
+If the average of a set of data 2, 4, x, 6, and 8 is 6, the variance of the set of data is ( ).$$$High +4.3$$$8
+The set of data -1,0,2,4,x has a range of 7 and x=_____.$$$High +4.3$$$6$-3
+The variance of a set of data 2, 3, 2, 3, 5 is _____.$$$High +4.3$$$1.2
+The average of a set of data 7, x, 8, y, 10, z, 6 is 4, then the average of x, y, z is _____.$$$High +4.3$$$-1
+If the average of a set of data 2, 4, 6, a, b is 10, then the value of a + b is _____.$$$High +4.3$$$38
+In a set of data 3, 4, x, y, 13, the only mode is 13, the average is 7, and the median of this set of data is _____.$$$High +4.3$$$4
+If the median and mean of a set of data 1, 4, 6, and x are equal, then the value of x is _____.$$$High +4.3$$$-1$3$9
+The variance of a set of data is 9, and each data in the set of data is expanded by 3 times, and the variance of a set of new data is ( ).$$$High +4.3$$$81
+Know a set of data 1, 3, 2, 2, 4, 4, find the mode and median of this set of data.$$$High +4.3$$$The mode is 2 and 4; the median is 2.5.
+If the average of a set of data 5, x, 3, 4 is 5, then $x=$_____.$$$High +4.3$$$8
+It is known that a set of data has 50 numbers, their average number is 40, and two of them are 30 and 50, and the remaining data average is _____.$$$High +4.3$$$40
+A set of data is known: -1, 4, 6, and the range of x is 9 and the value of x is determined.$$$High +4.3$$$8 or -3
+A set of data 0, -1, 6, 1, -1, the average of the set of data _____, the variance is _____$$$High +4.3$$$6.8
+The average of the two sets of data m,6,n and 1,m,2n,7 is 6. If the two sets of data are combined into one set of data, the median of the new set of data is _____.$$$High +4.3$$$7
+Knowing a set of data: 1, 3, 5, 5, 6, the variance of this set of data is ( ).$$$High +4.3$$$3.2
+Data 1, 3, 5, 12, a. where the integer a is the median of the set of data, then the average of the set of data is _____.$$$High +4.3$$$4.8 or 5 or 5.2
+If the set of data 2, 3, x, 5, 7 #% # has a mode of 7, the median of this set of data is ().$$$High +4.3$$$5
+Given a set of data: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, the average of this set of data is _____.$$$High +4.3$$$3
+It is known that the average of a set of data 6, 4, a, 3, 2 is 5, and the variance of this set of data is _____.$$$High +4.3$$$8
+Known data: 1, 2, 1, 0, -1, -2, 0, -1. The variance of this set of data is _____.$$$High +4.3$$$3/2
+The median of a set of positive integer data 5,5,7,7,x is equal to the average, then the value of x is _____.$$$High +4.3$$$1 or 6 or 11
+8, 9, 10, 11, 12, 13, 14, 15 The average of this set of data is _____.$$$High +4.3$$$11.5
+The average number of sets of data 1, 2, a is 2, and the other mode of another set of data -1, a, 1, 2, b is -1, then the data -1, a, 1, 2, b The number of digits is _____.$$$High +4.3$$$1
+For a set of data 9, 10, 12, 13, 9, 14, 7, 9, 10, 8, 8, 11, 10, the average of the set of data is _____, and the variance is _____.$$$High +4.3$$$3.8
+The median and mean of a set of data 3, 3, 4, 2, 8 are _____.$$$High +4.3$$$3 and 4
+If a group of data: 2, 4, 6, x, y has an average of 4.8, then the average number of x, y is _____.$$$High +4.3$$$6
+It is known that the median of a set of data -3, x, -2, 3, 1, and 6 is 1, and the variance is _____.$$$High +4.3$$$9
+If the variance of a set of data 2, 3, 4, 5, x is the same as the variance of another set of data 5, 6, 7, 8, 9 , then the value of x is ().$$$High +4.3$$$1 or 6
+A set of data is known: 5, 4, 6, 5, 7. The median of this set of data is _____.$$$High +4.3$$$5
+It is known that a group of data 0, x, 1, 9 has an average of 4, another group of data 3, 5, 6, and y has a mode of 5, and the data is 0, 1, 2, 3, 4, x, y. The range is _____, the average is _____, and the variance is _____.$$$High +4.3$$$6$3#4
+There are 7 numbers in the order of small to large, and the average number is 5. If the average of the first four numbers in this group is 3.5 and the average of the last four numbers is 6.5, then the seven numbers The median is _____.$$$High +4.3$$$5
+A group of data from small to large is known: 0, 4, x, 10 has a median of 5, then $x=$( ).$$$High +4.3$$$6
+Data 1, 3, 5, 12, a, #%# where the integer a is the median of the set of data, then the average of the set of data is _____.$$$High +4.3$$$4.8 or 5 or 5.2
+The median of a set of data 14, 11, 13, 10, 12, 17, 19 is _____, and the median of a set of data 323, 334, 352, 356, 344, 333, 375, 312 is _____.$$$High +4.3$$$13$339
+If the variance of a set of data 2, 3, 4, 5, x is equal to the variance of another set of data 5, 6, 7, 8, 9, then the value of x is _____.$$$High +4.3$$$1 or 6
+If a group of data is arranged from small to large as 2, 4, 8, x, 10, 14, and the median of the set of data is 9, the mode of the set of data is _____.$$$High +4.3$$$10
+There is a set of data: 2,5,5,6,7, the average of this set of data is #%#().$$$High +4.3$$$5
+Knowing the data 2, -1, 3, 5, 6, and 6, the population and the difference of the set of data are respectively ().$$$High +4.3$$$12
+The number of seven interest groups in a class is 4, 4, 5, x, 6, 6, and 7. The average number of data in this group is known to be 5, and the median of this group of data is #%#().$$$High +4.3$$$4
+If the average of a set of data 5, x, 3, 4 is 5, then x = _____.$$$High +4.3$$$8
+Knowing a set of data 101, 98, 102, 100, 99, the standard deviation of this set of data is _____.$$$High +4.3$$$Sqrt2
+At the sports meeting, the athlete numbers of Xiaohong, Xiaoqing and Xiaoding are three consecutive odd numbers. The sum of these three numbers is 57. What are the numbers of the three of them?$$$High +4.3$$$17, 19, 21
+Observe the following equation: $4-1=3$, $9-4=5$, $16-9=7$, $25-16=9$, $36-25=11$,...these equations reflect the natural numbers. For some law, let $n(n ≥ 1)$ denote a natural number, and use the equation for n to represent this law as _____.$$$High +4.3$$$${{(n+1)}^{2}}-{{n}^{2}}=2n+1$($n ≥ 1$, n is a natural number)
+The following set of numbers are arranged in order: 2, -4, 8, 16, and ?, the 2016 number is () A.$2^{2016}$#%#B.$-Z^{2U16}$ #%#C.$-2^{2015}$#%#D. None of the above$$$High +4.3$$$B
+The following groups are positive or negative () A.8,4,-2#%#B.2,5,4,\frac{1}{Z}#%#C.-6 ,0.5,0#%#D.0,6,9$$$High +4.3$$$B
+Among the following groups, the group that can form the number of hyphens is ( ) A.2,5,6#%#B.2,3,4#%#C.6,7,9#%#D.3 , 4, 5$$$High +4.3$$$D
+Among the following groups, the number of the Pythagorean shares can be ( ) A.13,16,19#%#B.5,13,15#%#C.18,24,30#%#D.12,20 , 37$$$High +4.3$$$C
+Observe the following order of numbers: 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 3, 2, 1, ..., then the 2025th number is _____.#%#(2 Observe the following equations: ${{2}^{1}}=2$, $2^{2}=4$, $2^{3}=8$, $2^{4}=16$, $2^{ 5}=32$, $2^{6}=64$,..., by observation, use the law you find to determine the unit digit of $7-2^{2017}$ is _____.$$$High +4.3$$$5
+Among the following groups, the results are equal to ( ) A.-12 and (-1) 2 #%#B. and ±4 #%#C.-|-2| and -(-2) #%#D .(-3)3 and -33$$$High +4.3$$$D
+Observe the following groups of hyphens and look for the law: 14,3,5;26,8,10;38,15,17;410,24,26;..., according to the above rule, the number of Pythagorean groups is ( ) A.14, 48, 49#%#B.16,12,20#%#C.16,63,65#%#D.16,30,34$$$High +4.3$$$C
+Among the following groups, the number of hyphens is () A.5,6,7#%#B.3,4,9#%#C.5,3,6#%#D.10,24, 26$$$High +4.3$$$D
+In the following groups of data, the mode, median, and average are equal ( ) A.4,9,3,3#%#B.12,9,9,6#%#C.9,9 ,4,4#%#D.8,8,4,5$$$High +4.3$$$B
+The following groups of data are not the number of Pythagoreans ( ) A.12,18,22#%#B.3,4,5#%#C.7,24,25#%#D.9,12,15$$$High +4.3$$$A
+It is known that the following groups of data can constitute an isosceles triangle ( ) A.1, 2, 1#%#B.2, 2,1#%#C.1,3,1#%#D.2, 2,5$$$High +4.3$$$B
+Among the following groups, the reciprocal of each other is ( ) A.-2 and 2#%#B.-2 and $\frac{1}{2}$#%#C.-2 and $-\frac {1}{2}$#%#D.-2 and |-2|$$$High +4.3$$$C
+The following four sets of numbers are not a set of hyphens ( ) A.3,4,5#%#B.5,12,13#%#C.6,8,10#%#D.5, 8,13$$$High +4.3$$$D
+Please write three sets of hysters: _____.$$$High +4.3$$$3, 4, 5; 6, 8, 10; 9, 12, 15
+In the formula $(-5)+3\times {{(-2)}^{3}}$, the first operation is _____.$$$High +4.3$$$${{\left( -2 \right)}^{3}}$
+Observe the following set of hysteres: 13,4,5;25,12,13;37,24,25;49,40,41;515,m,n. According to the law you found, you can get m+n=_____ .$$$High +4.3$$$225
+Observe the following set of numbers: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, ..., where each number n appears n times consecutively , then the 119th number of this group is _____.$$$High +4.3$$$15
+The following four sets of numbers are not a set of hyphens ( ) A.3,4,5#%#B.5,12,13#%#C.1.5,2,2.5#%#D.6, 8,10$$$High +4.3$$$C
+The following groups of numbers can constitute the number of Pythagorean _____. (filling the serial number) #%#16,8,10;27,8,10;3$\frac{3}{5}$,$\frac{4 }{5}$,1.$$$High +4.3$$$1
+Among the following four groups, not the number of Pythagoreans is ( ) A.7,24,25#%#B.3,5,7#%#C.8,15,17#%#D.9,40 , 41$$$High +4.3$$$B
+Among the following groups, not the number of Pythagoreans is ( ) A.5,12,13#%#B.8,15,17#%#C.3,4,5#%#D.13,14, 15$$$High +4.3$$$D
+Among the following arrays, the number of the hyphens is ( ) A.2,3,4#%#B.3,4,5#%#C.5,6,9#%#D.5,7,10$$$High +4.3$$$B
+The following four groups of numbers are the number of the hyphens ( ) A.6,7,8#%#B.5,8,13#%#C.1.5,2,2.5#%#D.5,12 , 13$$$High +4.3$$$D
+Among the following groups of data, the four numbers are proportional to ( )A.3,2,4,9#%#B.1,2,3,6#%#C.1,2,3,4#% #D.5,8,2,6$$$High +4.3$$$B
+Among the following groups, the three numbers for the number of hyphens are ( ) A.2,3,4#%#B.3,4,5#%#C.4,5,6#%#D. 6,8,12$$$High +4.3$$$B
+One of the following groups is the number of hyphens ( ) A.0.3, 0.4, 0.5#%#B.2, 3, 4#%#C.5,12,13#%#D.11,12 , 13$$$High +4.3$$$C
+Among the following groups, not the number of Pythagoreans is ( ) A.3,4,5#%#B.5,12,13#%#C.8,15,17#%#D.10,15, 18$$$High +4.3$$$D
+Observe the following numbers and fill in the appropriate numbers on the horizontal line according to a certain rule: -2, -4, 0, -2, 2, _____, _____, _____.$$$High +4.3$$$2
+The following groups: #%#1+(-6) and +6; 2-(+6) and -6; 3-(-6) and -(+6); 4-(+6) and +( -6); 5+(+6) and -(-6); 6+6 and -(+6). Among them, the opposite numbers are ( ) A.3 group #%#B.4 group #% #C.5组#%#D.6组$$$High +4.3$$$A
+Among the following groups, the reciprocal of each other is ( ) A.1 and 0#%#B.$\frac{2}{3}$ and $-1\frac{1}{2}$#%#C .-4 and 4#%#D.-0.25 and -4$$$High +4.3$$$D
+The following groups of data belong to the number of Pythagoreans are ( ) A.2,3,4#%#B.4,5,6#%#C.7,8,9#%#D.5,12,13$$$High +4.3$$$D
+Notice that ${{18}^{2}}=324$, ${{24}^{2}}=576$, which are respectively composed of three consecutive digits 2, 3, 4 and 5, 6, and 7 Arranged, and ${{66}^{2}}=4356$, which is composed of four consecutive numbers 3, 4, 5, and 6, and the next square is _____.$$$High +4.3$$$74^2
+Observe the following groups of hyphens and find the law: 13, l, 5; 25, 12, 13; 37, 24, 25; 49, 40, 41. #% # Please write the fifth group with the above rules Number of shares: _____.$$$High +4.3$$$11,60,61
+According to the first formula in each group, directly write the number of the following formula. #%#24÷8=3; 6000÷20=300; 12÷4=3.#%#240÷80=_____; 600 ÷2=_____; 1200÷400=_____.$$$High +4.3$$$3
+Observe the following numbers and fill in the appropriate numbers on the horizontal line according to certain rules: #%#-2,-4,0,-2,2,_____,_____,_____.$$$High +4.3$$$0,4,2
+M^{$一}, observe the equation $:9-1=2><4$;#%#$25-1=4×6$;#%#$49-1=6×8$;#%# This law writes the nth equation: _____.$$$High +4.3$$$4n(n+1)
+Among the following groups of data, the mode, median, and average are equal (). A.7,7,8,9#%#B.8,9,7,8#%#C.9 , 9, 8, 7, D.4, 2, 3, 5$$$High +4.3$$$B
+Observe the following equations 9-1=8, 16-4=12, 25-9=16, 36-16=20,... These equations reflect a certain law between natural numbers, let n (n≥1) Represents a natural number, which is expressed by the equation for n as _____.$$$High +4.3$$$${{\left( n+2 \right)}^{2}}-{{n}^{2}}=4\left( n+1 \right)$(n is a natural number and n≥1)
+The following three groups of numbers are the number of the hyphens ( ) A.7,8,9#%#B.3,4,5#%#C.1.5,5,2.5#%#D.20,28 , 35$$$High +4.3$$$B
+Among the following four groups, not the number of Pythagoreans is ( ) A.3,4,5#%#B.5,12,13#%#C.4,5,6#%#D.8,15, 17$$$High +4.3$$$C
+Among the following groups, the opposite group is ( )A.$-\frac{1}{3}$ and 0.333#%#B.-[+(-7)] and 7#%#C .$-\frac{1}{4}$ and 0.25#%#D.-(-6) and 6$$$High +4.3$$$C
+Among the following groups, the set of the number of the hyphens is ( ) A.3, 4, 25#%#B.6,8,10#%#C.5,12,17#%#D.8, 7,6$$$High +4.3$$$B
+There are the following groups of data: 16, 8, 10 212, 13, 5 37, 8, 15 440, 41, 9. Among them are the number of hyphens ( ) A.4 group #%#B.3 group #% #C.2组#%#D.1组$$$High +4.3$$$B
+Among the following groups, the set of the number of the hyphens is ( ) A.4,5,6#%#B.5,7,12#%#C.12,13,15#%#D.21, 28,35$$$High +4.3$$$D
+There is a set of equations $:1^{2}+2^{2}+2^{2}=3^{2},2^{2}+3^{2}+6^{2}=7^ {2},3^{2}+4^{2}+12^{2}=13^{2},4^{2}+5^{2}+20^{2}=21^{2 }·······$Please observe the law of their composition, and write the 8th equation as _____ with the law you found.$$$High +4.3$$$$8^{2}+9^{2}+72^{2}=73^{2}$
+Observe each of the following formulas and fill in the blanks according to the rules you found: 4 × 5 = 20, 3 × 6 = 18; 5 × 6 = 30, 4 × 7 = 28; 6 × 7 = 42, 5 × 8 = 40. It is known that 122×123=15006, then (-121)×124=_____.$$$High +4.3$$$-15004
+Among the following four groups, the group that is not the number of hyphens is ( ) A.15,8,17#%#B.9,12,15#%#C.3,5,7#%#D.7 ,24,25$$$High +4.3$$$C
+Observe the following order of numbers: 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 3, 2, 1, ..., then the 2013 number is ( ) A.1 #%# B.2#%#C.3#%#D.4$$$High +4.3$$$C
+When the famous Italian mathematician Fibonacci studied the rabbit breeding problem, he found such a set of numbers: 1,1,2,3,5,8,13,..., please write the 10th according to the law of this set of numbers. The number is _____.$$$High +4.3$$$55
+Observe the regularity of the arrangement of the following groups of numbers, and then write the following three numbers. #%#(1)-2,4,-6,8,-10,_____,_____,_____,...;#%# (2)-1,2,3,-4,5,6,-7,8,9,_____,_____,_____,...$$$High +4.3$$$12
+There is such a set of numbers, 1, 3, 5, 7, 9, ... then the nth number is ( ) A. 2n-1 #% #B.2n#%#C.n#%#D.2n+1$$$High +4.3$$$A
+Observe the following five groups: #%#1,-1,-1;#%#2,-4,-6;#%#3,-9,-15;#%#4,-16,-28; #%#5,-25,-45;#%#...#%#(1) What is the relationship between the second number in each group and the first number? #%#(2) In each group What is the relationship between the third number and the first number? #%#(3) Calculate the sum of the 50th group number.$$$High +4.3$$$=-7400
+The following group is the group of the number of the hyphens is ( ) A.2, 3, 4#%#B.4, 5,6#%#C.7,8,9#%#D.9,40 41$$$High +4.3$$$D
+Among the following groups, those that are not part of the Pythagorean are ( ) A.1.5, 2, 2.5 #% #B.7, 24, 25#%#C.6,10,8#%#D.9,12 ,15$$$High +4.3$$$A
+Write three sets of Hooks, so that each group of Hooks must appear 12, _____; _____; _____.$$$High +4.3$$$12,16,20
+The following four groups are: 17, 24, 25; 20.3, 0.4, 0.5; 31.5, 2, 2.5; 46, 8, 9. There are several groups of Pythagorean numbers ( ) A.1 Group #% #B.2组#%#C.3Group#%#D.4Group$$$High +4.3$$$A
+Among the following groups, the number of the hyphens is ( ) A.1, 2, 3#%#B.2, 3, 4#%#C.3, 4, 5#%#D.4, 5 , 6$$$High +4.3$$$C
+Among the following groups, the number of non-hooks is ( ) A.5,4,3#%#B.7,24,25#%#C.6,8,9#%#D.9,12,15$$$High +4.3$$$C
+The known equation $3x+y=12$ has many group solutions. Please write a set of solutions that are opposite to each other, _____.$$$High +4.3$$$6,-6
+Among the following groups, the opposite numbers are () A.2 and $\frac{1}{2}$#%#B.-2 and $-\frac{1}{2}$#%# C.-2 and |-2|#%#D.-(-2) and 丨-2|$$$High +4.3$$$C
+Observe the following column numbers and fill in the appropriate numbers according to certain rules: 1, 2, 4, -8, _____, _____.$$$High +4.3$$$16,-32
+There are three white table tennis balls numbered 1, 2, and 3 in the box, and three yellow table tennis balls numbered 4, 5, and 6 in the box B. Now randomly take one table tennis ball from each box. , the probability that the sum of the numbers of the table tennis balls is greater than 6 is _____$$$High 4.1$$$1. How much does it cost to buy a chair and a table? #%#<img>
+An e-commerce sales a summer fashion, the purchase price of 40 yuan / piece, the price of 110 yuan / piece, sales of 20 per day, each sale of a piece of e-commerce platform promotion costs a yuan (a> 0). The next 30 days This fashion will launch a summer promotion of "1 yuan per day", that is, the daily unit price will be reduced by 1 yuan from the previous day from the first day. According to market research, the price per unit of the fashion is reduced by 1 yuan per day. 4 pieces. In these 30 days, the profit after the daily payment of the e-commerce platform promotion fee increases with the increase of the number of days t (t is a positive integer), and the value of a should be _____.$$$High 4.1$$$0 < a < 6
+In order to welcome the provincial sports meeting in a certain city, the city organized a trapezoidal flower team to participate in the opening ceremony, requiring a total of 60 rows, 40 people in the first row, each row behind each row is more than one person in the previous row, then each row The function expression between the number of people y and the number of rows x is _____. (write the range of values ​​of the arguments)$$$High 4.1$$$y=x+39 (x is an integer of 1≤x≤60)
+A sales advertisement: the first floor price is 5,400 yuan per square meter. For each additional floor, the price per square meter is increased by 150 yuan (below the fifth floor), then the property price is y (yuan / $m^2$) and floor x The function relation of (layer) is _____, and the value range of the independent variable is _____.$$$High 4.1$$$1 < x < 5 and x is an integer
+The sum of three consecutive natural numbers is not more than 12, and the natural numbers that meet the conditions are common ( ) A.1 group #%#B.2 group #%#C.3 group #%#D.4 group$$$High 4.3$$$D
+A secondary school stipulates that the student's semester sports comprehensive score is 100 points, of which, the mid-term test scores account for $40\%$, the final exam scores account for $60\%$, and Xiaohai's mid-term and final grades (percentage) are 80 points. 90 points, the comprehensive sports score of Xiaohai this semester is _____ points.$$$High +4.3$$$86
+Three numbers of 3, 5, and 0 can be used to form _____ different three-digit numbers.$$$High +4.3$$$4
+Xiao Wang recorded the height of the group's classmates (unit: cm) #%#158,163,154,160,165,162,157,160#%#Please calculate the average height of this group of students.$$$High +4.3$$$$159\frac{7}{8}$
+In the frequency distribution histogram, there are 11 small rectangles. If the height of one small rectangle in the middle is equal to the height of the other 10 small rectangles and $\frac{1}{4}$, the total data is 160, then the middle group The frequency is ( ) A.32#%#B.0.2#%#C.40#%#D.0.25$$$High +4.3$$$A
+This year's physical education examination has added a skipping test program. The following is the test score (unit: one/minute) of a group of 10 (10 students) recorded by the recorder during the test. #%#176 180 184 180 170 176 172 164 186 180# %# The mode, median, and average of the data for this group are () A.180, 180, 178#%#B.180,178,178#%#C.180,178,176.8#%#D.178,180,176.8$$$High +4.3$$$C
+When a math teacher enters the mathematics scores of 50 classmates in class, one of the classmates' scores is wrong. The data of the group will definitely change () A. Median #%#B.众数#%#C .Average #%#D.The median, mode, and average must change.$$$High +4.3$$$C
+A rectangular door frame is 1.5 meters wide and 2 meters high. To enhance stability when installing the door frame, a wooden strip is nailed at the diagonal of the door frame. The wooden strip is at least _____ meters long.$$$High +4.3$$$2.5
+The three lengths of the following lengths are connected in series, and the right triangles can be formed. ( ) A.1, 2, 3#%#B.2, 3, 4#%#C.1.5, 2, 2.5#%# D.4, 5, 6$$$High +4.3$$$C
+The weight (unit: kg) of 8 students in a school (1) class is #%#; 耆9, 40, 43, 43, 43, 45, 45, 46, then the mode of this group of data is _____ ,$$$High +4.3$$$43
+It is known that two wooden strips are 6 cm long and 3 cm long. If three wooden strips are used to form an isosceles triangle, the length of the third wooden strip is _____cm.$$$High +4.3$$$6
+In response to the construction of the school's "School Campus", the students of the Sunshine class actively donated books. The number of books donated by the Hongzhi study group is: 5,7,x,3,4,6. 5, the mode, median and variance of this set of data are () A.$5,5,\frac{3}{2}$#%#B.5,5,10#%#C. $6,5.5,\frac{11}{6}$#%#D.$5,5,\frac{5}{3}$$$High +4.3$$$D
+In a histogram of frequency distribution, there are five groups of A, B, C, D, and E. The frequency is 10, 15, 25, 35, and 10 respectively. In the histogram, the ratio of the height of the rectangle is _____.$$$High +4.3$$$2:3:5:7:2
+A. In the physical fitness test of the junior high school graduates of Chongqing in the 17th year of the 20th year, there were 7 students in the 9th grade of a school. The fitness test scores (unit: minute) 1I: 50, #%#48,47,50,48,49, 48, the mode of this set of data is _____.$$$High +4.3$$$48
+The average bar of 3$m$ is sawn into 5 segments, each segment is _____$m$, and each segment is _____ (filled in).$$$High +4.3$$$$\frac {1}{5}$
+In order to go out, you must first decipher the password lock on the door. The password is a four-digit number consisting of four numbers, 7, 8, 3, and 9. You must try _____ times to open the door.$$$High +4.3$$$twenty four
+Eight students scored 80, 82, 79, 69, 74, 78, x, 81 in a math test. The average of the scores is 77, and the value of x is _____.$$$High +4.3$$$73
+In May 2012, the data of a pollution index in Qiqihar City's weekly air quality report was: 31, 35, 30, 31, 34, 32, 31. The median and mode of this group of data are ( ) A. 32,31#%#B.31,31#%#C.31,32 #%#D.32,35$$$High +4.3$$$B
+A two-digit number, the number on the ten digits is two times larger than the number on the digits. After the digits of the two digits and the digits are reversed, the two digits are smaller than the original number by 45. The original two digits are _____.$$$High +4.3$$$72
+The mode of a group of data 1, 3, 3, 5, 7 is _____.$$$High +4.3$$$3
+A set of data: 2,1,3,x,7,-9,..., satisfies "From the third number, if the first two numbers are a and b in turn, the number immediately following is 2a-b For example, if the third number "3" in the set of numbers is obtained by "2×2-1", then x in the set of data is ( ) A.-2#%#B.-1#%# C.1#%#D.2$$$High +4.3$$$B
+A set of data is arranged in order of decreasing from 1, to 2, 4, x, 6, and 9. The median of the set of data is 5, and the mode of the set of data is _____.$$$High +4.3$$$6
+A class implements a weekly quantitative assessment system, and the results of the assessment are counted at the end of the semester. The results show that the average scores of the two groups are the same, and the variance is ${S_{甲}}^{2}=36$, ${S_ {B}}^{2}=30$, the stability of the two groups of results () A. Group A is more stable than Group B #%#B. Group B is more stable than Group A#%#C.A And the results of the two groups are as stable #%#D. Unable to determine$$$High +4.3$$$B
+Wang Fang and Li Ming compete in typing. Wang Fang plays 0.9 words per second. Li Ming plays 50 words in 1 minute. ( ) A. Wang Fang Express #%#B.李明快#%#C.Wang Fang and Li Ming As fast$$$High +4.3$$$A
+The average number of data 2, x, 4, 3, 3 is 3, then the median, mode, and variance of the data are ( ).$$$High +4.3$$$3$3
+There are 56 students in the 7th grade (2) class. To understand the time required for the whole class to complete mathematics, you need to collect ______ data.$$$High +4.3$$$56
+If the weight (unit: kg) of 7 students is: 40, 42, 43, ###, 47, 47, 58 respectively, the average of the data is () A.44#%#B.45 #%#C.46#%#D.47$$$High +4.3$$$C
+A class teacher wants to know how much pocket money the students have per month on average, and randomly selected 10 students to investigate. Their monthly pocket money (unit: yuan) is 10, 20, 20, 30, 20, 30, 10 , 10, 50, 100, the average monthly pocket money of the class is () A.10 yuan #%#B.20元#%#C.30元#%#D.40元$$$High +4.3$$$C
+The scores of the 7 students in a group of senior high school entrance examinations (out of 30 points) are: 27, 30, 29, 27, 30, 28, 30, then the mode and median of this group of data are () A.30 ,27#%#B.30,29#%#C.29,30#%#D.30,28$$$High +4.3$$$B
+If the variance of a set of data 2, 3, 4, 5, x is equal to the variance of another set of data 5, 6, 7, 8, 9 , find the value of x.$$$High +4.3$$$6$1
+A sample of 40 data is known, and it is divided into six groups. The frequency of the first group to the fourth group is 10, 5, 7, and 6, respectively. The frequency of the fifth group is 4, and the frequency of the sixth group is _. ____.$$$High +4.3$$$8
+The five students of a school football interest group shot the goal in a shot training: 6,7,7,8,#%#9. The mode of this group of data is () A.6# %#B.7#%#C..8#%#D.9$$$High +4.3$$$B
+The following five groups are used as the side lengths of a triangle: 16, 8, 10; 213, 5, 12; 31, 2, 3; 49, 40, 41; 5$3\frac{1}{2}$, $4 \frac{1}{2}$, $5\frac{1}{2}$. Among them, which can form a right triangle ( ) A.2 group #%#B.3 group #%#C.4 group#% #D.5组$$$High +4.3$$$B
+A number of households in a community in a community surveyed by a middle school student environmental protection team used the number of environmentally friendly convenience bags within one week. The result was (unit: only): 6,5,7,8,7,5,8,10,5,9 Using these data, it is estimated that 2000 households in the community use environmentally friendly convenience bags within 1 week ( ) A.2000 only #%#B.14000only#%#C.21000only#%#D.98000$$$High +4.3$$$B
+A set of data is known: 60, 30, 40, 50, 70. The average and median of this set of data are ( ) A.60, 50 #% #B.50, 60#%#C.50, 50#%#D.60,60$$$High +4.3$$$C
+In a language unit test, the difference between the scores of 10 students in a group and the average grade of the whole class (unit: minute) is 3, 10, -2, -8, 6, 0, 15, -8, -1, respectively. 9. If the average grade of the class is 85, ask for the average score of this group.$$$High +4.3$$$87.4
+The median of a set of data 3, 4,6,8,x is x, and x is the inequality group $\left\{ \begin{matrix}x-3\ge 0 \\5-x>0 \ \\end{matrix} \right.$ integer, find the average of this set of data.$$$High +4.3$$$So the answer is: 5
+At the "Arbor Day", the number of trees planted in the six groups of the eight (1) classes are: 5, 7, 3, x, 6, and 4. The mode is known to be 5, and the average of the data is The number is _____.$$$High +4.3$$$5
+Cooperation and exchange is one of the important ways to learn mathematics. The number of cooperative learning groups in each class of a school is 8,7, 7,8,9,7. The mode of this group of data is ( ) A. 7#%#B.7.5#%#C.8#%#D.9$$$High +4.3$$$A
+The average number of the following data is calculated in two ways: 35, 35, 34, 47, 47, 84, 84, 84, 84, 125.$$$High +4.3$$$=65.9
+Fill in the number in the box of 5$\square$6$\square$ so that the four digits are multiples of 2 and 5, and there are _____ different combinations, the number of which is _____.$$$High +4.3$$$5060, 5160, 5260, 5360, 5460, 5560, 5660, 5760, 5860, 5960
+Four wooden strips with lengths of 5, 4, and 5, and three of them are selected to form a triangle. The selection method has _____ species.$$$High +4.3$$$3
+With 1, 2, 3, and three numbers, how many three-digit numbers can you make?$$$High +4.3$$$123, 132, 213, 231, 312, 321
+Exploring the number "black hole": "black hole" originally refers to a very strange celestial body. It is small, dense, and attractive. Any object that comes to it does not want to "crawl" again. There is no such thing as a black hole in the number. "All numbers that satisfy a certain condition can be sucked in by an operation. No one can escape its clutches. For example, if you want to find a multiple of 3, first put each of these numbers. The numbers on the digits are all cubed, then added together to get a new number, then the number on each digit of the new number is cubed again, summed... and the operation is repeated, and a fixed number $t$ is obtained. We call it the number "black hole". Can you find the number t? The number $t=$_____.$$$High +4.3$$$153
+Suppose a hotel has a total of 30 rooms, each numbered from 1 to 30 thirty. Now, you need to engrave the number on each room key. The number must be so that the waiter must easily identify which room key. It is not easy for outsiders to guess. There is now a way to encode: two numbers on each key, one on the left is the remainder of the original room number divided by 5, and the right A number is the remainder of the original room number of the key divided by 7. The original room number corresponding to the key of 36 is _____.$$$High +4.3$$$13
+It is known that in one sample, 50 data falls within five groups, and the number of data of the first, second, third, fourth, and fifth groups is 2, 8, 15, 20, and 5, respectively. The frequency is _____.$$$High +4.3$$$20
+The three lengths of the following lengths are connected in series, and the right triangles can be formed. ( ) A.1, 2, 3#%#B.4,6,8#%#C.6,8,10#%# D.5,5,4$$$High +4.3$$$C
+The sample data 10, 10, x, 8 has the same number and average number, and the variance of this set of data is _____.$$$High +4.3$$$2
+The wooden chair is shaken, and the wooden strip is often slanted under the chair. This is the use of _____. (filling number) #%#1 The stability of the triangle can be easily deformed by the parallelogram.$$$High +4.3$$$1
+If x represents a two-digit number, y also represents a two-digit number, Xiao Ming wants to use x, y to form a four-digit number, and put x on the right side of y, the following expression is correct () A.yx# %#B.x+y#%#C.100x+y#%#D.100y+x$$$High +4.3$$$D
+The wooden chair is shaken, and the wooden strip is often slanted under the chair. This is the stability of the triangle using _____. (filling number) #%#1; 2 the characteristic of the parallelogram being easily deformed.$$$High +4.3$$$1
+When Xiao Gang is doing continuous natural numbers 1, 2, 3, 4, 5, ... summation, add one more number, the result is 149, then the number added is () A.13#%#B .14#%#C.15#%#D.16$$$High +4.3$$$A
+The median of 4,11,13,10,12,17,19 of a set of data 1 is _____, and the median of a set of data 323,334,352,356,344,333,375,312 is _____.$$$High +4.3$$$13$339
+A school organized three classes of students in the eighth grade to participate in the mathematics competition. The average score of the three classes was 72.5. The number of participants in the class was 30, with an average of 75 points. The number of participants in the three classes was 30, with an average score of 80. The number of three classes of cold participation is 40, and the average score of the three classes is _____.$$$High +4.3$$$65
+A set of data: the variance of 3, 2, 1, 2, 2 is ____.$$$High +4.3$$$0.4
+At the Arbor Day, the students go to plant trees. If each group has 20 trees, 25 groups can be planted. If each group has 5 trees, how many groups can be planted?$$$High +4.3$$$20
+A two-digit number is x, and a two-digit number is y. If you place a two-digit number x in front of y to form a four-digit number, the four-digit number is ( )A.$10x+y$#% #B.x+y #%#C.100x+y#%#D.1000x+y$$$High +4.3$$$C
+The following is the production of a car factory from July to December: (unit: car) 480, 420, 450, 540, 540, 60 0 of which 540 is the data of this group ( ) A. mode #% # B. median Number #%#C.Average$$$High +4.3$$$A
+Each of the following groups represents the length of three wooden sticks. After connecting them end to end, the set of triangles can be ( ) A.1,2,1#%#B.1,2,2#%#C. 1,2,3#%#D.1,2,4$$$High +4.3$$$B
+There are 10 students in a class who participate in the "fixed-point shooting" game of basketball. Each person casts 10 times. Their goals are 6,1,4,2,6,4,8,6,4,6. The range and median of the data are ( ) A.7, 5#%#B.5,5#%#C.5,4#%#D.7, of 4$$$High +4.3$$$A
+The results of a man marathon runner in the past six matches (in minutes: 145, 147, 140, 129, 136, 125, respectively, the average number of scores in this group is () A.136 minutes #%#B.137分钟#%#C.138 minutes #%#D.139 minutes$$$High +4.3$$$B
+Knowing that the average of a set of data 1, 2, 2, and x is 3, the difference between the poles of this set of data is _____.$$$High +4.3$$$6
+Two students from Grade A and B have two sets of data for the semester's math test. The variance of the sample is 0.93, and the variance of B is 1.06. The two students have a stable score of _____.$$$High +4.3$$$A
+30 matchsticks are connected end to end to form a right-angled triangle. The three sides of the match are made up of _____, _____, _____ matchsticks.$$$High +4.3$$$13
+Among the following groups, the numbers that can form the number of hyphens are ( ) A.13,16,19#%#B.5,13,15#%#C.18,24,30#%#D.12, 20,37$$$High +4.3$$$C
+In an information technology test, the scores (units: points) of 8 students of an interest group are: 7, 10, 9, 8, 7, 9, 9, 8 respectively, then the number of people in this group of data is _____ .$$$High +4.3$$$9
+We learned about data collection, the following is correct ( ) A. The line chart is easy to display the trend of data #%#B. The bar chart shows the size of the percentage in each group #%#C. The pie chart shows the specific data in the whole section #%#D. The histogram can show the size of the data$$$High +4.3$$$A
+Among the following four groups, one of them is different from the other three groups. This group is ( ) A.3,4,5#%#B.6,8,10#%#C.5,12,13 #%#D.4,5,7$$$High +4.3$$$D
+In the sample frequency distribution histogram, there are 10 small rectangles. If the area of ​​the small rectangle in the middle is equal to the sum of the other 9 small rectangles, $\frac{1}{4}$, and the sample data is 200, then The frequency of the middle group is ( ) A.0.2#%#B.32#%#C.0.25#%#D.40$$$High +4.3$$$D
+In the sample frequency distribution histogram, there are 10 small rectangles. If the area of ​​the small rectangle in the middle is equal to the sum of the other 9 small rectangles, $\frac{1}{4}$, and the sample data is 200, then The frequency of the middle group is (.) A.0.2#%#B.32#%#C.0.25#%#D.40$$$High +4.3$$$D
+In a sports test, the results of the group of 8 people in Xiaofang were: 46, 47, 48, 48, 49, 49, 49, 50, and the median of the sports performance of 8 people was ( ) A.47 #% #B.48#%#C.48.5#%#D.49$$$High +4.3$$$C
+At the "Tree Planting Festival", the number of tree planting trees in the six groups of the nine (1) classes is 5, 7, 3, x, 6, and 4. The number of the data of the group is known to be 5, and the average of the data of the group is The number is _____.$$$High +4.3$$$5
+A recruitment test is divided into two types: written test and interview. The written test is based on $60\%$, and the interview is calculated by weighting average of $40\%$ as the total score. Li Ming's written test score is 90, and the interview score is 85. Then Li Ming's total score. It is _____ points.$$$High +4.3$$$88
+In March 2016, the data of a pollution index in a week's weather quality report in a certain district of Chengdu was: 60, 60, 100, 90, 90, 70, 90. The following statements about this group of data are correct ( ) A. Is 60#%#B. The median is 100#%#C. The average is 78#%#D. The range is 40$$$High +4.3$$$D
+The sum of the number on a two-digit tens place and the number on the one-digit number is 5. If the two-digit number is subtracted by 27, it is exactly equal to the two digits of the digits on the ten digits and the digits on the digits. Number, find this two digits.$$$High +4.3$$$∴This double digit is 41
+The rainfall (unit: mm) of a certain city in June was 0, 32, 11, 45, 8, 51, and 27, and the difference between the data is _____.$$$High +4.3$$$51
+Xiao Ming wants to make a wooden frame with a right-angled triangle. Which of the following four sets of wooden sticks can be just made ( ) A.7,12,15#%#B.${\sqrt {7}}$, 3, $2\sqrt {5}$#%#C.12,15,17#%#D.3,4,${\sqrt {7}}$$$High +4.3$$$D
+Ancient Greek mathematicians called the numbers 1, 3, 6, 10, 15, 21, ... as the number of triangles, where 1 is the first number of triangles, 3 is the number of the second triangle, and 6 is the number of the third triangle. This type of push, then the 8th triangle number is _____.$$$High +4.3$$$36
+Before the arrival of the Dragon Boat Festival, the Children's Welfare Institute investigated what kind of scorpions all the children loved to decide which kind of scorpion to buy. The most noteworthy of the following survey data is ( ) A. Variance #%#B. Number #%#C.中位#%#D.众数$$$High +4.3$$$D
+Xiao Ming wants to make a wooden frame with a right-angled triangle. Which of the following four sets of wooden sticks can be just made ( ) A.6,8,9#%#B.4,5,6#%#C. 5,12,13#%#D.3,4,7$$$High +4.3$$$C
+The number of books of the extracurricular books of the scholastics of the scholastics of the scholastics of the scholastics of the scholastics of the scholastic The average number of data is 16, then the median of this set of data is _____..$$$High +4.3$$$16
+Knowing that the average number of data x, y, and z is 3, the average of the data x+1, y+1, and z+1 is ( )$$$High +4.3$$$4
+Cooperative communication is one of the important ways to learn mathematics. The number of cooperative learning groups in each class of a school is 8, 7, 7, 8, 9, and 7. The mode of this group of data is ( ) A.7 #%#B.7.5#%#C.8#%# of D.9$$$High +4.3$$$A
+A In the fitness test of junior high school graduates in Chongqing in 2017, there were 7 students in the ninth grade of a school's physical fitness test scores (unit: minute) 1I: 50, #%#48,47,50,48,49,48, The mode of this set of data is _____.$$$High +4.3$$$48
+The following groups of data are the three sides of the triangle, respectively (the same unit), which can not form a right triangle is () A.0.3, 0.4,0.5#%#B.${\frac {1}{3}}$, ${\frac {1}{4}}$,${\frac {1}{5}}$#%#C.7,24,25#%#D.${\sqrt {3}}$ , 2,1$$$High +4.3$$$B
+In the tree planting activity of creating a “National Forest City” in Pakistan, the number of planting trees of five students in a group of junior high school is 5, 6, 6, 6, and 7, respectively, and the mode of this group of data is _____.$$$High +4.3$$$6
+We usually use a decimal number, which means that the decimal number uses 10 numbers: 9, 8, 7, 6, 5, 4, 3, 2, 1, 0. For example: $80739=8\times {{10}^ {4}}+0\times {{10}^{3}}+7\times {{10}^{2}}+3\times 10+9$. But the binary used in the computer has only two digits 0 and 1. So which of the decimal numbers is 1001101 in the binary?$$$High +4.3$$$=77
+A set of data: 1, -1, 3, x, 4, which has a unique mode is 3, then the median of this set of data is () A.-1#%#B.1#%#C. 3#%#D.4$$$High +4.3$$$C
+The average score of a basketball team in three games is 105 points. To make the average score 120 points, how many points should the fourth game score?$$$High +4.3$$$165
+The 50 data is divided into 3 groups, the ratio of the frequency of the first group and the third group is 1:3, and the frequency of the second group is 10, and the frequency of the third group is _____.$$$High +4.3$$$30
+In the "Data Analysis" chapter test, the results of the 7 students in the "Courage Forward" study group were 92, 88, 95, 93, 96, 95, 94. The median and the majority of the data in this group are ( ) A.94,94#%#B.94,95#%#C.93,95#%#D.93,96$$$High +4.3$$$B
+In one sample, 50 data falls within 5 groups, and the number of data in the first, second, fourth, and fifth groups is 3, 8, 20, and 3, respectively, and the frequency of the third group is _____.$$$High +4.3$$$16
+In a physical health test of a school, there are 8 male students' "lead-up" results (unit: time): 14, 12, 10, 8, 9, 16, 12, 7, respectively, the median of this group of data And the mode is () A.10,12#%#B.12,11#%#C.11,12#%#D.12,12$$$High +4.3$$$C
+All the students in the seventh grade (1) class participated in the social practice activities. The original group of 8 people, and then adjusted according to the actual situation, each group of 14 people, this is reduced by three groups, then the class has students _____ people.$$$High +4.3$$$56
+An archery athlete shoots the target 5 times in a row, and the number of rings obtained is 8, 6, 10, 7, and 9, respectively. The variance of the number of rings earned by this athlete is _____.$$$High +4.3$$$2
+Known 20 data: 28, 31, 29, 33, 27, 32, 29, 31, 29, 27, 32, 34, 29, 31, 34, 33, 30, 28, 32, 33, compiled for these data Frequency distribution table, where the frequency of the group of 30.5~32.5 is ( ) A.4#%#B.5#%#C.6#%#D.7$$$High +4.3$$$C
+The quality (unit: kilogram) of six boxes of relief materials is 17, 20, 18, 17, 18, 18, respectively. The average, mode, and variance of this group of data are ( ) A.18,18,3#% #B.18,18,1#%#C.18,17.5,3#%#D.17.5,18,1$$$High +4.3$$$B
+It is known that the sample has 30 data. In the frequency histogram of the sample, the height ratio of each small rectangle is 2:4:3:1, and the frequency of the second group is ()A.4 #%#B.12 #%#C.9 #%#D.8$$$High +4.3$$$B
+At the "Tree Planting Festival", the number of trees planted in the six groups of the nine (1) classes is 5, 7, 3, x, 6, and 4. The number of data in the group is known to be 5, and the average number of data in the group is Yes_____.$$$High +4.3$$$5
+The sum of a two-digit tens digit and a one-digit number is 7. If the two-digit number is added to 45, the result is exactly the number of the digits and the tens digits, and the two digits are The number is ( ) A.16#%#B.25#%#C.34#%#D.61$$$High +4.3$$$A
+Part of the students in Class 5 (1) participated in the calligraphy competition organized by the school. Among them, 10 boys participated in the competition, which was equivalent to $\frac{2}{3}$ of the participating girls. The winners accounted for $\frac{2 of the total number of participants. }{5}$, how many people won?$$$High +4.3$$$10
+The score of 85 in a certain number of competitions is excellent. The teacher is divided into 85 points. The scores of five students in a group are as follows: #%#+5,-10,0,+2,-7. These five What is the average score of the classmates?$$$High +4.3$$$78
+Four wooden strips with lengths of 9, 6, 5, and 4, and three of them are selected to form a triangle. The selection method has _____ species.$$$High +4.3$$$3
+The variance of a set of data 2, 3, 2, 3, 5 is _____.$$$High +4.3$$$1.2
+The average number of sample data 3, 2, 4, a, 8 is 4, then the mode of this set of data is _____.$$$High +4.3$$$3
+In the seventh grade (1) and (2) classes, 20 students were selected to play the English typing competition. The number of words entered per minute was counted by the participating students. The average number of the two classes was the same. (1) The variance is 17.5, and the variance of (2) class score is 15. It can be seen that ( ) A. (1) Class ratio (2) class is stable #%#B. (2) Class ratio (1) class is stable. #%#C. The performance of the two classes is the same. #%#D. Unable to determine which class is more stable.$$$High +4.3$$$B
+If the weight (unit: kg) of 7 students is: 40, 42, 43, 45, #%#47,47,58, then the average of the data is () A.44#%#B.45 #%#C.46#%#D.47$$$High +4.3$$$C
+The time (unit: minute) spent by a classmate on the way to school 5 times is x, y, 10, 11, 9 respectively. The average number of data in this group is known to be 10, and the variance is 2, then the value of |xy| is ( )A.1#%#B.2#%#C.3#%#D.4$$$High +4.3$$$D
+A set of data: 2,1,3,x,7,-9,..., satisfies "from the third number, if the first two numbers are a, b, then the number immediately following is 2a- b", for example, the third number "3" in the set of numbers is obtained by "2×2-1", then the x in the set of data is ( ) A.-2#%#B.-1#% #C.1#%#D.2$$$High +4.3$$$B
+There are 7 members in each of Groups A and B. The average number of weight data of the two groups is 58, and the variance is ${{}}{{}}^{2}$=36, ${{S }_{B}}^{2}$=25, which shows that () A. Group A is more stable than group B. #%#B. Group B is more stable than group A#%#C. As stable as weight #%#D. Unable to determine which group is more stable$$$High +4.3$$$B
+In one test, the difference between the 10 students in the second group and the average score of the whole class was 3, 10, -2, -8, 6, 0, 15, -8, -1, 9, and the average score of the group. Yes ( ) A.109#%#B.87.4#%#C.82.6#%#D.The above answers are not correct$$$High +4.3$$$B
+There are 10 workers producing the same type, and the number of production per day is: 55, 54, 50, 55, 57, 57, 56, 56, 52, 56. The average is a, the median is b, the mode For c, there is ( )Aa>b>c#%#Bb>c>a#%#Cc>a>b#%#Dc>b>a$$$High +4.3$$$D
+The mathematics test score of 80 or more (including 80 points) is excellent, with 80 points. Wang teacher randomly selected the scores of 6 students as -2, +6, +12, 0, -5, -13. How many points did the 6 students actually take?$$$High +4.3$$$78,86,92,80,75,67
+The length of the four line segments is 4, 6, 8, and 10, respectively, and the number of groups that can form a triangle is ( ) A.4#%#B.3#%#C.2#%#D.1$$$High +4.3$$$B
+The time (unit: minute) spent by a classmate B on his way to school is $x_{9}y, 10, 11, 9, and $ is known to have an average of 10 data and a variance of #%#2. Then the value of lx-yl is () A.1#%#B.2#%#C.3#%#D.4$$$High +4.3$$$D
+B (2015\bullet Shandong Weifang) "The Tree Planting Festival, when the number of trees planted in the 6th group of the 9th grade is 5,7,3,·T,6,4, the number of the data is known. 5, the average number of data in this group is _____.$$$High +4.3$$$5
+The sum of a two-digit tens digit and a one-digit number is 7. If the two-digit number is added to 45, the result is exactly the number of the digits and the tens digits, and the two digits are The number is ( ) A.34 #%#B.25#%#C.16#%#D.61$$$High +4.3$$$C
+The average number of sample data 3, 2, A, a, 8 is A, then the mode of this set of data is _____.$$$High +4.3$$$3
+Four wooden strips with lengths of 9, 6, 5, and 4, and three of them are selected to form a triangle. The selection method is _____.$$$High +4.3$$$3
+The three lengths of the following lengths can be composed of triangles ( ) A.3, 4, 8#%#B.4, 4, 8#%#C.5,6,10 #%#D.6,7, 14$$$High +4.3$$$C
+Use three numbers of 1, 2, and 3 to form six digits. If each number is used twice, the adjacent digits are not allowed to use the same number. (1) Try to write four six digits that meet the above conditions; #%#(2) How many of the six digits do you have calculated that meet the above criteria?$$$High +4.3$$$30
+The following groups of data are the three sides of the triangle, respectively (the same unit), which can not form a right triangle is () A.0.3, 0.4,0.5#%#B.${\frac {1}{3}}$, ${\frac {1}{4}}$,${\frac {1}{5}}$#%#C.7,24,25#%#D.${\sqrt {3}}$, 2,1$$$High +4.3$$$B
+A set of data: the median of 3, 2, 1, 2, 2 is _____, and the variance is _____.$$$High +4. 3$$$2$0.4
+It is known that the average number of data 1, 2, 2, and x is 3, and the difference between the data sets is _____.$$$High +4.3$$$6
+During the creation of the “National Garden City”, a middle school in Cangzhou organized a member of the Communist Youth League to plant trees. The number of trees planted by seven students was: 3,1,1,3,2,3,2, the median of this group of data. The number and the mode are () A.3, 2#%#B.2, 3#%#C.2, 2#%#D.3,3$$$High +4.3$$$B
+The scores of a certain mathematics study group are 63, 72, 70, 49, 66, 81, 53, 92, 69, respectively. The difference between the data is () A.47B.43L_____.34D.29$$$High +4.3$$$B
+In the long jump competition of physical education class, with 4.00 meters as the standard, if Xiaodong jumped out of 4.22 meters, it can be recorded as +0.22, then Xiaodong jumped out of 3.85 meters, recorded as _____.$$$High +4.3$$$-0.15
+If the weight (unit: kg) of 7 students is: 40, 42, 43, 45, #%#47,47,58, then the average of the data is () A.44#%#B.45 #%#C.46####.47$$$High +4.3$$$C
+The median of a set of data 3,4,6,8,x is x, and x is ge 0 \\5-x>0 that satisfies the inequality group $\left\{ \begin{matrix}x-3\ \\end{matrix} \right.$ integer, find the average of this set of data.$$$High +4.3$$$So the answer is: 5
+The number of three digits that can be composed of "1", "2", and "3" is () A.3####5######################## One$$$High +4.3$$$C
+It is known that in one sample, 40 data falls within 4 groups, and the number of data in the first, second, and fourth groups is 5, 12, and 8, respectively, and the frequency of the third group is _____.$$$High +4.3$$$15
+The three lengths of the following lengths are connected in series, and the ones that cannot form a right triangle are ( ) A.1, ${\sqrt {2}}$, ${\sqrt {3}}$#%#B.${ \sqrt {3}}$,${\sqrt {4}}$,${\sqrt {5}}$#%#C.6,8,10#%#D.5,12,13$$$High +4.3$$$B
+All three digits consisting of 0, 5, and 4 are multiples of ( ). A.2#%#B.3#%#C.5#%#D.7$$$High +4.3$$$B
+In an information technology test, the scores (unit: minute) of 8 students in an interest group are: 7, 10, 9, 8, 7, 9, 9, 8 respectively, then the mode of this group of data is _____.$$$High +4.3$$$9
+A recruitment test is divided into two types: written test and interview. The written test is based on $60\%$, and the interview is calculated by weighting the average of $40\%$. The total score is 90. The score of the test is 90, and the interview score is 85. The total score of Kong Ming is _____Minute.$$$High +4.3$$$88
+A player is a major player in the men's basketball team. In one game, he scored 28 points on 14 of 22 shots. In addition to three three-pointers, he also made _____ two-pointers and _____ free throws. (1 point for a free throw)$$$High +4.3$$$8,3
+A secondary school stipulates that the student's semester sports comprehensive score is 100 points, of which, the mid-term test scores account for $40\%$, the final exam scores account for $60\%$, and Xiaohai's mid-term and final grades (percentage) are 80. Points, 90 points, then Xiaohai's comprehensive sports score for this semester is _____ points.$$$High +4.3$$$86
+Naughty practice throws shots, throws 5 times. Removes one best score and one worst score, the average score is 9.73m; removes one best score, the average score is 9.5m; removes one worst score, average score What is the difference between the best score of 9.77m. naughty and the worst score?$$$High +4.3$$$1.08
+Use 7, 8, and 9 to form a three-digit number (the number can be repeated), and find the possibility that the number is even.$$$High +4.3$$$1/3
+The sum of a two-digit tens digit and a one-digit number is 7. If the two-digit number is added to 45, it happens to be a two-digit number formed by the digits and the ten-digit number. The two digits are _____.$$$High +4.3$$$16
+Before the arrival of the Dragon Boat Festival, the school cafeteria recommended three A, B, and C scorpion stores to investigate which scorpions the teachers and students love to eat, in order to decide which store to purchase. The following statistics, the most What is worth paying attention to is () A. Variance #%#B.Average #%#C.中位#%#D.众数$$$High +4.3$$$D
+The score of a shooting athlete in a shooting practice is (unit: ring): 7, 8, 9, 8, 6, 8, 10, 7. The mode of this group of data is _____.$$$High +4.3$$$8
+If x represents a two-digit number and y also represents a two-digit number, now I want to use x, y to form a four-digit number and x to the right of y, then the four-digit number is _____.$$$High +4.3$$$(100y+x)
+A study group in the "World Book Day" this time statistics of the group #% #5 students in the last semester reading the number of books outside the class, the data is #% #18,x,15,16,13, if this data The average number is 16, and the median of this set of data is _____..$$$High +4.3$$$16
+The variance of a set of data 1, 2, 3, 4, 5 is _____.$$$High +4.3$$$2
+Among the following four groups, one of them is different from the other three groups. This group is ( ) A.3,4,5#%#B.6,8,10#%#C.5,12,13# %#D.4,5,7$$$High +4.3$$$D
+A two-digit number x, and a two-digit number y. If the two-digit number x is placed before y to form a four-digit number, the four-digit number is ( )A.$10x+y$#%#B .xy #%#C.100x+y#%#D.1000x+y$$$High +4.3$$$C
+The sample data 10,10,x,8 has the same mode as the mean, then the median of this set of data is _____.$$$High +4.3$$$10
+In the physical education class, the results of the "lead-up" of 10 boys in the first grade of the third grade (unit: times) are 9, 14, 10, 15, 7, 9, 16, 10, 11, 9 respectively. The mode, median, and average are in turn ( ) A.10,8,11#%#B.10,8,9#%#C.9,8,11#%#D.9,10, 11$$$High +4.3$$$D
+A total of 200 male students in the eighth grade of a school, 10 randomly selected to measure their height (unit: cm): 181,176,169,155,163,175,173,167,165,166.#%# (1) Ask the average height of the 10 boys and the median of the above data; #%#(2) Estimate the number of eight-year-old boys in the school who are taller than 170cm.$$$$$$
+A group of 7 students from a class actively donated their own pocket money to support the disaster area. The amount of their donations was (unit: yuan): 50, 20, 50, 30, 50, 25, 135. The mode and median of this group of data The numbers are ( ) A.50, 20#%#B.50,30#%#C.135,50#%#D.50,50$$$High +4.3$$$D
+In the sample frequency distribution histogram, there are 11 small rectangles. If the area of ​​the small rectangle in the middle is equal to the other 10 small rectangles and the $\frac{1}{4}$ and the total sample data is 160, then the middle The frequency of a group is ( ) A.0.2#%#B.32#%#C.0.25#%#D.40$$$High +4.3$$$B
+In the chat rectification action, a city environmental protection bureau is right. #%# The units in the jurisdiction conducted a sample survey. Their comprehensive scores were 1m: 95, #%#85,83,95; 92,90,96, then the median of the data was _____, the majority Yes#%#_____.$$$$$$
+Xiao Ming wants to make a wooden frame with a right-angled triangle. Which of the following four sets of wooden sticks can be just made ( ) A.6,8,9#%#B.4,5,6#%#C .5,12,13#%#D.3,4,7$$$High +4.3$$$C
+When Xiao Gang is doing continuous natural numbers 1, 2, 3, 4, 5, ... summation, add one more number, the result is 149, then the number added is () A.13#%# B.14#%#C.15#%#D.16$$$High +4.3$$$A
+A middle school student environmental protection team sampled the number of environmentally-friendly convenience bags used by 10 households in a community within one week. The result was (unit: only): 6,5,7,8,7,5,8,10,5,9. Using these data, it is estimated that 2000 households in the community use environmentally friendly convenience bags within 1 week ( ) A.2000 only #%#B.14000only#%#C.21000only#%#D.98000$$$High +4.3$$$B
+A company wants to recruit -_____ staff members to conduct interviews and written tests for applicants. The interview score is 85 points and the written test score is 90 points. If the company gives the interview results and the written test scores of 6 and 4 respectively, then A The average score is _____ points.$$$High +4.3$$$87
+Babe has two small wooden sticks of 6dm and 8dm. I want to make a triangle learning box. There are three small wooden sticks below. She can choose ( )A.2dm#%#B.10dm#%#C.20dm$$$High +4.3$$$B
+Each of the following groups represents the length of three wooden sticks. After connecting them end to end, the set of triangles can be ( ) A.1, 2, 6#%#B.2, 2, 4#%#C. 1,2,3#%#D.2,3,4$$$High +4.3$$$D
+Please use the four numbers 1, 2, 3, 4 to form four four-digit numbers.$$$High +4.3$$$1234, 1243, 2134, 2143
+Eight students scored 80, 82, 79, 69, 74, 78, x, 81 in a math test. The average of the scores was 77, and the value of x was ( ) A.76 #%#B .75#%#C.74#%#D.73$$$High +4.3$$$D
+The three lengths of the following lengths are connected in series, and the right triangles can be formed. ( ) A.1, 2, 3#%#B.2, 3, 4#%#C.3, 4, 5#%# D.4, 5, 6$$$High +4.3$$$C
+The mode of a set of data 1, 3, 2, 5, 2, a is a, the median of this set of data is _____.$$$High +4.3$$$2
+Before the arrival of the Dragon Boat Festival, the Children's Welfare Institute will investigate which kinds of scorpions all the children love to eat in order to decide which kind of scorpion to buy. The most interesting thing in the survey data below is () A. Median or average #%#B.均####中中#%#D.众数$$$High +4.3$$$D
+A group of 7 students actively donated their pocket money to support the disaster area. The amount of their donation (unit: yuan) is: 50, 20, 50, 30, 50, 25, 135. The median and median of this group of data are respectively Yes ( ) A.50,20#%#B.50,30#%#C.50,50#%#D.135,50$$$High +4.3$$$C
+In the shooting competition, the best result of the Red Team is 96 rings, which is more than the blue team's best score. $\frac{1}{5}$. How many rings does the Blue Team's best score?$$$High +4.3$$$80
+Known data: 1, 2, 1, 0, -1, -2, 0, -1, the variance of this set of numbers is _____.$$$High +4.3$$$1.5
+Four wooden strips with lengths of 9, 6, 5, and 4, and three of them are selected to form a triangle. The selection method has ( ) A.1 species #%#B.2 species #%#C.3 species#%#D.4 species$$$High +4.3$$$C
+The ancient Greek mathematicians called the numbers 1, 3, 6, 10, 15, 21, ... the number of triangles. It has a certain regularity. What is the difference between the 24th triangle number and the 22nd triangle number?$$$High +4.3$$$47
+All four digits consisting of four numbers 0, 3, 4, and 5 are multiples of ( ). A.2#%#B.3#%#C.5#%#D.9$$$High +4.3$$$B
+The sales situation (unit: kg) of a fruit shop from January to June is 450, 440, 420, 480, 580, 550. The difference between this group of data is _____kg.$$$High +4.3$$$160
+The three lengths of the following lengths can form a triangle ( ) A.3,4,8#%#B.4,4,8#%#C.5,6,10#%#D.6,7,14$$$High +4.3$$$B
+Observe the following groups of hyphens and find the law: 13, l, 5; 25, 12, 13; 37, 24, 25; 49, 40, 41. #% # Please write the fifth group with the above rules Number of shares: _____.$$$High +4. 3$$$11,60,61
+Known data: 1, 2, 1, 0, -1, -2, 0, -1, the variance of this set of numbers is _____.$$$High +4.3$$$1.5
+The temperature (unit: °C) of a city in June is 23, 25, 28, 25, 28, 31, 28, then the mode and median of this group of data are () A.25, 25#%# B.28,28#%#C.25,28#%#D.28,31$$$High +4.3$$$B
+Two students, A and B, climbed from the foot of the mountain at the same time. When they reached the top of the mountain, they immediately descended. They continued to move back and forth between the foot of the mountain and the mountain. The length of the hill was 360m. The speed ratio of A and B was 6:4, and A and B. The speed of going downhill is 1.5 times of the speed of each mountain. When the third time reaches the top of the mountain, the position of the elbow is sought.$$$High +4.3$$$240
+The three lengths of the following lengths can form a triangle ( ) A.3,4,8#%#B.4,4,8#%#C.5,6,10 #%#D.6,7,14$$$High +4.3$$$C
+Use 9 digits of 0,1,2,3,4,5,6,7,8 to form a number of digits or two digits (each number is used only once), and then add the resulting numbers. Their sum cannot be ( ) A.36#%#B.117#%#C.115#%#D.153$$$High +4.3$$$C
+The number of discarded plastic bags in a school's "environmental protection team" was 4,6,8,16,16. The median and mode of the data were (A). ,16#%#B.10,16#%#C.8,8#%#D.8,16$$$High +4.3$$$D
+The median of a set of data 3,4,6,8,x is x, and x is the inequality group $\left\{ \begin{matrix}x-3\ge 0 \\5-x>0 \\ The integer of \end{matrix} \right.$, find the average of this set of data.$$$High +4.3$$$So the answer is: 5
+In order to examine the growth of a certain type of wheat, 10 wheat seedlings were taken from them, and the seedling height (unit: cm) was measured as: 16, 9, 14, 11, 12, 10, 16, 8, 17, 19 The median and range are () A.13,16#%#B.14,11#%#C.12,11#%#D.13,11$$$High +4.3$$$D
+Cooperative communication is one of the important ways to learn mathematics. The number of cooperative learning groups in each class of a school is 8, 7, 7, 8, 9, and 7. The mode of this group of data is ( ) A.7 #%#B.7.5#%#C.8#%#D.9$$$High +4.3$$$A
+The following is the production of a car factory from July to December: (unit: car) 480, 420, 450, 540, 540, 600 of which 540 is the data of this group ( ) A. mode #% #B. median # %#C.Average$$$High +4.3$$$A
+A basketball interest group of 7 students participated in the shooting competition, each voted 10, the number of votes: 8, 5, 7, 5, 8, 6, 8, the median and median of this group of data They are ( ) A.5,7#%#B.6,7#%#C.8,6#%#D.8,7$$$High +4.3$$$D
+The scores of 8 members of a study group in the mid-term test are as follows: 81, 88, 76, 91, 96, 84, x, 78. If the mode of the group is 84, then x = _____.$$$High +4.3$$$84
+In a "Chinese Good Poetry" competition, the scores of a certain team are as follows: 95, 85, 95, 85, 80, 95, 90. The mode and median of this group of data are ( ) A.95, 90 #%#B.95,85#%#C.90,95#%#D.80,85$$$High +4.3$$$A
+In a singing competition, a player scores as follows: 92, 88, 95, 93, 96, 95. The mode and median of this set of data are ( ) A.94, 94 #% #B.95, 95#%#C.94,95#%#D.95,94$$$High +4.3$$$D
+In the "Mayor Cup" football match, the scores of the six participating teams are as follows (unit: one): 3, 5, 6, 2, 5, 1, the mode of this group of data is () A.5# %#B.6#%#C.4#%#D.2$$$High +4.3$$$A
+In the "Data Analysis" chapter test, the scores of the seven students in the "Courage Forward" study group were 92, 88, 95, 93, 96, 95, 94. The median and mode of the data were ( ) A .94,94#%#B.94,95#%#C.93,95#%#D.93,96$$$High +4.3$$$B
+The ages of 10 players in a basketball team are shown in the table below. The mode and median of the 10 players are ( )#%#<img>A.19,19#%#B.19,19.5# %#C.20,19#%#D.20,19.5$$$High +4.3$$$A
+In the "Scheduled Shooting" project of the Fun Games, the shooting results (unit: one) of the eight classes of our school are: 24, 20, 19, 20, 22, 23, 20, 22. In this group of data The mode and median are () A.22, 20#%#B.22, 21#%#C.20, 21#%#D.20, 22$$$High +4.3$$$C
+The age (unit: age) of the youngest 8-digit scholars who won the 2010 "Feltz Award" was 29, 28, 29, 31, 31, 31, 29, 31, respectively. The median of this set of data is _____.$$$High +4.3$$$30
+In the DART game of the New Year's party, the throwing scores (unit: ring) of the seven students are: 7, 9, 9, 4, 9, 8, 8 respectively, then the mode of this group of data is _____.$$$High +4.3$$$9
+A class of sports committee members recorded the first group of seven students to shoot a shot (10 per person), the number of shots into the basket is 6, 10, 5, 3, 4, 8, 4, the data of this group The median and range are () A.4, 7#%#B.7,5#%#C.5,7#%#D.3,7$$$High +4.3$$$C
+The age of 12 members of a middle school basketball team is as follows: the mode and median of the team members are ()#%#<img>#%#A.16,15#%#B.15,15.5 #%#C.15,17#%#D.15,16$$$High +4.3$$$D
+There is a set of data 16, x, 19, 19, whose average is smaller than the mode, then the average and median of the set of data are () A.18,17,5#%#B.18,19 #%#C.19,18#%#D.18,18.5$$$High +4.3$$$D
+In the speech contest of “Sunshine Youth, Inspirational Youth” held in the school, the five judges gave the player Xiao Ming the equal scores: 90, 85, 90, 80, 95, then the mode of the data is () A.95B. 90C.85D.80$$$High +4.3$$$B
+Li Dabo planted 100 cherry trees in the contracted orchard. This year, he has entered the harvest period. When harvesting, he picked cherries from 6 trees and weighed the output of each tree (unit: kilogram) as shown in the following table. The median of this set of data is m, the total yield of cherries is about n, then m, n are ( ) #%#<img>A.18, 2000#%#B.19,1900#%#C. 18.5, 1900#%#D.19,1850$$$High +4.3$$$B
+In a math test, the scores of five students in a group were: 110, 105, 90, 95, 90, and the median of the five data was ( ) A.90 #%#B.95#%#C.100 #%#D.105$$$High +4.3$$$B
+In a singing competition, the score of a player is as follows: 92, 88, 95, 93, 96, 95, 94. The mode and median of this group of data are () A.94, 94 #%#B .95,95#%#C.94,95#%#D.95,94$$$High +4.3$$$D
+Six students in a class (9) of a middle school performed a one-minute skipping competition during the inter-class sports activities. The results were as follows: 126, 144, 134, 118, 126, 152. In this set of data, the mode and median were _____ and _____.$$$High +4.3$$$134$130
+In the class competition of “Creating a National Environmental Model City in Guiyang City” organized by the class, the scores of 8 students in Xiao Yue’s group were (unit: minute) 95, 94, 94, 98, 94, 90, 94, 90, then The mode of the scores of these 8 students is () A.98 points #%#B.95分#%#C.94分#%#D.90 points$$$High +4.3$$$C
+1f; In the comprehensive practice class, the number of works (unit:: pieces) made by a classmate is 5, 7, 3, 6, 4, respectively, and the median of this set of data is _____.$$$High +4.3$$$5
+In the skipping competition organized by the second class of a school, the number of skipping ropes of the first group of five students is 198, 230, 220, 216, 209, respectively. The median of the five data is () A.220#%#B.218#% #C.216#%#D.209$$$High +4.3$$$C
+There are 10 students in a class who participate in the "fixed-point shooting" game of basketball. Each person casts 10 times. Their goals are 6,1,4,2,6,4,8,6,4,6. The range and median of the data are ( ) A.7, 5#%#B.5,5#%#C.5,4#%#D.7,4$$$High +4.3$$$A
+The current height of a building measured by 7 students is as follows (unit: m): 29.8, 30.0, 30.0, 30.0, 30.2, 44.0, 30.0. #%# In this set of data, the median is _____, mode Is _____, the average is _____.$$$High +4.3$$$30.0$30.0$32.0
+In a certain number of tests, the scores of the five students were: 89, 91, 105, 105, 110. The median of this group of data is _____, the mode is _____, and the average is _____.$$$High +4.3$$$105$105$100
+In a football match, the scores of the six participating teams are as follows (unit: one): 3, 5, 6, 2, 5, 1, the mode of this group of data is () A.5 #% #B. 6#%#C.4#%#D.2$$$High +4.3$$$A
+The meteorological department of our city measured the daily temperature difference data of the seven miles in a week as follows: 4,6,6,5,7,6,8 (unit: °C), the average and the number of the data in this group are () .A.7,6#%#B.6,5#%#C.5,6#%#D.6,6$$$High +4.3$$$D
+Knowing that the average number of data x, y, and z is 3, the average of the data x+1, y+1, and z+1 is ( )$$$High +4.3$$$4
+The set of data 3, -1, 0, 2, x has a range of 5, and x is a natural number, then x = _____.$$$High +4.3$$$4
+A group of data from small to large is known: 2, 5, x, y, 2x, 11 has an average and median of 7, and the mode of this set of data is _____.$$$High +4.3$$$5
+The average of a set of data 2, 3, 5, 7, 8 is ().$$$High +4.3$$$5
+A set of data 2,1,1,2,x If the mode is 2, then x=_____, if the average is 2, then $x=$_____.$$$High +4.3$$$4
+The average number of data 3, 4, 5, a, 8 is 5, then the median of this set of data is _____, and the mode is _____.$$$High +4.3$$$5
+A set of data: 1, 2, 2, 3, if you add a data 2, the statistic that changes is ( ) A. Average #% #B. Median #%#C.众数#%#D .variance$$$High +4.3$$$D
+It is known that a group of data -3, x, -2, 3, l, 6 has a median of l, and its variance is _____.$$$High +4.3$$$9
+The average of a set of data 2, 4, x, -1 is 3, then the value of x is ( ).$$$High +4.3$$$7
+The average of the following data was calculated in two ways: 35, 35, 34, 47, 47, 84, 84, 84, 84, 125.$$$High +4.3$$$=65.9
+If the range of a set of data -2, 0, 3, 5, x is 9, then the value of x can be _____; #%#(2)(2016·通辽) has a set of data: 2, x, 4, 6,7, the mode of this set of data is known to be 6, then the variance of this set of data is _____.$$$High +4.3$$$16/5
+A set of data 1, a, 3, 6, 7 is known, its average is 4, and the median of this set of data is _____.$$$High +4.3$$$3
+Knowing that the average of a set of data 5,10,15,x,9 is 8, then the median of this set of data is _____.$$$High +4.3$$$9
+The average of a set of data 1, 2, 3, x, 5 is 3, then the variance of the set of data is _____.$$$High +4.3$$$2
+The median and mode of a set of data 1, 2, 3, 5, 3, 4, 10 are ( ).$$$High +4.3$$$3$3
+It is known that a set of data 2, 3, 4, x, 1, 4, 3 has a unique mode 4, and the average and median of the set of data are ( ).$$$High +4.3$$$3$3
+It is known that a group of data a, b, C has an average of 5 and a variance of 4, then the average and variance of the data a-2, b-2, and C-2 are respectively ().$$$High +4.3$$$3$4
+The average of a set of data 2, x, 4, 3, 3 is 3, then the median, mode, and variance of the set of data are ( ).$$$High +4.3$$$3$3
+A set of data: the variance of 3, 2, 1, 2, 2 is _____.$$$High +4.3$$$0.4
+Knowing that the set of data 5,8,10,x,9 has a mode of 8, then the variance of this set of data is _____.$$$High +4.3$$$2.8
+A set of data is subtracted by 80 at the same time, and the average of the new set of data is 2.3, then the average of the original data is _____.$$$High +4.3$$$82.3
+It is known that the median of a group of data 0, 4, x, 10 in order from small to dog is 5, then $x=$( )$$$High +4.3$$$6
+Knowing that the average number of data 1, 2, x, 5 is 2.5, the mode of this set of data is _____.$$$High +4.3$$$2
+It is known that the average of a set of data 1, 2, 2, and x is 3, and the range of the data is _____.$$$High +4.3$$$6
+The variance of a set of data 1, 2, 3, 4, 5 is _____.$$$High +4.3$$$2
+The difference between a set of data 1, 2, 3, 0.-2, -3 is ().$$$High +4.3$$$5
+If the set of data -1,0,2,4,x has a range of 7, then the value of x is ( )$$$High +4.3$$$6$-3
+After subtracting 40 from each of a set of data, the average of the resulting new set of data is 2, and the average of the original set of data is ( ).$$$High +4.3$$$42
+If the average of a set of data 1, 2, 3, x is 2, the variance of this set of data is _____.$$$High +4.3$$$1/2
+A set of data: l, 3, 2, 5, the average of x is 3, then the standard deviation of this set of data is ().$$$High +4.3$$$2
+Calculate the variance of the data of 22, 24, 26, 28, 30 is _.$$$High +4.3$$$8
+A set of data is arranged from small to large as 13, 14, 19, $a$, 23, 27, 28, 31, and the median is 22, then $x$ is equal to ( ).$$$High +4.3$$$twenty one
+It is known that a set of data is arranged from small to large as -1, 0, 4, x, 6, and 15, and the median of this set of data is 5, then the mode of the data is ( ).$$$High +4.3$$$B6
+If the set of data -1,0,2,4,x and the range is 7, the value of x is ( ).$$$High +4.3$$$-3
+Insert a data x into a set of data 1, 0, 4, 5, 8 so that the median is 3, then insert the data x = _____.$$$High +4.3$$$2
+Given a set of data: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, the average of this set of data is _____.$$$High +4.3$$$3
+If the number of occurrences of 23, 25, 28, 22 in a set of data is 2, 3, 4, 3, and there is no other data, the median of this set of data is _______.$$$High +4.3$$$25
+The median and mean of a set of data 3, 3, 4, 2, 8 are ( ).$$$High +4.3$$$3
+If the average of a set of data 3, 4, x, 6, and 8 is 5, the mode of the set of data is ( )$$$High +4.3$$$4
+A set of data: 1, 2, 3, 3, 4, 5, the variance of this set of data is _____.$$$High +4.3$$$5/3
+The mode of a set of data 1, 3, 2, 5, 2, a is a, the median of this set of data is _____.$$$High +4.3$$$2
+The median and mode of a set of data 6, 8, 7, 8, 10, 9 are ( ).$$$High +4.3$$$8
+Calculate the variance of a set of data 8, 9, 10, 11, 12 as ().$$$High +4.3$$$2
+It is known that the median of a set of data -3, x, -2, 3, 1, and 6 is 1, and the variance is _____.$$$High +4.3$$$9
+The sum of the mode and the mean of a set of data 10, 13, 9, 16, 13, 10, 13 is _____.$$$High +4.3$$$25
+In a set of data 2, 3, x, y, 12, the only mode is 12, the average is 6, and the median of this set of data is ___________.$$$High +4.3$$$3
+A group of data from small to large is known: 0, 4, x, 10 has a median of 5, and the value of x is ( ).$$$High +4.3$$$6
+It is known that the median of a set of data 24, 27, 19, 13, x, 12 is 21, then the value of x is equal to _____.$$$High +4.3$$$twenty three
+Known data ${{a}_{1}}$,${{}}{2}}$,${{a}_{3}}$,${{a}_{4}}$ , ${{a}_{5}}$ is a positive integer that is not equal to each other, and the mean and median are both 3. The variance of this set of data is _____.$$$High +4.3$$$2
+The two sets of data: 3, a, 2b, 5 and a, 6, b have an average of 6, if the two sets of data are combined into a set of data, the median of the new set of data is _____.$$$High +4.3$$$6
+A group of data from small to large is known: 2, 5, x, y, 2x, 11 has an average and median of 7, and the mode of this set of data is _____.$$$High +4.3$$$5
+Known data 1, 5, 4, 3, 3, 2, the standard deviation of this set of data is _____.$$$High +4.3$$$5
+If the mode of a set of data 3, x, 4, 5, 6 is 6, the median of this set of data is ( ).$$$High +4.3$$$5
+If the variance of a set of data 2, 3, 4, 5, x is equal to the variance of another set of data 5, 6, 7, 8, 9 then x = _____.$$$High +4.3$$$1 or 6
+$(2013•$包头) A set of data is ranked as $2,4,8,x,10,14.$ from small to large. If the median of this set of data is $9, $ is the mode of the data is $ ().$$$High +4.3$$$10
+A knows that a set of data is -1, 0, 4, x, 6, 15, and the median of this set of data is 5, then the mode of the data is ().$$$High +4.3$$$6
+If the average of a set of data 1, 3, 2, 5, x is 3, the variance of this data is ( ).$$$High +4.3$$$2
+If the average of a set of data 10,9,a,1-',9 is 10, find the variance of the set of data.$$$High +4.3$$$2
+It is known that the average of a set of data 7, 6, x, 9, 11 is 9, then x is equal to _____.$$$High +4.3$$$12
+Knowing 4 sets of data: 15, 13, 15, 16, 17, 16, 14, 15, the difference between the set of data is ( ).$$$High +4.3$$$4
+The only mode of a set of data 3, 2, x, 2, 6, 3 is 2, then the median of this set of data is _____.$$$High +4.3$$$2.5
+The mode of a set of data 1, 3, 3, 5, 7 is _____.$$$High +4.3$$$3
+It is known that the variance of a set of data 1, 2, 3, 4, 5 is 2, and the variance of the other set of data 11, 12, 13, 14, 15 is _____.$$$High +4.3$$$2
+The arithmetic mean of a set of data -6, -4, 3, 4, 7, 8 is ( )$$$High +4.3$$$2
+It is known that the average of a set of data 5, 10, 15, x, 9 is 8, x = _____.$$$High +4.3$$$1
+The variance of a set of data -2, -1, 0, 1, 2 is _____.$$$High +4.3$$$2
+If the mode 0, -1, 6, 1, x is -1, then the variance of this set of data is _____.$$$High +4.3$$$34/5
+If the variance of a set of data 2,3,4,5,x is equal to the variance of another set of data 5,6,7,8,9, find the value of x.$$$High +4.3$$$6$1
+Knowing that the average of a set of data 1, 2, x, 5 is 4, the variance of this set of data is _____.$$$High +4.3$$$7.5
+If the average of 6, 8, 12, x is 9, the median of this set of data is ( ).$$$High +4.3$$$C9
+The average of a set of data 6, 4, a, 3, 2 is 5, and the variance of this set of data is ( ).$$$High +4.3$$$8
+The number of seven interest groups in a class is: 4, 4, 5, x, 6, 6, 7. The average number of data in this group is known to be 5, and the median of this set of data is ( )$$$High +4.3$$$5
+The mode of a set of data 6, 4, 5, 5, 6 is ( ).$$$High +4.3$$$5$6
+The median of a set of data 1, 3, 2, 5, 8, 7, 1 is ().$$$High +4.3$$$3
+A set of data is arranged in order of decreasing from 1, to 2, 4, x, 6, and 9. The median of the set of data is 5, and the mode of the set of data is _____.$$$High +4.3$$$6
+If the difference between a set of data 1, 2, 3, and x is 6, the value of x is #%#().$$$High +4.3$$$7
+If the mode of a set of data 2, 3, x, 5, 7 is 7, the median of this set of data is ( ).$$$High +4.3$$$5
+Knowing that the average of a set of data 5,10,15,I,9 is 8, then the median of this set of data is _____.$$$High +4.3$$$9
+A set of data is known as: a + 0.1, a + 0.2, a + 0.3, a - 0.1, a - 0.2, a, then the average of this set of data is _____.$$$High +4.3$$$a+0.05
+If the range of the set of data -2, 0, 3, 5, x is 9, then the average of the set of data is _____.$$$High +4.3$$$2.6$0.4
+A set of data, the average of 6, 4, a, 3, 2 is 5, the variance of this set of data is ().$$$High +4.3$$$8
+Known a set of data: 3,3,4,7,8, then its variance is #%#_____.$$$High +4.3$$$4.4
+Knowing that a set of data 0, 2, x, 4, 5 has a mode of 4, then the median of this set of data is _____.$$$High +4.3$$$4
+The variance of a set of data 16, 15, 14, 13, 12 is _____.$$$High +4.3$$$2
+Knowing that a set of data is 1, 2, 3, 4, 5, the variance of this set of data is _____.$$$High +4.3$$$2
+If the mode of a set of data 2, 3, I, 5, 7 is 7, the median of this set of data is ().$$$High +4.3$$$5
+The set of data 8, 8, x, 6 has the same mode as the mean, then the median of this set of data is ( ).$$$High +4.3$$$8
+There is a set of data: 2,5,5,6,7, the average of this set of data is ().$$$High +4.3$$$5
+The mode of a set of data 3, 4, 5, x, 7 is 4, then the value of x is ( ).$$$High +4.3$$$4
+A set of data: 1, 2, 3, 4, 5, 6, 7, 8, 9, 2, 4, 2, whose mode and median are ( ).$$$High +4.3$$$2$4
+A set of data: 5, 4, 6, 5, 6, 6, 3, the mode of this set of data is ( ).$$$High +4.3$$$6
+It is known that a group of data is -1, 0, 4, x, 6, and 15 in descending order, and the median is 5, and its mode is _____.$$$High +4.3$$$6
+It is known that the average of 20 data is 6, and the sum of the squares of these 20 data is 800, then the variance of this set of data is equal to _____.$$$High +4.3$$$4
+There is a set of data: 2, x, 4, 6, 7, known that the mode of this set of data is 6, then the variance of this set of data is _____.$$$High +4.3$$$3.2
+The average of a set of data 6, 4, a, 3, 2 is 4, then the variance of this set of data is ( ).$$$High +4.3$$$2
+The following set of data is known: 2,6,9,8,x,0,4,6. Their average is 5, then x is ( ).$$$High +4.3$$$5
+Knowing that the average number of data 2,1,$x$,5 is 3, the median of this set of data is _____.$$$High +4.3$$$2.5
+Insert a data x in the data -2, -1, 0, 5, 6, so that the median of this set of data is 2, then x = _____.$$$High +4.3$$$4
+A set of data: 1, 2, a average number of 0, then the variance of this set of data is _____.$$$High +4.3$$$14/3
+A set of data 5, 4, 6, 5, 6, 6, 3, the mode of this set of data is ().$$$High +4.3$$$6
+There is a set of data: 6, 7, 8, 9, 10, the average of this set of data is ( ).$$$High +4.3$$$8
+If the average of a set of data 2, 4, x, 6, and 8 is 6, the difference of the set of data is _____, and the variance is _____.$$$High +4.3$$$8$8
+A set of data is arranged from small to large as 2, 4, 8, x, 10, 14. If the median of this set of data is 9, the mode of this set of data is ().$$$High +4.3$$$10
+If the mode and the average of the sample data 10, 10, x, and 8 are the same, the standard deviation of the data of 12, 12, x + 2, 10 is _____.$$$High +4.3$$$Sqrt{2
+If the range of the set of data -1,0,2,4,x is 7, then the value of x is ()A.-3#%#B.6#%#C.7#%#D.6$$$High +4.3$$$6$-3
+A set of data: the median of 3, 2, 1, 2, 2 is _____, and the variance is _____.$$$High +4.3$$$2$0.4
+Knowing that a set of data is: 10, 8, 10, 10, 7, the variance of this set of data is _____.$$$High +4.3$$$1.6
+If the average of a set of data 1, 7, 8, a, 4 is 5, the median is m, and the range is n, then m+n=_____.$$$High +4.3$$$12
+The average of a set of data x, y, 6, 9, 4, 5 is 6, then $x+y=$_____.$$$High +4.3$$$12
+If the average of a set of data 3,7,2,a,4,6 is 5, then the value of a is ( ).$$$High +4.3$$$8
+If the set of data 2, -1, 0, 2, -1, a has a mode of 2, the average of the set of data is ?.$$$High +4.3$$$2/3
+If the average of a set of data 2, 4, x, 6, and 8 is 6, the variance of the set of data is ( ).$$$High +4.3$$$8
+The set of data -1,0,2,4,x has a range of 7 and x=_____.$$$High +4.3$$$6$-3
+The variance of a set of data 2, 3, 2, 3, 5 is _____.$$$High +4.3$$$1.2
+The average of a set of data 7, x, 8, y, 10, z, 6 is 4, then the average of x, y, z is _____.$$$High +4.3$$$-1
+If the average of a set of data 2, 4, 6, a, b is 10, then the value of a + b is _____.$$$High +4.3$$$38
+In a set of data 3, 4, x, y, 13, the only mode is 13, the average is 7, and the median of this set of data is _____.$$$High +4.3$$$4
+If the median and mean of a set of data 1, 4, 6, and x are equal, then the value of x is _____.$$$High +4.3$$$-1$3$9
+The variance of a set of data is 9, and each data in the set of data is expanded by 3 times, and the variance of a set of new data is ( ).$$$High +4.3$$$81
+Know a set of data 1, 3, 2, 2, 4, 4, find the mode and median of this set of data.$$$High +4.3$$$The mode is 2 and 4; the median is 2.5.
+If the average of a set of data 5, x, 3, 4 is 5, then $x=$_____.$$$High +4.3$$$8
+It is known that a set of data has 50 numbers, their average number is 40, and two of them are 30 and 50, and the remaining data average is _____.$$$High +4.3$$$40
+A set of data is known: -1, 4, 6, and the range of x is 9 and the value of x is determined.$$$High +4.3$$$8 or -3
+A set of data 0, -1, 6, 1, -1, the average of the set of data _____, the variance is _____$$$High +4.3$$$6.8
+The average of the two sets of data m,6,n and 1,m,2n,7 is 6. If the two sets of data are combined into one set of data, the median of the new set of data is _____.$$$High +4.3$$$7
+Knowing a set of data: 1, 3, 5, 5, 6, the variance of this set of data is ( ).$$$High +4.3$$$3.2
+Data 1, 3, 5, 12, a. where the integer a is the median of the set of data, then the average of the set of data is _____.$$$High +4.3$$$4.8 or 5 or 5.2
+If the set of data 2, 3, x, 5, 7 #% # has a mode of 7, the median of this set of data is ().$$$High +4.3$$$5
+Given a set of data: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, the average of this set of data is _____.$$$High +4.3$$$3
+It is known that the average of a set of data 6, 4, a, 3, 2 is 5, and the variance of this set of data is _____.$$$High +4.3$$$8
+Known data: 1, 2, 1, 0, -1, -2, 0, -1. The variance of this set of data is _____.$$$High +4.3$$$3/2
+The median of a set of positive integer data 5,5,7,7,x is equal to the average, then the value of x is _____.$$$High +4.3$$$1 or 6 or 11
+8, 9, 10, 11, 12, 13, 14, 15 The average of this set of data is _____.$$$High +4.3$$$11.5
+The average number of sets of data 1, 2, a is 2, and the other mode of another set of data -1, a, 1, 2, b is -1, then the data -1, a, 1, 2, b The number of digits is _____.$$$High +4.3$$$1
+For a set of data 9, 10, 12, 13, 9, 14, 7, 9, 10, 8, 8, 11, 10, the average of the set of data is _____, and the variance is _____.$$$High +4.3$$$3.8
+The median and mean of a set of data 3, 3, 4, 2, 8 are _____.$$$High +4.3$$$3 and 4
+If a group of data: 2, 4, 6, x, y has an average of 4.8, then the average number of x, y is _____.$$$High +4.3$$$6
+It is known that the median of a set of data -3, x, -2, 3, 1, and 6 is 1, and the variance is _____.$$$High +4.3$$$9
+If the variance of a set of data 2, 3, 4, 5, x is the same as the variance of another set of data 5, 6, 7, 8, 9 , then the value of x is ().$$$High +4.3$$$1 or 6
+A set of data is known: 5, 4, 6, 5, 7. The median of this set of data is _____.$$$High +4.3$$$5
+It is known that a group of data 0, x, 1, 9 has an average of 4, another group of data 3, 5, 6, and y has a mode of 5, and the data is 0, 1, 2, 3, 4, x, y. The range is _____, the average is _____, and the variance is _____.$$$High +4.3$$$6$3#4
+There are 7 numbers in the order of small to large, and the average number is 5. If the average of the first four numbers in this group is 3.5 and the average of the last four numbers is 6.5, then the seven numbers The median is _____.$$$High +4.3$$$5
+A group of data from small to large is known: 0, 4, x, 10 has a median of 5, then $x=$( ).$$$High +4.3$$$6
+Data 1, 3, 5, 12, a, #%# where the integer a is the median of the set of data, then the average of the set of data is _____.$$$High +4.3$$$4.8 or 5 or 5.2
+The median of a set of data 14, 11, 13, 10, 12, 17, 19 is _____, and the median of a set of data 323, 334, 352, 356, 344, 333, 375, 312 is _____.$$$High +4.3$$$13$339
+If the variance of a set of data 2, 3, 4, 5, x is equal to the variance of another set of data 5, 6, 7, 8, 9, then the value of x is _____.$$$High +4.3$$$1 or 6
+If a group of data is arranged from small to large as 2, 4, 8, x, 10, 14, and the median of the set of data is 9, the mode of the set of data is _____.$$$High +4.3$$$10
+There is a set of data: 2,5,5,6,7, the average of this set of data is #%#().$$$High +4.3$$$5
+Knowing the data 2, -1, 3, 5, 6, and 6, the population and the difference of the set of data are respectively ().$$$High +4.3$$$12
+The number of seven interest groups in a class is 4, 4, 5, x, 6, 6, and 7. The average number of data in this group is known to be 5, and the median of this group of data is #%#().$$$High +4.3$$$4
+If the average of a set of data 5, x, 3, 4 is 5, then x = _____.$$$High +4.3$$$8
+Knowing a set of data 101, 98, 102, 100, 99, the standard deviation of this set of data is _____.$$$High +4.3$$$Sqrt2
+At the sports meeting, the athlete numbers of Xiaohong, Xiaoqing and Xiaoding are three consecutive odd numbers. The sum of these three numbers is 57. What are the numbers of the three of them?$$$High +4.3$$$17, 19, 21
+Observe the following equation: $4-1=3$, $9-4=5$, $16-9=7$, $25-16=9$, $36-25=11$,...these equations reflect the natural numbers. For some law, let $n(n ≥ 1)$ denote a natural number, and use the equation for n to represent this law as _____.$$$High +4.3$$$${{(n+1)}^{2}}-{{n}^{2}}=2n+1$($n ≥ 1$, n is a natural number)
+The following set of numbers are arranged in order: 2, -4, 8, 16, and ?, the 2016 number is () A.$2^{2016}$#%#B.$-Z^{2U16}$ #%#C.$-2^{2015}$#%#D. None of the above$$$High +4.3$$$B
+The following groups are positive or negative () A.8,4,-2#%#B.2,5,4,\frac{1}{Z}#%#C.-6 ,0.5,0#%#D.0,6,9$$$High +4.3$$$B
+Among the following groups, the group that can form the number of hyphens is ( ) A.2,5,6#%#B.2,3,4#%#C.6,7,9#%#D.3 , 4, 5$$$High +4.3$$$D
+Among the following groups, the number of the Pythagorean shares can be ( ) A.13,16,19#%#B.5,13,15#%#C.18,24,30#%#D.12,20 , 37$$$High +4.3$$$C
+Observe the following order of numbers: 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 3, 2, 1, ..., then the 2025th number is _____.#%#(2 Observe the following equations: ${{2}^{1}}=2$, $2^{2}=4$, $2^{3}=8$, $2^{4}=16$, $2^{ 5}=32$, $2^{6}=64$,..., by observation, use the law you find to determine the unit digit of $7-2^{2017}$ is _____.$$$High +4.3$$$5
+Among the following groups, the results are equal to ( ) A.-12 and (-1) 2 #%#B. and ±4 #%#C.-|-2| and -(-2) #%#D .(-3)3 and -33$$$High +4.3$$$D
+Observe the following groups of hyphens and look for the law: 14,3,5;26,8,10;38,15,17;410,24,26;..., according to the above rule, the number of Pythagorean groups is ( ) A.14, 48, 49#%#B.16,12,20#%#C.16,63,65#%#D.16,30,34$$$High +4.3$$$C
+Among the following groups, the number of hyphens is () A.5,6,7#%#B.3,4,9#%#C.5,3,6#%#D.10,24, 26$$$High +4.3$$$D
+In the following groups of data, the mode, median, and average are equal ( ) A.4,9,3,3#%#B.12,9,9,6#%#C.9,9 ,4,4#%#D.8,8,4,5$$$High +4.3$$$B
+The following groups of data are not the number of Pythagoreans ( ) A.12,18,22#%#B.3,4,5#%#C.7,24,25#%#D.9,12,15$$$High +4.3$$$A
+It is known that the following groups of data can constitute an isosceles triangle ( ) A.1, 2, 1#%#B.2, 2,1#%#C.1,3,1#%#D.2, 2,5$$$High +4.3$$$B
+Among the following groups, the reciprocal of each other is ( ) A.-2 and 2#%#B.-2 and $\frac{1}{2}$#%#C.-2 and $-\frac {1}{2}$#%#D.-2 and |-2|$$$High +4.3$$$C
+The following four sets of numbers are not a set of hyphens ( ) A.3,4,5#%#B.5,12,13#%#C.6,8,10#%#D.5, 8,13$$$High +4.3$$$D
+Please write three sets of hysters: _____.$$$High +4.3$$$3, 4, 5; 6, 8, 10; 9, 12, 15
+In the formula $(-5)+3\times {{(-2)}^{3}}$, the first operation is _____.$$$High +4.3$$$${{\left( -2 \right)}^{3}}$
+Observe the following set of hysteres: 13,4,5;25,12,13;37,24,25;49,40,41;515,m,n. According to the law you found, you can get m+n=_____ .$$$High +4.3$$$225
+Observe the following set of numbers: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, ..., where each number n appears n times consecutively , then the 119th number of this group is _____.$$$High +4.3$$$15
+The following four sets of numbers are not a set of hyphens ( ) A.3,4,5#%#B.5,12,13#%#C.1.5,2,2.5#%#D.6, 8,10$$$High +4.3$$$C
+The following groups of numbers can constitute the number of Pythagorean _____. (filling the serial number) #%#16,8,10;27,8,10;3$\frac{3}{5}$,$\frac{4 }{5}$,1.$$$High +4.3$$$1
+Among the following four groups, not the number of Pythagoreans is ( ) A.7,24,25#%#B.3,5,7#%#C.8,15,17#%#D.9,40 , 41$$$High +4.3$$$B
+Among the following groups, not the number of Pythagoreans is ( ) A.5,12,13#%#B.8,15,17#%#C.3,4,5#%#D.13,14, 15$$$High +4.3$$$D
+Among the following arrays, the number of the hyphens is ( ) A.2,3,4#%#B.3,4,5#%#C.5,6,9#%#D.5,7,10$$$High +4.3$$$B
+The following four groups of numbers are the number of the hyphens ( ) A.6,7,8#%#B.5,8,13#%#C.1.5,2,2.5#%#D.5,12 , 13$$$High +4.3$$$D
+Among the following groups of data, the four numbers are proportional to ( )A.3,2,4,9#%#B.1,2,3,6#%#C.1,2,3,4#% #D.5,8,2,6$$$High +4.3$$$B
+Among the following groups, the three numbers for the number of hyphens are ( ) A.2,3,4#%#B.3,4,5#%#C.4,5,6#%#D. 6,8,12$$$High +4.3$$$B
+One of the following groups is the number of hyphens ( ) A.0.3, 0.4, 0.5#%#B.2, 3, 4#%#C.5,12,13#%#D.11,12 , 13$$$High +4.3$$$C
+Among the following groups, not the number of Pythagoreans is ( ) A.3,4,5#%#B.5,12,13#%#C.8,15,17#%#D.10,15, 18$$$High +4.3$$$D
+Observe the following numbers and fill in the appropriate numbers on the horizontal line according to a certain rule: -2, -4, 0, -2, 2, _____, _____, _____.$$$High +4.3$$$2
+The following groups: #%#1+(-6) and +6; 2-(+6) and -6; 3-(-6) and -(+6); 4-(+6) and +( -6); 5+(+6) and -(-6); 6+6 and -(+6). Among them, the opposite numbers are ( ) A.3 group #%#B.4 group #% #C.5组#%#D.6组$$$High +4.3$$$A
+Among the following groups, the reciprocal of each other is ( ) A.1 and 0#%#B.$\frac{2}{3}$ and $-1\frac{1}{2}$#%#C .-4 and 4#%#D.-0.25 and -4$$$High +4.3$$$D
+The following groups of data belong to the number of Pythagoreans are ( ) A.2,3,4#%#B.4,5,6#%#C.7,8,9#%#D.5,12,13$$$High +4.3$$$D
+Notice that ${{18}^{2}}=324$, ${{24}^{2}}=576$, which are respectively composed of three consecutive digits 2, 3, 4 and 5, 6, and 7 Arranged, and ${{66}^{2}}=4356$, which is composed of four consecutive numbers 3, 4, 5, and 6, and the next square is _____.$$$High +4.3$$$74^2
+Observe the following groups of hyphens and find the law: 13, l, 5; 25, 12, 13; 37, 24, 25; 49, 40, 41. #% # Please write the fifth group with the above rules Number of shares: _____.$$$High +4.3$$$11,60,61
+According to the first formula in each group, directly write the number of the following formula. #%#24÷8=3; 6000÷20=300; 12÷4=3.#%#240÷80=_____; 600 ÷2=_____; 1200÷400=_____.$$$High +4.3$$$3
+Observe the following numbers and fill in the appropriate numbers on the horizontal line according to certain rules: #%#-2,-4,0,-2,2,_____,_____,_____.$$$High +4.3$$$0,4,2
+M^{$一}, observe the equation $:9-1=2><4$;#%#$25-1=4×6$;#%#$49-1=6×8$;#%# This law writes the nth equation: _____.$$$High +4.3$$$4n(n+1)
+Among the following groups of data, the mode, median, and average are equal (). A.7,7,8,9#%#B.8,9,7,8#%#C.9 , 9, 8, 7, D.4, 2, 3, 5$$$High +4.3$$$B
+Observe the following equations 9-1=8, 16-4=12, 25-9=16, 36-16=20,... These equations reflect a certain law between natural numbers, let n (n≥1) Represents a natural number, which is expressed by the equation for n as _____.$$$High +4.3$$$${{\left( n+2 \right)}^{2}}-{{n}^{2}}=4\left( n+1 \right)$(n is a natural number and n≥1)
+The following three groups of numbers are the number of the hyphens ( ) A.7,8,9#%#B.3,4,5#%#C.1.5,5,2.5#%#D.20,28 , 35$$$High +4.3$$$B
+Among the following four groups, not the number of Pythagoreans is ( ) A.3,4,5#%#B.5,12,13#%#C.4,5,6#%#D.8,15, 17$$$High +4.3$$$C
+Among the following groups, the opposite group is ( )A.$-\frac{1}{3}$ and 0.333#%#B.-[+(-7)] and 7#%#C .$-\frac{1}{4}$ and 0.25#%#D.-(-6) and 6$$$High +4.3$$$C
+Among the following groups, the set of the number of the hyphens is ( ) A.3, 4, 25#%#B.6,8,10#%#C.5,12,17#%#D.8, 7,6$$$High +4.3$$$B
+There are the following groups of data: 16, 8, 10 212, 13, 5 37, 8, 15 440, 41, 9. Among them are the number of hyphens ( ) A.4 group #%#B.3 group #% #C.2组#%#D.1组$$$High +4.3$$$B
+Among the following groups, the set of the number of the hyphens is ( ) A.4,5,6#%#B.5,7,12#%#C.12,13,15#%#D.21, 28,35$$$High +4.3$$$D
+There is a set of equations $:1^{2}+2^{2}+2^{2}=3^{2},2^{2}+3^{2}+6^{2}=7^ {2},3^{2}+4^{2}+12^{2}=13^{2},4^{2}+5^{2}+20^{2}=21^{2 }·······$Please observe the law of their composition, and write the 8th equation as _____ with the law you found.$$$High +4.3$$$$8^{2}+9^{2}+72^{2}=73^{2}$
+Observe each of the following formulas and fill in the blanks according to the rules you found: 4 × 5 = 20, 3 × 6 = 18; 5 × 6 = 30, 4 × 7 = 28; 6 × 7 = 42, 5 × 8 = 40. It is known that 122×123=15006, then (-121)×124=_____.$$$High +4.3$$$-15004
+Among the following four groups, the group that is not the number of hyphens is ( ) A.15,8,17#%#B.9,12,15#%#C.3,5,7#%#D.7 ,24,25$$$High +4.3$$$C
+Observe the following order of numbers: 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 3, 2, 1, ..., then the 2013 number is ( ) A.1 #%# B.2#%#C.3#%#D.4$$$High +4.3$$$C
+When the famous Italian mathematician Fibonacci studied the rabbit breeding problem, he found such a set of numbers: 1,1,2,3,5,8,13,..., please write the 10th according to the law of this set of numbers. The number is _____.$$$High +4.3$$$55
+Observe the regularity of the arrangement of the following groups of numbers, and then write the following three numbers. #%#(1)-2,4,-6,8,-10,_____,_____,_____,...;#%# (2)-1,2,3,-4,5,6,-7,8,9,_____,_____,_____,...$$$High +4.3$$$12
+There is such a set of numbers, 1, 3, 5, 7, 9, ... then the nth number is ( ) A. 2n-1 #% #B.2n#%#C.n#%#D.2n+1$$$High +4.3$$$A
+Observe the following five groups: #%#1,-1,-1;#%#2,-4,-6;#%#3,-9,-15;#%#4,-16,-28; #%#5,-25,-45;#%#...#%#(1) What is the relationship between the second number in each group and the first number? #%#(2) In each group What is the relationship between the third number and the first number? #%#(3) Calculate the sum of the 50th group number.$$$High +4.3$$$=-7400
+The following group is the group of the number of the hyphens is ( ) A.2, 3, 4#%#B.4, 5,6#%#C.7,8,9#%#D.9,40 41$$$High +4.3$$$D
+Among the following groups, those that are not part of the Pythagorean are ( ) A.1.5, 2, 2.5 #% #B.7, 24, 25#%#C.6,10,8#%#D.9,12 ,15$$$High +4.3$$$A
+Write three sets of Hooks, so that each group of Hooks must appear 12, _____; _____; _____.$$$High +4.3$$$12,16,20
+The following four groups are: 17, 24, 25; 20.3, 0.4, 0.5; 31.5, 2, 2.5; 46, 8, 9. There are several groups of Pythagorean numbers ( ) A.1 Group #% #B.2组#%#C.3Group#%#D.4Group$$$High +4.3$$$A
+Among the following groups, the number of the hyphens is ( ) A.1, 2, 3#%#B.2, 3, 4#%#C.3, 4, 5#%#D.4, 5 , 6$$$High +4.3$$$C
+Among the following groups, the number of non-hooks is ( ) A.5,4,3#%#B.7,24,25#%#C.6,8,9#%#D.9,12,15$$$High +4.3$$$C
+The known equation $3x+y=12$ has many group solutions. Please write a set of solutions that are opposite to each other, _____.$$$High +4.3$$$6,-6
+Among the following groups, the opposite numbers are () A.2 and $\frac{1}{2}$#%#B.-2 and $-\frac{1}{2}$#%# C.-2 and |-2|#%#D.-(-2) and 丨-2|$$$High +4.3$$$C
+Observe the following column numbers and fill in the appropriate numbers according to certain rules: 1, 2, 4, -8, _____, _____.$$$High +4.3$$$16,-32
+There are three white table tennis balls numbered 1, 2, and 3 in the box, and three yellow table tennis balls numbered 4, 5, and 6 in the box B. Now randomly take one table tennis ball from each box. , the probability that the sum of the numbers of the table tennis balls is greater than 6 is _____$$$High 4.1$$$1. How much does it cost to buy a chair and a table? #%#<img>
+An e-commerce sales a summer fashion, the purchase price of 40 yuan / piece, the price of 110 yuan / piece, sales of 20 per day, each sale of a piece of e-commerce platform promotion costs a yuan (a> 0). The next 30 days This fashion will launch a summer promotion of "1 yuan per day", that is, the daily unit price will be reduced by 1 yuan from the previous day from the first day. According to market research, the price per unit of the fashion is reduced by 1 yuan per day. 4 pieces. In these 30 days, the profit after the daily payment of the e-commerce platform promotion fee increases with the increase of the number of days t (t is a positive integer), and the value of a should be _____.$$$High 4.1$$$0 < a < 6
+In order to welcome the provincial sports meeting in a certain city, the city organized a trapezoidal flower team to participate in the opening ceremony, requiring a total of 60 rows, 40 people in the first row, each row behind each row is more than one person in the previous row, then each row The function expression between the number of people y and the number of rows x is _____. (write the range of values ​​of the arguments)$$$High 4.1$$$y=x+39 (x is an integer of 1≤x≤60)
+A sales advertisement: the first floor price is 5,400 yuan per square meter. For each additional floor, the price per square meter is increased by 150 yuan (below the fifth floor), then the property price is y (yuan / $m^2$) and floor x The function relation of (layer) is _____, and the value range of the independent variable is _____.$$$High 4.1$$$1 < x < 5 and x is an integer
+The sum of three consecutive natural numbers is not more than 12, and the natural numbers that meet the conditions are common ( ) A.1 group #%#B.2 group #%#C.3 group #%#D.4 group$$$High 4.3$$$D
+A secondary school stipulates that the student's semester sports comprehensive score is 100 points, of which, the mid-term test scores account for $40\%$, the final exam scores account for $60\%$, and Xiaohai's mid-term and final grades (percentage) are 80 points. 90 points, the comprehensive sports score of Xiaohai this semester is _____ points.$$$High +4.3$$$86
+Three numbers of 3, 5, and 0 can be used to form _____ different three-digit numbers.$$$High +4.3$$$4
+Xiao Wang recorded the height of the group's classmates (unit: cm) #%#158,163,154,160,165,162,157,160#%#Please calculate the average height of this group of students.$$$High +4.3$$$$159\frac{7}{8}$
+In the frequency distribution histogram, there are 11 small rectangles. If the height of one small rectangle in the middle is equal to the height of the other 10 small rectangles and $\frac{1}{4}$, the total data is 160, then the middle group The frequency is ( ) A.32#%#B.0.2#%#C.40#%#D.0.25$$$High +4.3$$$A
+This year's physical education examination has added a skipping test program. The following is the test score (unit: one/minute) of a group of 10 (10 students) recorded by the recorder during the test. #%#176 180 184 180 170 176 172 164 186 180# %# The mode, median, and average of the data for this group are () A.180, 180, 178#%#B.180,178,178#%#C.180,178,176.8#%#D.178,180,176.8$$$High +4.3$$$C
+When a math teacher enters the mathematics scores of 50 classmates in class, one of the classmates' scores is wrong. The data of the group will definitely change () A. Median #%#B.众数#%#C .Average #%#D.The median, mode, and average must change.$$$High +4.3$$$C
+A rectangular door frame is 1.5 meters wide and 2 meters high. To enhance stability when installing the door frame, a wooden strip is nailed at the diagonal of the door frame. The wooden strip is at least _____ meters long.$$$High +4.3$$$2.5
+The three lengths of the following lengths are connected in series, and the right triangles can be formed. ( ) A.1, 2, 3#%#B.2, 3, 4#%#C.1.5, 2, 2.5#%# D.4, 5, 6$$$High +4.3$$$C
+The weight (unit: kg) of 8 students in a school (1) class is #%#; 耆9, 40, 43, 43, 43, 45, 45, 46, then the mode of this group of data is _____ ,$$$High +4.3$$$43
+It is known that two wooden strips are 6 cm long and 3 cm long. If three wooden strips are used to form an isosceles triangle, the length of the third wooden strip is _____cm.$$$High +4.3$$$6
+In response to the construction of the school's "School Campus", the students of the Sunshine class actively donated books. The number of books donated by the Hongzhi study group is: 5,7,x,3,4,6. 5, the mode, median and variance of this set of data are () A.$5,5,\frac{3}{2}$#%#B.5,5,10#%#C. $6,5.5,\frac{11}{6}$#%#D.$5,5,\frac{5}{3}$$$High +4.3$$$D
+In a histogram of frequency distribution, there are five groups of A, B, C, D, and E. The frequency is 10, 15, 25, 35, and 10 respectively. In the histogram, the ratio of the height of the rectangle is _____.$$$High +4.3$$$2:3:5:7:2
+A. In the physical fitness test of the junior high school graduates of Chongqing in the 17th year of the 20th year, there were 7 students in the 9th grade of a school. The fitness test scores (unit: minute) 1I: 50, #%#48,47,50,48,49, 48, the mode of this set of data is _____.$$$High +4.3$$$48
+The average bar of 3$m$ is sawn into 5 segments, each segment is _____$m$, and each segment is _____ (filled in).$$$High +4.3$$$$\frac {1}{5}$
+In order to go out, you must first decipher the password lock on the door. The password is a four-digit number consisting of four numbers, 7, 8, 3, and 9. You must try _____ times to open the door.$$$High +4.3$$$twenty four
+Eight students scored 80, 82, 79, 69, 74, 78, x, 81 in a math test. The average of the scores is 77, and the value of x is _____.$$$High +4.3$$$73
+In May 2012, the data of a pollution index in Qiqihar City's weekly air quality report was: 31, 35, 30, 31, 34, 32, 31. The median and mode of this group of data are ( ) A. 32,31#%#B.31,31#%#C.31,32 #%#D.32,35$$$High +4.3$$$B
+A two-digit number, the number on the ten digits is two times larger than the number on the digits. After the digits of the two digits and the digits are reversed, the two digits are smaller than the original number by 45. The original two digits are _____.$$$High +4.3$$$72
+The mode of a group of data 1, 3, 3, 5, 7 is _____.$$$High +4.3$$$3
+A set of data: 2,1,3,x,7,-9,..., satisfies "From the third number, if the first two numbers are a and b in turn, the number immediately following is 2a-b For example, if the third number "3" in the set of numbers is obtained by "2×2-1", then x in the set of data is ( ) A.-2#%#B.-1#%# C.1#%#D.2$$$High +4.3$$$B
+A set of data is arranged in order of decreasing from 1, to 2, 4, x, 6, and 9. The median of the set of data is 5, and the mode of the set of data is _____.$$$High +4.3$$$6
+A class implements a weekly quantitative assessment system, and the results of the assessment are counted at the end of the semester. The results show that the average scores of the two groups are the same, and the variance is ${S_{甲}}^{2}=36$, ${S_ {B}}^{2}=30$, the stability of the two groups of results () A. Group A is more stable than Group B #%#B. Group B is more stable than Group A#%#C.A And the results of the two groups are as stable #%#D. Unable to determine$$$High +4.3$$$B
+Wang Fang and Li Ming compete in typing. Wang Fang plays 0.9 words per second. Li Ming plays 50 words in 1 minute. ( ) A. Wang Fang Express #%#B.李明快#%#C.Wang Fang and Li Ming As fast$$$High +4.3$$$A
+The average number of data 2, x, 4, 3, 3 is 3, then the median, mode, and variance of the data are ( ).$$$High +4.3$$$3$3
+There are 56 students in the 7th grade (2) class. To understand the time required for the whole class to complete mathematics, you need to collect ______ data.$$$High +4.3$$$56
+If the weight (unit: kg) of 7 students is: 40, 42, 43, ###, 47, 47, 58 respectively, the average of the data is () A.44#%#B.45 #%#C.46#%#D.47$$$High +4.3$$$C
+A class teacher wants to know how much pocket money the students have per month on average, and randomly selected 10 students to investigate. Their monthly pocket money (unit: yuan) is 10, 20, 20, 30, 20, 30, 10 , 10, 50, 100, the average monthly pocket money of the class is () A.10 yuan #%#B.20元#%#C.30元#%#D.40元$$$High +4.3$$$C
+The scores of the 7 students in a group of senior high school entrance examinations (out of 30 points) are: 27, 30, 29, 27, 30, 28, 30, then the mode and median of this group of data are () A.30 ,27#%#B.30,29#%#C.29,30#%#D.30,28$$$High +4.3$$$B
+If the variance of a set of data 2, 3, 4, 5, x is equal to the variance of another set of data 5, 6, 7, 8, 9 , find the value of x.$$$High +4.3$$$6$1
+A sample of 40 data is known, and it is divided into six groups. The frequency of the first group to the fourth group is 10, 5, 7, and 6, respectively. The frequency of the fifth group is 4, and the frequency of the sixth group is _. ____.$$$High +4.3$$$8
+The five students of a school football interest group shot the goal in a shot training: 6,7,7,8,#%#9. The mode of this group of data is () A.6# %#B.7#%#C..8#%#D.9$$$High +4.3$$$B
+The following five groups are used as the side lengths of a triangle: 16, 8, 10; 213, 5, 12; 31, 2, 3; 49, 40, 41; 5$3\frac{1}{2}$, $4 \frac{1}{2}$, $5\frac{1}{2}$. Among them, which can form a right triangle ( ) A.2 group #%#B.3 group #%#C.4 group#% #D.5组$$$High +4.3$$$B
+A number of households in a community in a community surveyed by a middle school student environmental protection team used the number of environmentally friendly convenience bags within one week. The result was (unit: only): 6,5,7,8,7,5,8,10,5,9 Using these data, it is estimated that 2000 households in the community use environmentally friendly convenience bags within 1 week ( ) A.2000 only #%#B.14000only#%#C.21000only#%#D.98000$$$High +4.3$$$B
+A set of data is known: 60, 30, 40, 50, 70. The average and median of this set of data are ( ) A.60, 50 #% #B.50, 60#%#C.50, 50#%#D.60,60$$$High +4.3$$$C
+In a language unit test, the difference between the scores of 10 students in a group and the average grade of the whole class (unit: minute) is 3, 10, -2, -8, 6, 0, 15, -8, -1, respectively. 9. If the average grade of the class is 85, ask for the average score of this group.$$$High +4.3$$$87.4
+The median of a set of data 3, 4,6,8,x is x, and x is the inequality group $\left\{ \begin{matrix}x-3\ge 0 \\5-x>0 \ \\end{matrix} \right.$ integer, find the average of this set of data.$$$High +4.3$$$So the answer is: 5
+At the "Arbor Day", the number of trees planted in the six groups of the eight (1) classes are: 5, 7, 3, x, 6, and 4. The mode is known to be 5, and the average of the data is The number is _____.$$$High +4.3$$$5
+Cooperation and exchange is one of the important ways to learn mathematics. The number of cooperative learning groups in each class of a school is 8,7, 7,8,9,7. The mode of this group of data is ( ) A. 7#%#B.7.5#%#C.8#%#D.9$$$High +4.3$$$A
+The average number of the following data is calculated in two ways: 35, 35, 34, 47, 47, 84, 84, 84, 84, 125.$$$High +4.3$$$=65.9
+Fill in the number in the box of 5$\square$6$\square$ so that the four digits are multiples of 2 and 5, and there are _____ different combinations, the number of which is _____.$$$High +4.3$$$5060, 5160, 5260, 5360, 5460, 5560, 5660, 5760, 5860, 5960
+Four wooden strips with lengths of 5, 4, and 5, and three of them are selected to form a triangle. The selection method has _____ species.$$$High +4.3$$$3
+With 1, 2, 3, and three numbers, how many three-digit numbers can you make?$$$High +4.3$$$123, 132, 213, 231, 312, 321
+Exploring the number "black hole": "black hole" originally refers to a very strange celestial body. It is small, dense, and attractive. Any object that comes to it does not want to "crawl" again. There is no such thing as a black hole in the number. "All numbers that satisfy a certain condition can be sucked in by an operation. No one can escape its clutches. For example, if you want to find a multiple of 3, first put each of these numbers. The numbers on the digits are all cubed, then added together to get a new number, then the number on each digit of the new number is cubed again, summed... and the operation is repeated, and a fixed number $t$ is obtained. We call it the number "black hole". Can you find the number t? The number $t=$_____.$$$High +4.3$$$153
+Suppose a hotel has a total of 30 rooms, each numbered from 1 to 30 thirty. Now, you need to engrave the number on each room key. The number must be so that the waiter must easily identify which room key. It is not easy for outsiders to guess. There is now a way to encode: two numbers on each key, one on the left is the remainder of the original room number divided by 5, and the right A number is the remainder of the original room number of the key divided by 7. The original room number corresponding to the key of 36 is _____.$$$High +4.3$$$13
+It is known that in one sample, 50 data falls within five groups, and the number of data of the first, second, third, fourth, and fifth groups is 2, 8, 15, 20, and 5, respectively. The frequency is _____.$$$High +4.3$$$20
+The three lengths of the following lengths are connected in series, and the right triangles can be formed. ( ) A.1, 2, 3#%#B.4,6,8#%#C.6,8,10#%# D.5,5,4$$$High +4.3$$$C
+The sample data 10, 10, x, 8 has the same number and average number, and the variance of this set of data is _____.$$$High +4.3$$$2
+The wooden chair is shaken, and the wooden strip is often slanted under the chair. This is the use of _____. (filling number) #%#1 The stability of the triangle can be easily deformed by the parallelogram.$$$High +4.3$$$1
+If x represents a two-digit number, y also represents a two-digit number, Xiao Ming wants to use x, y to form a four-digit number, and put x on the right side of y, the following expression is correct () A.yx# %#B.x+y#%#C.100x+y#%#D.100y+x$$$High +4.3$$$D
+The wooden chair is shaken, and the wooden strip is often slanted under the chair. This is the stability of the triangle using _____. (filling number) #%#1; 2 the characteristic of the parallelogram being easily deformed.$$$High +4.3$$$1
+When Xiao Gang is doing continuous natural numbers 1, 2, 3, 4, 5, ... summation, add one more number, the result is 149, then the number added is () A.13#%#B .14#%#C.15#%#D.16$$$High +4.3$$$A
+The median of 4,11,13,10,12,17,19 of a set of data 1 is _____, and the median of a set of data 323,334,352,356,344,333,375,312 is _____.$$$High +4.3$$$13$339
+A school organized three classes of students in the eighth grade to participate in the mathematics competition. The average score of the three classes was 72.5. The number of participants in the class was 30, with an average of 75 points. The number of participants in the three classes was 30, with an average score of 80. The number of three classes of cold participation is 40, and the average score of the three classes is _____.$$$High +4.3$$$65
+A set of data: the variance of 3, 2, 1, 2, 2 is ____.$$$High +4.3$$$0.4
+At the Arbor Day, the students go to plant trees. If each group has 20 trees, 25 groups can be planted. If each group has 5 trees, how many groups can be planted?$$$High +4.3$$$20
+A two-digit number is x, and a two-digit number is y. If you place a two-digit number x in front of y to form a four-digit number, the four-digit number is ( )A.$10x+y$#% #B.x+y #%#C.100x+y#%#D.1000x+y$$$High +4.3$$$C
+The following is the production of a car factory from July to December: (unit: car) 480, 420, 450, 540, 540, 60 0 of which 540 is the data of this group ( ) A. mode #% # B. median Number #%#C.Average$$$High +4.3$$$A
+Each of the following groups represents the length of three wooden sticks. After connecting them end to end, the set of triangles can be ( ) A.1,2,1#%#B.1,2,2#%#C. 1,2,3#%#D.1,2,4$$$High +4.3$$$B
+There are 10 students in a class who participate in the "fixed-point shooting" game of basketball. Each person casts 10 times. Their goals are 6,1,4,2,6,4,8,6,4,6. The range and median of the data are ( ) A.7, 5#%#B.5,5#%#C.5,4#%#D.7, of 4$$$High +4.3$$$A
+The results of a man marathon runner in the past six matches (in minutes: 145, 147, 140, 129, 136, 125, respectively, the average number of scores in this group is () A.136 minutes #%#B.137分钟#%#C.138 minutes #%#D.139 minutes$$$High +4.3$$$B
+Knowing that the average of a set of data 1, 2, 2, and x is 3, the difference between the poles of this set of data is _____.$$$High +4.3$$$6
+Two students from Grade A and B have two sets of data for the semester's math test. The variance of the sample is 0.93, and the variance of B is 1.06. The two students have a stable score of _____.$$$High +4.3$$$A
+30 matchsticks are connected end to end to form a right-angled triangle. The three sides of the match are made up of _____, _____, _____ matchsticks.$$$High +4.3$$$13
+Among the following groups, the numbers that can form the number of hyphens are ( ) A.13,16,19#%#B.5,13,15#%#C.18,24,30#%#D.12, 20,37$$$High +4.3$$$C
+In an information technology test, the scores (units: points) of 8 students of an interest group are: 7, 10, 9, 8, 7, 9, 9, 8 respectively, then the number of people in this group of data is _____ .$$$High +4.3$$$9
+We learned about data collection, the following is correct ( ) A. The line chart is easy to display the trend of data #%#B. The bar chart shows the size of the percentage in each group #%#C. The pie chart shows the specific data in the whole section #%#D. The histogram can show the size of the data$$$High +4.3$$$A
+Among the following four groups, one of them is different from the other three groups. This group is ( ) A.3,4,5#%#B.6,8,10#%#C.5,12,13 #%#D.4,5,7$$$High +4.3$$$D
+In the sample frequency distribution histogram, there are 10 small rectangles. If the area of ​​the small rectangle in the middle is equal to the sum of the other 9 small rectangles, $\frac{1}{4}$, and the sample data is 200, then The frequency of the middle group is ( ) A.0.2#%#B.32#%#C.0.25#%#D.40$$$High +4.3$$$D
+In the sample frequency distribution histogram, there are 10 small rectangles. If the area of ​​the small rectangle in the middle is equal to the sum of the other 9 small rectangles, $\frac{1}{4}$, and the sample data is 200, then The frequency of the middle group is (.) A.0.2#%#B.32#%#C.0.25#%#D.40$$$High +4.3$$$D
+In a sports test, the results of the group of 8 people in Xiaofang were: 46, 47, 48, 48, 49, 49, 49, 50, and the median of the sports performance of 8 people was ( ) A.47 #% #B.48#%#C.48.5#%#D.49$$$High +4.3$$$C
+At the "Tree Planting Festival", the number of tree planting trees in the six groups of the nine (1) classes is 5, 7, 3, x, 6, and 4. The number of the data of the group is known to be 5, and the average of the data of the group is The number is _____.$$$High +4.3$$$5
+A recruitment test is divided into two types: written test and interview. The written test is based on $60\%$, and the interview is calculated by weighting average of $40\%$ as the total score. Li Ming's written test score is 90, and the interview score is 85. Then Li Ming's total score. It is _____ points.$$$High +4.3$$$88
+In March 2016, the data of a pollution index in a week's weather quality report in a certain district of Chengdu was: 60, 60, 100, 90, 90, 70, 90. The following statements about this group of data are correct ( ) A. Is 60#%#B. The median is 100#%#C. The average is 78#%#D. The range is 40$$$High +4.3$$$D
+The sum of the number on a two-digit tens place and the number on the one-digit number is 5. If the two-digit number is subtracted by 27, it is exactly equal to the two digits of the digits on the ten digits and the digits on the digits. Number, find this two digits.$$$High +4.3$$$∴This double digit is 41
+The rainfall (unit: mm) of a certain city in June was 0, 32, 11, 45, 8, 51, and 27, and the difference between the data is _____.$$$High +4.3$$$51
+Xiao Ming wants to make a wooden frame with a right-angled triangle. Which of the following four sets of wooden sticks can be just made ( ) A.7,12,15#%#B.${\sqrt {7}}$, 3, $2\sqrt {5}$#%#C.12,15,17#%#D.3,4,${\sqrt {7}}$$$High +4.3$$$D
+Ancient Greek mathematicians called the numbers 1, 3, 6, 10, 15, 21, ... as the number of triangles, where 1 is the first number of triangles, 3 is the number of the second triangle, and 6 is the number of the third triangle. This type of push, then the 8th triangle number is _____.$$$High +4.3$$$36
+Before the arrival of the Dragon Boat Festival, the Children's Welfare Institute investigated what kind of scorpions all the children loved to decide which kind of scorpion to buy. The most noteworthy of the following survey data is ( ) A. Variance #%#B. Number #%#C.中位#%#D.众数$$$High +4.3$$$D
+Xiao Ming wants to make a wooden frame with a right-angled triangle. Which of the following four sets of wooden sticks can be just made ( ) A.6,8,9#%#B.4,5,6#%#C. 5,12,13#%#D.3,4,7$$$High +4.3$$$C
+The number of books of the extracurricular books of the scholastics of the scholastics of the scholastics of the scholastics of the scholastics of the scholastic The average number of data is 16, then the median of this set of data is _____..$$$High +4.3$$$16
+Knowing that the average number of data x, y, and z is 3, the average of the data x+1, y+1, and z+1 is ( )$$$High +4.3$$$4
+Cooperative communication is one of the important ways to learn mathematics. The number of cooperative learning groups in each class of a school is 8, 7, 7, 8, 9, and 7. The mode of this group of data is ( ) A.7 #%#B.7.5#%#C.8#%# of D.9$$$High +4.3$$$A
+A In the fitness test of junior high school graduates in Chongqing in 2017, there were 7 students in the ninth grade of a school's physical fitness test scores (unit: minute) 1I: 50, #%#48,47,50,48,49,48, The mode of this set of data is _____.$$$High +4.3$$$48
+The following groups of data are the three sides of the triangle, respectively (the same unit), which can not form a right triangle is () A.0.3, 0.4,0.5#%#B.${\frac {1}{3}}$, ${\frac {1}{4}}$,${\frac {1}{5}}$#%#C.7,24,25#%#D.${\sqrt {3}}$ , 2,1$$$High +4.3$$$B
+In the tree planting activity of creating a “National Forest City” in Pakistan, the number of planting trees of five students in a group of junior high school is 5, 6, 6, 6, and 7, respectively, and the mode of this group of data is _____.$$$High +4.3$$$6
+We usually use a decimal number, which means that the decimal number uses 10 numbers: 9, 8, 7, 6, 5, 4, 3, 2, 1, 0. For example: $80739=8\times {{10}^ {4}}+0\times {{10}^{3}}+7\times {{10}^{2}}+3\times 10+9$. But the binary used in the computer has only two digits 0 and 1. So which of the decimal numbers is 1001101 in the binary?$$$High +4.3$$$=77
+A set of data: 1, -1, 3, x, 4, which has a unique mode is 3, then the median of this set of data is () A.-1#%#B.1#%#C. 3#%#D.4$$$High +4.3$$$C
+The average score of a basketball team in three games is 105 points. To make the average score 120 points, how many points should the fourth game score?$$$High +4.3$$$165
+The 50 data is divided into 3 groups, the ratio of the frequency of the first group and the third group is 1:3, and the frequency of the second group is 10, and the frequency of the third group is _____.$$$High +4.3$$$30
+In the "Data Analysis" chapter test, the results of the 7 students in the "Courage Forward" study group were 92, 88, 95, 93, 96, 95, 94. The median and the majority of the data in this group are ( ) A.94,94#%#B.94,95#%#C.93,95#%#D.93,96$$$High +4.3$$$B
+In one sample, 50 data falls within 5 groups, and the number of data in the first, second, fourth, and fifth groups is 3, 8, 20, and 3, respectively, and the frequency of the third group is _____.$$$High +4.3$$$16
+In a physical health test of a school, there are 8 male students' "lead-up" results (unit: time): 14, 12, 10, 8, 9, 16, 12, 7, respectively, the median of this group of data And the mode is () A.10,12#%#B.12,11#%#C.11,12#%#D.12,12$$$High +4.3$$$C
+All the students in the seventh grade (1) class participated in the social practice activities. The original group of 8 people, and then adjusted according to the actual situation, each group of 14 people, this is reduced by three groups, then the class has students _____ people.$$$High +4.3$$$56
+An archery athlete shoots the target 5 times in a row, and the number of rings obtained is 8, 6, 10, 7, and 9, respectively. The variance of the number of rings earned by this athlete is _____.$$$High +4.3$$$2
+Known 20 data: 28, 31, 29, 33, 27, 32, 29, 31, 29, 27, 32, 34, 29, 31, 34, 33, 30, 28, 32, 33, compiled for these data Frequency distribution table, where the frequency of the group of 30.5~32.5 is ( ) A.4#%#B.5#%#C.6#%#D.7$$$High +4.3$$$C
+The quality (unit: kilogram) of six boxes of relief materials is 17, 20, 18, 17, 18, 18, respectively. The average, mode, and variance of this group of data are ( ) A.18,18,3#% #B.18,18,1#%#C.18,17.5,3#%#D.17.5,18,1$$$High +4.3$$$B
+It is known that the sample has 30 data. In the frequency histogram of the sample, the height ratio of each small rectangle is 2:4:3:1, and the frequency of the second group is ()A.4 #%#B.12 #%#C.9 #%#D.8$$$High +4.3$$$B
+At the "Tree Planting Festival", the number of trees planted in the six groups of the nine (1) classes is 5, 7, 3, x, 6, and 4. The number of data in the group is known to be 5, and the average number of data in the group is Yes_____.$$$High +4.3$$$5
+The sum of a two-digit tens digit and a one-digit number is 7. If the two-digit number is added to 45, the result is exactly the number of the digits and the tens digits, and the two digits are The number is ( ) A.16#%#B.25#%#C.34#%#D.61$$$High +4.3$$$A
+Part of the students in Class 5 (1) participated in the calligraphy competition organized by the school. Among them, 10 boys participated in the competition, which was equivalent to $\frac{2}{3}$ of the participating girls. The winners accounted for $\frac{2 of the total number of participants. }{5}$, how many people won?$$$High +4.3$$$10
+The score of 85 in a certain number of competitions is excellent. The teacher is divided into 85 points. The scores of five students in a group are as follows: #%#+5,-10,0,+2,-7. These five What is the average score of the classmates?$$$High +4.3$$$78
+Four wooden strips with lengths of 9, 6, 5, and 4, and three of them are selected to form a triangle. The selection method has _____ species.$$$High +4.3$$$3
+The variance of a set of data 2, 3, 2, 3, 5 is _____.$$$High +4.3$$$1.2
+The average number of sample data 3, 2, 4, a, 8 is 4, then the mode of this set of data is _____.$$$High +4.3$$$3
+In the seventh grade (1) and (2) classes, 20 students were selected to play the English typing competition. The number of words entered per minute was counted by the participating students. The average number of the two classes was the same. (1) The variance is 17.5, and the variance of (2) class score is 15. It can be seen that ( ) A. (1) Class ratio (2) class is stable #%#B. (2) Class ratio (1) class is stable. #%#C. The performance of the two classes is the same. #%#D. Unable to determine which class is more stable.$$$High +4.3$$$B
+If the weight (unit: kg) of 7 students is: 40, 42, 43, 45, #%#47,47,58, then the average of the data is () A.44#%#B.45 #%#C.46#%#D.47$$$High +4.3$$$C
+The time (unit: minute) spent by a classmate on the way to school 5 times is x, y, 10, 11, 9 respectively. The average number of data in this group is known to be 10, and the variance is 2, then the value of |xy| is ( )A.1#%#B.2#%#C.3#%#D.4$$$High +4.3$$$D
+A set of data: 2,1,3,x,7,-9,..., satisfies "from the third number, if the first two numbers are a, b, then the number immediately following is 2a- b", for example, the third number "3" in the set of numbers is obtained by "2×2-1", then the x in the set of data is ( ) A.-2#%#B.-1#% #C.1#%#D.2$$$High +4.3$$$B
+There are 7 members in each of Groups A and B. The average number of weight data of the two groups is 58, and the variance is ${{}}{{}}^{2}$=36, ${{S }_{B}}^{2}$=25, which shows that () A. Group A is more stable than group B. #%#B. Group B is more stable than group A#%#C. As stable as weight #%#D. Unable to determine which group is more stable$$$High +4.3$$$B
+In one test, the difference between the 10 students in the second group and the average score of the whole class was 3, 10, -2, -8, 6, 0, 15, -8, -1, 9, and the average score of the group. Yes ( ) A.109#%#B.87.4#%#C.82.6#%#D.The above answers are not correct$$$High +4.3$$$B
+There are 10 workers producing the same type, and the number of production per day is: 55, 54, 50, 55, 57, 57, 56, 56, 52, 56. The average is a, the median is b, the mode For c, there is ( )Aa>b>c#%#Bb>c>a#%#Cc>a>b#%#Dc>b>a$$$High +4.3$$$D
+The mathematics test score of 80 or more (including 80 points) is excellent, with 80 points. Wang teacher randomly selected the scores of 6 students as -2, +6, +12, 0, -5, -13. How many points did the 6 students actually take?$$$High +4.3$$$78,86,92,80,75,67
+The length of the four line segments is 4, 6, 8, and 10, respectively, and the number of groups that can form a triangle is ( ) A.4#%#B.3#%#C.2#%#D.1$$$High +4.3$$$B
+The time (unit: minute) spent by a classmate B on his way to school is $x_{9}y, 10, 11, 9, and $ is known to have an average of 10 data and a variance of #%#2. Then the value of lx-yl is () A.1#%#B.2#%#C.3#%#D.4$$$High +4.3$$$D
+B (2015\bullet Shandong Weifang) "The Tree Planting Festival, when the number of trees planted in the 6th group of the 9th grade is 5,7,3,·T,6,4, the number of the data is known. 5, the average number of data in this group is _____.$$$High +4.3$$$5
+The sum of a two-digit tens digit and a one-digit number is 7. If the two-digit number is added to 45, the result is exactly the number of the digits and the tens digits, and the two digits are The number is ( ) A.34 #%#B.25#%#C.16#%#D.61$$$High +4.3$$$C
+The average number of sample data 3, 2, A, a, 8 is A, then the mode of this set of data is _____.$$$High +4.3$$$3
+Four wooden strips with lengths of 9, 6, 5, and 4, and three of them are selected to form a triangle. The selection method is _____.$$$High +4.3$$$3
+The three lengths of the following lengths can be composed of triangles ( ) A.3, 4, 8#%#B.4, 4, 8#%#C.5,6,10 #%#D.6,7, 14$$$High +4.3$$$C
+Use three numbers of 1, 2, and 3 to form six digits. If each number is used twice, the adjacent digits are not allowed to use the same number. (1) Try to write four six digits that meet the above conditions; #%#(2) How many of the six digits do you have calculated that meet the above criteria?$$$High +4.3$$$30
+The following groups of data are the three sides of the triangle, respectively (the same unit), which can not form a right triangle is () A.0.3, 0.4,0.5#%#B.${\frac {1}{3}}$, ${\frac {1}{4}}$,${\frac {1}{5}}$#%#C.7,24,25#%#D.${\sqrt {3}}$, 2,1$$$High +4.3$$$B
+A set of data: the median of 3, 2, 1, 2, 2 is _____, and the variance is _____.$$$High +4. 3$$$2$0.4
+It is known that the average number of data 1, 2, 2, and x is 3, and the difference between the data sets is _____.$$$High +4.3$$$6
+During the creation of the “National Garden City”, a middle school in Cangzhou organized a member of the Communist Youth League to plant trees. The number of trees planted by seven students was: 3,1,1,3,2,3,2, the median of this group of data. The number and the mode are () A.3, 2#%#B.2, 3#%#C.2, 2#%#D.3,3$$$High +4.3$$$B
+The scores of a certain mathematics study group are 63, 72, 70, 49, 66, 81, 53, 92, 69, respectively. The difference between the data is () A.47B.43L_____.34D.29$$$High +4.3$$$B
+In the long jump competition of physical education class, with 4.00 meters as the standard, if Xiaodong jumped out of 4.22 meters, it can be recorded as +0.22, then Xiaodong jumped out of 3.85 meters, recorded as _____.$$$High +4.3$$$-0.15
+If the weight (unit: kg) of 7 students is: 40, 42, 43, 45, #%#47,47,58, then the average of the data is () A.44#%#B.45 #%#C.46####.47$$$High +4.3$$$C
+The median of a set of data 3,4,6,8,x is x, and x is ge 0 \\5-x>0 that satisfies the inequality group $\left\{ \begin{matrix}x-3\ \\end{matrix} \right.$ integer, find the average of this set of data.$$$High +4.3$$$So the answer is: 5
+The number of three digits that can be composed of "1", "2", and "3" is () A.3####5######################## One$$$High +4.3$$$C
+It is known that in one sample, 40 data falls within 4 groups, and the number of data in the first, second, and fourth groups is 5, 12, and 8, respectively, and the frequency of the third group is _____.$$$High +4.3$$$15
+The three lengths of the following lengths are connected in series, and the ones that cannot form a right triangle are ( ) A.1, ${\sqrt {2}}$, ${\sqrt {3}}$#%#B.${ \sqrt {3}}$,${\sqrt {4}}$,${\sqrt {5}}$#%#C.6,8,10#%#D.5,12,13$$$High +4.3$$$B
+All three digits consisting of 0, 5, and 4 are multiples of ( ). A.2#%#B.3#%#C.5#%#D.7$$$High +4.3$$$B
+In an information technology test, the scores (unit: minute) of 8 students in an interest group are: 7, 10, 9, 8, 7, 9, 9, 8 respectively, then the mode of this group of data is _____.$$$High +4.3$$$9
+A recruitment test is divided into two types: written test and interview. The written test is based on $60\%$, and the interview is calculated by weighting the average of $40\%$. The total score is 90. The score of the test is 90, and the interview score is 85. The total score of Kong Ming is _____Minute.$$$High +4.3$$$88
+A player is a major player in the men's basketball team. In one game, he scored 28 points on 14 of 22 shots. In addition to three three-pointers, he also made _____ two-pointers and _____ free throws. (1 point for a free throw)$$$High +4.3$$$8,3
+A secondary school stipulates that the student's semester sports comprehensive score is 100 points, of which, the mid-term test scores account for $40\%$, the final exam scores account for $60\%$, and Xiaohai's mid-term and final grades (percentage) are 80. Points, 90 points, then Xiaohai's comprehensive sports score for this semester is _____ points.$$$High +4.3$$$86
+Naughty practice throws shots, throws 5 times. Removes one best score and one worst score, the average score is 9.73m; removes one best score, the average score is 9.5m; removes one worst score, average score What is the difference between the best score of 9.77m. naughty and the worst score?$$$High +4.3$$$1.08
+Use 7, 8, and 9 to form a three-digit number (the number can be repeated), and find the possibility that the number is even.$$$High +4.3$$$1/3
+The sum of a two-digit tens digit and a one-digit number is 7. If the two-digit number is added to 45, it happens to be a two-digit number formed by the digits and the ten-digit number. The two digits are _____.$$$High +4.3$$$16
+Before the arrival of the Dragon Boat Festival, the school cafeteria recommended three A, B, and C scorpion stores to investigate which scorpions the teachers and students love to eat, in order to decide which store to purchase. The following statistics, the most What is worth paying attention to is () A. Variance #%#B.Average #%#C.中位#%#D.众数$$$High +4.3$$$D
+The score of a shooting athlete in a shooting practice is (unit: ring): 7, 8, 9, 8, 6, 8, 10, 7. The mode of this group of data is _____.$$$High +4.3$$$8
+If x represents a two-digit number and y also represents a two-digit number, now I want to use x, y to form a four-digit number and x to the right of y, then the four-digit number is _____.$$$High +4.3$$$(100y+x)
+A study group in the "World Book Day" this time statistics of the group #% #5 students in the last semester reading the number of books outside the class, the data is #% #18,x,15,16,13, if this data The average number is 16, and the median of this set of data is _____..$$$High +4.3$$$16
+The variance of a set of data 1, 2, 3, 4, 5 is _____.$$$High +4.3$$$2
+Among the following four groups, one of them is different from the other three groups. This group is ( ) A.3,4,5#%#B.6,8,10#%#C.5,12,13# %#D.4,5,7$$$High +4.3$$$D
+A two-digit number x, and a two-digit number y. If the two-digit number x is placed before y to form a four-digit number, the four-digit number is ( )A.$10x+y$#%#B .xy #%#C.100x+y#%#D.1000x+y$$$High +4.3$$$C
+The sample data 10,10,x,8 has the same mode as the mean, then the median of this set of data is _____.$$$High +4.3$$$10
+In the physical education class, the results of the "lead-up" of 10 boys in the first grade of the third grade (unit: times) are 9, 14, 10, 15, 7, 9, 16, 10, 11, 9 respectively. The mode, median, and average are in turn ( ) A.10,8,11#%#B.10,8,9#%#C.9,8,11#%#D.9,10, 11$$$High +4.3$$$D
+A total of 200 male students in the eighth grade of a school, 10 randomly selected to measure their height (unit: cm): 181,176,169,155,163,175,173,167,165,166.#%# (1) Ask the average height of the 10 boys and the median of the above data; #%#(2) Estimate the number of eight-year-old boys in the school who are taller than 170cm.$$$$$$
+A group of 7 students from a class actively donated their own pocket money to support the disaster area. The amount of their donations was (unit: yuan): 50, 20, 50, 30, 50, 25, 135. The mode and median of this group of data The numbers are ( ) A.50, 20#%#B.50,30#%#C.135,50#%#D.50,50$$$High +4.3$$$D
+In the sample frequency distribution histogram, there are 11 small rectangles. If the area of ​​the small rectangle in the middle is equal to the other 10 small rectangles and the $\frac{1}{4}$ and the total sample data is 160, then the middle The frequency of a group is ( ) A.0.2#%#B.32#%#C.0.25#%#D.40$$$High +4.3$$$B
+In the chat rectification action, a city environmental protection bureau is right. #%# The units in the jurisdiction conducted a sample survey. Their comprehensive scores were 1m: 95, #%#85,83,95; 92,90,96, then the median of the data was _____, the majority Yes#%#_____.$$$$$$
+Xiao Ming wants to make a wooden frame with a right-angled triangle. Which of the following four sets of wooden sticks can be just made ( ) A.6,8,9#%#B.4,5,6#%#C .5,12,13#%#D.3,4,7$$$High +4.3$$$C
+When Xiao Gang is doing continuous natural numbers 1, 2, 3, 4, 5, ... summation, add one more number, the result is 149, then the number added is () A.13#%# B.14#%#C.15#%#D.16$$$High +4.3$$$A
+A middle school student environmental protection team sampled the number of environmentally-friendly convenience bags used by 10 households in a community within one week. The result was (unit: only): 6,5,7,8,7,5,8,10,5,9. Using these data, it is estimated that 2000 households in the community use environmentally friendly convenience bags within 1 week ( ) A.2000 only #%#B.14000only#%#C.21000only#%#D.98000$$$High +4.3$$$B
+A company wants to recruit -_____ staff members to conduct interviews and written tests for applicants. The interview score is 85 points and the written test score is 90 points. If the company gives the interview results and the written test scores of 6 and 4 respectively, then A The average score is _____ points.$$$High +4.3$$$87
+Babe has two small wooden sticks of 6dm and 8dm. I want to make a triangle learning box. There are three small wooden sticks below. She can choose ( )A.2dm#%#B.10dm#%#C.20dm$$$High +4.3$$$B
+Each of the following groups represents the length of three wooden sticks. After connecting them end to end, the set of triangles can be ( ) A.1, 2, 6#%#B.2, 2, 4#%#C. 1,2,3#%#D.2,3,4$$$High +4.3$$$D
+Please use the four numbers 1, 2, 3, 4 to form four four-digit numbers.$$$High +4.3$$$1234, 1243, 2134, 2143
+Eight students scored 80, 82, 79, 69, 74, 78, x, 81 in a math test. The average of the scores was 77, and the value of x was ( ) A.76 #%#B .75#%#C.74#%#D.73$$$High +4.3$$$D
+The three lengths of the following lengths are connected in series, and the right triangles can be formed. ( ) A.1, 2, 3#%#B.2, 3, 4#%#C.3, 4, 5#%# D.4, 5, 6$$$High +4.3$$$C
+The mode of a set of data 1, 3, 2, 5, 2, a is a, the median of this set of data is _____.$$$High +4.3$$$2
+Before the arrival of the Dragon Boat Festival, the Children's Welfare Institute will investigate which kinds of scorpions all the children love to eat in order to decide which kind of scorpion to buy. The most interesting thing in the survey data below is () A. Median or average #%#B.均####中中#%#D.众数$$$High +4.3$$$D
+A group of 7 students actively donated their pocket money to support the disaster area. The amount of their donation (unit: yuan) is: 50, 20, 50, 30, 50, 25, 135. The median and median of this group of data are respectively Yes ( ) A.50,20#%#B.50,30#%#C.50,50#%#D.135,50$$$High +4.3$$$C
+In the shooting competition, the best result of the Red Team is 96 rings, which is more than the blue team's best score. $\frac{1}{5}$. How many rings does the Blue Team's best score?$$$High +4.3$$$80
+Known data: 1, 2, 1, 0, -1, -2, 0, -1, the variance of this set of numbers is _____.$$$High +4.3$$$1.5
+Four wooden strips with lengths of 9, 6, 5, and 4, and three of them are selected to form a triangle. The selection method has ( ) A.1 species #%#B.2 species #%#C.3 species#%#D.4 species$$$High +4.3$$$C
+The ancient Greek mathematicians called the numbers 1, 3, 6, 10, 15, 21, ... the number of triangles. It has a certain regularity. What is the difference between the 24th triangle number and the 22nd triangle number?$$$High +4.3$$$47
+All four digits consisting of four numbers 0, 3, 4, and 5 are multiples of ( ). A.2#%#B.3#%#C.5#%#D.9$$$High +4.3$$$B
+The sales situation (unit: kg) of a fruit shop from January to June is 450, 440, 420, 480, 580, 550. The difference between this group of data is _____kg.$$$High +4.3$$$160
+The three lengths of the following lengths can form a triangle ( ) A.3,4,8#%#B.4,4,8#%#C.5,6,10#%#D.6,7,14$$$High +4.3$$$B
+Observe the following groups of hyphens and find the law: 13, l, 5; 25, 12, 13; 37, 24, 25; 49, 40, 41. #% # Please write the fifth group with the above rules Number of shares: _____.$$$High +4. 3$$$11,60,61
+Known data: 1, 2, 1, 0, -1, -2, 0, -1, the variance of this set of numbers is _____.$$$High +4.3$$$1.5
+The temperature (unit: °C) of a city in June is 23, 25, 28, 25, 28, 31, 28, then the mode and median of this group of data are () A.25, 25#%# B.28,28#%#C.25,28#%#D.28,31$$$High +4.3$$$B
+Two students, A and B, climbed from the foot of the mountain at the same time. When they reached the top of the mountain, they immediately descended. They continued to move back and forth between the foot of the mountain and the mountain. The length of the hill was 360m. The speed ratio of A and B was 6:4, and A and B. The speed of going downhill is 1.5 times of the speed of each mountain. When the third time reaches the top of the mountain, the position of the elbow is sought.$$$High +4.3$$$240
+The three lengths of the following lengths can form a triangle ( ) A.3,4,8#%#B.4,4,8#%#C.5,6,10 #%#D.6,7,14$$$High +4.3$$$C
+Use 9 digits of 0,1,2,3,4,5,6,7,8 to form a number of digits or two digits (each number is used only once), and then add the resulting numbers. Their sum cannot be ( ) A.36#%#B.117#%#C.115#%#D.153$$$High +4.3$$$C
+The number of discarded plastic bags in a school's "environmental protection team" was 4,6,8,16,16. The median and mode of the data were (A). ,16#%#B.10,16#%#C.8,8#%#D.8,16$$$High +4.3$$$D
+The median of a set of data 3,4,6,8,x is x, and x is the inequality group $\left\{ \begin{matrix}x-3\ge 0 \\5-x>0 \\ The integer of \end{matrix} \right.$, find the average of this set of data.$$$High +4.3$$$So the answer is: 5
+If the first side of a triangle is (a+2) cm, the second side is 6 cm less than the first one, and the third side is longer than the first side (a-3) cm, then its The perimeter is _____.$$$4.2$$$(5a-1)cm
+The number of stamps of Qinyou is three times that of Qu Ting. If Qin poem gives Qu Ting 8 stamps, the number of stamps on both of them is the same. How many stamps did they have?$$$4.2$$$A: Original Qu Ting has 8 stamps, Qin poem has 24 stamps.
+There is a piece of paper with a thickness of $ 0.1 $ mm. The thickness after the $ 1 $ fold is $ 2\times 0.1 $ mm. What is the thickness of the fold after $ 2 $? #%# Assuming that the paper can be folded indefinitely, what is the equivalent of a floor with a height of $3 $m per floor after $20 $?$$$4.1$$$35

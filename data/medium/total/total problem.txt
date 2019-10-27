@@ -1,0 +1,11 @@
+The washing machine factory originally planned to produce 1,250 clothes dryers in 30 days, and actually produced 50 sets per day. Actually, the tasks were completed a few days earlier than originally planned.$$$2.1$$$A: 5
+The three teams plan to produce 500 products in 7 days (the same amount of production per day), and the task cannot be completed at the original production speed; if each team produces one more product per day than the original, the task can be completed ahead of time. How many products did you produce each day?$$$2.2$$$A: Each group originally produced 23 products per day.
+A storybook, originally 576 words per page, ranked 25 pages. When reprinting, the word is changed to a small size. Each page has 124 more words than the original. How many pages do you want to order?$$$2.2$$$twenty one
+Xiaoqing has a shelf with 5 layers and 36 books on each floor. Now let's vacate a layer of discs and put these books into 4 layers. How many books are placed on each layer?$$$2.2$$$
+Xiao Ming reads a book and reads 12 pages a day. It can be read in 8 days. If you read 4 more pages a day, can you finish reading in a few days?$$$2.1$$$8
+For every 50,000 pairs of disposable chopsticks, one large tree of wood is needed. Each tree can absorb $\frac{1}{10}$kg of carbon dioxide per day. A restaurant receives about 100,000 people a year, if the average is Guests use a pair of disposable chopsticks so that how many kilograms of carbon dioxide will be absorbed per day?$$$2.1$$$0.2
+Hongguang Hotel purchased 100 towels, each of which is 6 yuan. If you use this money to buy a towel of 8 yuan, how many can you buy?$$$2.1$$$75
+A pack of A4 copy paper, 25 sheets a day, 20 days just used up. If you use 5 less per day, how many days can you use?$$$2.2$$$25
+Teacher Wang has to correct 48 essays and has already revised 12 essays. If you correct 6 articles per hour, how many hours will the remaining essays be revised?$$$2.1$$$6
+A pack of A4 copy paper, 25 sheets a day, 20 days just used up. If you use 5 less per day, how many days can you use?$$$2.2$$$25
+In a canteen, 16 people can eat 15 days of rice. After 16 people have eaten for 5 days, 6 people have gone. How many days can the remaining rice be eaten?$$$2.1$$$16

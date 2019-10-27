@@ -1,0 +1,215 @@
+Debbie is 19 years old, and it is exactly three times as many as Zhang Qiang’s age. How many years are he and Zhang Qiang?$$$10.1$$$19
+This year, Xiaoqiang is 7 years old and his father is 35 years old. When the two are aged and 58 years old, how old are they?$$$10.1$$$58
+Xiaoling is 6 years old this year. Her father is 34 years old. When the two are aged and 58 years old, how old are they?$$$10.1$$$43
+The age of A and B is 35 years old, and A is 5 years younger than B. How many years are A and B?$$$10.1$$$15
+This year, Xiaoyong and his mother are 38 years old. Three years ago, Xiaoyong was 26 years younger than his mother. How old are mothers and Xiaoyong this year?$$$10.1$$$6
+Two years ago, Hu was 10 years older than Lu Fei; three years later, the age of the two will be 42 years old. Seeking how many years old Hu Yu and Lu Fei are each year.$$$10.1$$$13
+The ages of A and B are 35 years old, and A is 5 years younger than B. Q: How many years are A and B?$$$10.1$$$15
+The brothers are a bit silly, thinking that only one year is one year older, and others will not grow up. One day, my brother said to his younger brother: "My age is twice that of yours in three years." The younger brother said: "No, I am as big as you in three years." How old are they?$$$10.1$$$6
+Two years ago, Hu Wei was 10 years older than Lu Fei. Three years later, the age of the two will be 42 years. How many years are Hu Wei and Lu Fei? ?$$$10.1$$$13
+This year, Xiao Gang and Xiao Qiang’s age is 21 years old. A year ago, Xiao Gang was 3 years younger than Xiao Qiang. How many years did Xiao Gang and Xiao Qiang each year?$$$10.1$$$19
+There is a family of four with members of father, mother, daughter and son. This year their ages add up to a total of 75 years. The father is 3 years older than the mother and the son is 2 years older than the daughter. I also know that 4 years ago, the age of the family was 60 years old. Please calculate, how old is the mother this year? How many years are each year? ?$$$10.1$$$3
+The whole family of four people, the father is 3 years older than the mother, and the older sister is 2 years older than the younger brother. Four years ago, their age was 58 years old and now 73 years old. Q: What is the age of each person now? ?$$$10.1$$$31
+The age of the son is 1/4 of that of the father. The sum of the age of the father and son three years ago is 49 years old. How old are the fathers and sons now? ?$$$10.1$$$44
+Xiao Ming is 8 years old. His age with his father and mother is 81 years old. How many years later their average age is 34? How old is Xiao Ming? ?$$$10.1$$$15
+This year, my grandfather's age is six times that of Xiao Ming's age. After a few years, my grandfather's age will be five times that of Xiao Ming's age. After a few years, my grandfather’s age will be four times that of Xiao Ming’s age. How old is my grandfather this year? ?$$$10.1$$$72
+My mother is three times as old as her daughter this year, and her age is four times that of her daughter five years ago. How old is my mother this year? How old is the daughter?$$$10.1$$$15
+Ten years ago, my father’s age was seven times that of his son. After 15 years, his father’s age was twice that of his son. How many years are the father and son?$$$10.1$$$45
+This year, Xiaogang’s age is five times that of the Ming Dynasty. After 25 years, Xiaogang’s age is 16 times less than the apparent age. How many years are Xiaogang and Mingming?$$$10.1$$$15
+My mother is three times as old as her daughter this year, and her age is four times that of her daughter five years ago. How old is my mother this year? How old is the daughter? ?$$$10.1$$$15
+Dad is 42 years old and her daughter is 10 years old. A few years ago, my father was five times older than her daughter.$$$10.2$$$2
+This year, the ages of A, B and C are 60 years old. After 3 years, A is 6 years older than B. C is 3 years younger than B. After three years, A, B and C are three years old?$$$10.1$$$3
+Wang was seven times as old as his daughter 10 years ago. After 15 years, his age is twice that of his daughter. What is the age of her daughter?$$$10.1$$$15
+I am 37 years old and my daughter is 7 years old. After a few years, my mother’s age is 4 times that of her daughter.$$$10.2$$$3
+A said to B: "When my age was your current age, you were only 4 years old." B said to A: "When my age is your current age, you will be 61 years old." What is the current age of seeking A and B?$$$10.1$$$twenty three
+3 years ago, the age of the father and son is 49 years old. This year's father is four times the age of his son. How many years are the fathers and sons this year?$$$10.1$$$11
+The average age of father and mother is 36.5 years old. The age of the son is 11 years old. In the next 3 years, what is the average age of the three people?$$$10.1$$$31
+Wang Jun’s father is three times as old as Wang Jun. After 12 years, Wang Jun’s age is half of his father’s. How many years is Wang Jun and his father?$$$10.1$$$12
+My mother is 28 years older than her daughter. Three years later, my mother’s age is five times that of her daughter. How old is her daughter?$$$10.1$$$4
+A piece of cotton land, 30 tons of lint was collected last year, an increase of 5 tons over the previous year. How much has this cotton land cotton production increased?$$$10.2$$$2
+A wheat field, which produced 24.5 tons of wheat last year, increased production by 20% this year. How many tons of wheat is produced in this experimental field this year?$$$10.1$$$29.4
+A piece of land produced 12 tons of rice last year because the floods were reduced by 25 percent from the previous year. How many tons of rice is produced in this area before the land?$$$10.1$$$16
+An orchard produced 4,500 kilograms of apples last year. This year, because of the good climate, it has increased by 20% compared with last year. How many kilograms of apples were produced this year?$$$10.1$$$5400
+The vegetable base produced 24,000 tons of vegetables this year, an increase of 20% over last year. How many tons of this vegetable base was produced last year?$$$10.1$$$2
+An orchard, which received 95 tons of apples last year, this year's output increased by 20% compared with last year. How many tons of this year's output?$$$10.1$$$114
+Dad is 27 years older than his son. This year, Dad’s age is four times that of his son. How many years are the father and son?$$$10.1$$$9
+My father is 47 years old and his son is 14 years old. A few years ago his father was four times the age of his son?$$$10.2$$$3
+This year, my father’s age is six times that of Xiao Ming, and Dad is 25 years older than Xiao Ming. How old are Dad and Xiao Ming each year?$$$10.1$$$25
+Dad is 30 years older than Jun Jun, and his father’s age is 6 times that of Jun Jun. How old are Dad and Junjun?$$$10.1$$$36
+The age of the father, brother, and sister is 64 years old. When the age of the father is three times that of the older brother, the younger sister is 9 years old. When my brother is twice the age of his sister, Dad is 34 years old. What is the age of the three people now?$$$10.1$$$10
+The current age of A, B, C and D is 64 years old. When A is 21 years old, B is 17 years old; when he is 18 years old, the age of C is three times that of Ding. How old is Ding’s age?$$$10.1$$$8
+There is an orchard. The fruit trees of last year were more than 60 times more than the fruit trees of the fruitless fruit. This year, 160 fruit trees have fruit, and the fruit trees of this result are exactly five times that of the fruit trees that are not fruitful. How many fruit trees are there in the orchard?$$$10.1$$$1080
+A, B, C three, the age of A is 3 times larger than the age of B, the age of B is 2 times smaller than the age of C, the sum of the ages of the three is 109 years old, respectively The age of A, B and C.$$$10.1$$$16
+My son is 6 years old. His father’s age 10 years ago is equal to his son’s age 20 years later. When the father’s age is exactly twice the age of his son, which year is it in AD?$$$10.1$$$2035
+The four persons A, B, C and D are 16, 12, 11 and 9 years old respectively. How many years ago, the ages of A and B were twice that of C and D?$$$10.2$$$8
+The insurance company collected insurance premiums of 280 million yuan last year. This year, it has increased by $\frac{2}{5}$. How much is the insurance premium this year?$$$10.1$$$1.4
+Dad is 42 years old, just seven times the age of his son. How old is Dad than his son?$$$10.1$$$36
+A professional beekeeper, raising 24 boxes of bees this year. Last year, 5 boxes of bees brewed 375 kilograms of honey. According to the amount of honey produced last year, how many kilograms of honey can be brewed this year?$$$10.1$$$1800
+Dad is 27 years older than his son. This year, Dad’s age is four times that of his son. How many years are the father and son?$$$10.1$$$9
+My mother is 37 years old and my daughter is 7 years old. After a few years, my mother is four times as old as her daughter.$$$10.2$$$3
+3 years ago, the age of the father and son is 49 years old. This year's father is four times the age of his son. How many years are the fathers and sons this year?$$$10.1$$$11
+A said to B: "When my age was your current age, you were only 4 years old." B said to A: "When my age is your current age, you will be 61 years old." What is the current age of A and B? (Available in equations)$$$10.1$$$twenty three
+Xiao Ming is 8 years old and his father is 35 years old. How old is Xiao Ming when Dad is 50?$$$10.1$$$twenty three
+Xiaodong is 6 years old and my mother is 30 years old. When Xiaodong was 12 years old, how old was his mother?$$$10.1$$$36
+Xiaohua’s family received 4,000 kilograms of rice in the previous year. Last year, because of pests, it reduced production by 35 percent compared with the previous year. How many kilograms did Xiaohua’s harvest rice last year?$$$10.1$$$2600
+The age difference between the two brothers is 5 years old, and the age of the brother after 7 years is three times that of the younger brother 4 years ago. How old are the two brothers this year?$$$10.1$$$12
+My father is 32 years old and my son is 5 years old. After a few years, my father is four times the age of his son.$$$10.2$$$32
+The age of both A and B is 63 years old. When A is half of the age of B, the age at that time is exactly the age of A. So, how many years are A and B now?$$$10.1$$$36
+The age of Li Jun 5 years ago is the same as that of Chen Hua after 6 years. The age of Li Jun 8 years later and the age of Chen Hua 10 years later is 77 years old. How many years are Li Jun and Chen Hua?$$$10.1$$$11
+There is a family of four with members of father, mother, daughter and son. This year their ages add up to a total of 75 years. The father is 3 years older than the mother and the son is 2 years older than the daughter. I also know that 4 years ago, the age of the family was 60 years old. Please calculate, how old is the mother this year? How many years old?$$$10.1$$$3
+The family has four people, the father is 3 years older than the mother, and the older sister is 2 years older than the younger brother. Four years ago, their age was 58 years old and now 73 years old. Q: What is the age of each person now?$$$10.1$$$3
+My brother is now three times the age of his younger brother. His brother’s age is the same as his brother’s current age. His brother and brother are now 30 years old. Q: How old is my brother?$$$10.1$$$18
+Dad, brother, and sister are now 64 years old. When the age of the father is three times that of the older brother, the sister is 9 years old; when the age of the older brother is twice the age of the younger sister, the age of the father is 34 years old. How old are the three people now?$$$10.1$$$10
+Xiao Gang said: Last year, my father was 4 years older than my mother. I am 26 years younger than my mother. Please count, this year, Xiaogang’s father is a few years older than Xiaogang?$$$10.1$$$30
+Lao Zhang, A Ming and Xiao Hong are 91 years old. It is known that Amin is 22 years old and twice as young as Xiao Hong. How old is it?$$$10.1$$$58
+The age of the son is $\frac{1}{4}$ of the father, and the sum of the ages of the father and son three years ago is 49 years old. How old are the fathers and sons now?$$$10.1$$$44
+My mother is 35 years old, which is exactly seven times the age of her daughter. How many years later, my mother’s age is exactly three times that of her daughter?$$$10.2$$$10
+Xiao Ming is 8 years old. His age with his father and mother is 81 years old. How many years later their average age is 34? How old is Xiao Ming?$$$10.1$$$15
+Xiaodong is 12 years old. Five years ago, Grandpa’s age was 9 times that of Xiaodong’s age. How old is Grandpa this year?$$$10.1$$$68
+My mother is 40 years old, which is exactly four times the age of Xiaohong. How many years later, my mother’s age is twice that of Xiaohong?$$$10.2$$$20
+A family of three, the age of the three is 72 years old. Mom and Dad are the same age, mother is four times the age of the child, how old are the three?$$$10.1$$$8
+This year, my grandfather's age is six times that of Xiao Ming's age. After a few years, my grandfather's age will be five times that of Xiao Ming's age. After a few years, my grandfather’s age will be four times that of Xiao Ming’s age. How old is my grandfather this year?$$$10.1$$$72
+Three years ago, my father’s age was exactly six times that of his son Xiaogang’s age. This year’s father and son’s age is 55 years old. How old is Xiaogang?$$$10.1$$$10
+My father’s age 15 years ago is equivalent to his son’s age 12 years later. When his father’s age is 4 times that of his son, how old is his father?$$$10.1$$$36
+The age of A is reversed to the age of B. The age of the two is 99 years old, and the age of A is 9 years old.$$$10.1$$$54
+The ages of the three grandparents are exactly 100 years old. The number of years the grandfather has lived is exactly the number of months the grandson has passed. The number of weeks the son has passed is exactly the number of days the grandson has passed. How many years are your grandfather, son, and grandson?$$$10.1$$$5
+The difference in age between grandfather and father, father and grandson is the same. I also know that the sum of the ages of my grandfather and grandson is 84 years old. This age plus the age of the grandson is exactly 100 years old. How many years are the ages of the three?$$$10.1$$$42
+When he was two years old, his father was 32 years old. Zhang Qiang’s age was $\frac{3}{5}$ of his father’s age. His father died and asked how old his father lived?$$$10.1$$$75
+The brothers are a bit silly, thinking that they will be one year old and others will not grow up. One day my brother said to his brother: In five years, my age is twice that of you. My brother said: No, I am as big as you in five years. How old are they?$$$10.1$$$15
+My mother is three times as old as her daughter this year, and her age is four times that of her daughter five years ago. How old is my mother this year? How old is my daughter?$$$10.1$$$15
+The sum of the ages of the two brothers is 25 years old. Four years later, the older brother is 5 years older than the younger brother. This year, his brother is _____ years old and his younger brother is _____ years old.$$$10.1$$$10
+This year, the age of A is three times that of B. After three years, A is 4 years older than B. This year, A_____ years old, B_____ years old.$$$10.1$$$2
+The sum of the age of the brother and the younger brother is 27 years old. The age of the younger brother is equal to the age difference between the two, and the brother is _____ years old and the younger brother is _____ years old.$$$10.1$$$7
+Xiaohong is 10 years old. Her father is 36 years old. Xiaohong is _____ years old. His father’s age is exactly three times that of Xiaohong.$$$10.2$$$13
+Xiaogang is 12 years old and her mother is 40 years old. After _____ years, her mother’s age is exactly three times that of Xiaogang.$$$10.2$$$2
+My father is 49 years old and my son is 21 years old. His father was five times older than his son.$$$10.2$$$14
+Xiao Ming is 14 years old, grandma is 74 years old, and grandma is _____ years old, which is exactly 7 times that of Xiao Ming.$$$10.2$$$70
+Grandma is 66 years old and her granddaughter is 10 years old. After _____ years, her grandmother is five times older than her granddaughter.$$$10.2$$$4
+Xiaohong and Xiaoli were 23 years old and 2 years old. Xiaohong’s age is equal to the age difference between the two. This year’s Xiaohong _____ years old, Xiaoli _____ years old.$$$10.1$$$18
+The age of Xiaogang 5 years ago is equal to the age of Xiaohong 5 years later. Xiaogang is 3 times of Xiaohong’s age this year. Xiaogang and Xiaohong’s ages are _____ years old and _____ years old.$$$10.1$$$15
+This year, Xiaogang’s age is five times that of the Ming Dynasty. After 25 years, Xiaogang’s age is 16 times less than the apparent age. How many years are Xiaogang and Mingming?$$$10.1$$$15
+Just said: Last year, my father was 4 years older than my mother. I am 26 years younger than my mother. Please count, this year, Xiaogang’s father is a few years older than Xiaogang?$$$10.1$$$30
+My father’s age 15 years ago is equivalent to the age of his son 12 years old. When his father’s age is 4 times that of his son, how old is his father?$$$10.1$$$36
+It is known that the difference in age between grandfather and father, father and grandson is the same. I also know that the sum of the ages of my grandfather and grandson is 84 years old. This age plus the age of the grandson is exactly 100 years old. How many years are the ages of the three?$$$10.1$$$42
+When Zhang Qiang was two years old, his father was 32 years old. Zhang Qiang’s age was $\frac{3}{5}$ of his father’s age. His father died and asked how old his father lived?$$$10.1$$$75
+My mother is 35 years old, which is exactly seven times the age of her daughter. After _____ years, my mother’s age is exactly three times that of her daughter.$$$10.2$$$10
+Xiao Ming is 8 years old. His age with his father and mother is 81 years old. After _____ years, their average age is 34 years old. At this time Xiaoming _____ years old.$$$10.1$$$15
+Xiaodong is 12 years old. Five years ago, Grandpa’s age was 9 times that of Xiaodong’s age. Grandpa is _____ years old this year.$$$10.1$$$68
+My mother is 40 years old, which is exactly 4 times of Xiaohong’s age. After _____ years, my mother’s age is twice that of Xiaohong.$$$10.2$$$20
+This year, my grandfather's age is six times that of Xiao Ming's age. After a few years, my grandfather's age will be five times that of Xiao Ming's age. After a few more years, my grandfather’s age will be four times that of Xiao Ming’s age, and my grandfather is _____ years old this year.$$$10.1$$$72
+Three years ago, my father’s age was exactly six times that of his son Xiaogang’s age. This year’s father and son’s age is 55 years old. Xiaogang is _____ years old this year.$$$10.1$$$10
+My father’s age 15 years ago is equivalent to the age of his son 12 years later. When his father’s age is 4 times that of his son, Dad is _____ years old.$$$10.1$$$36
+The age of A is reversed to the age of B. The age of the two is 99 years old, and the age of A is 9 years old. The age of A is _____ years old.$$$10.1$$$54
+The ages of the three grandparents are exactly 100 years old. The number of years the grandfather has lived is exactly the number of months the grandson has passed. The number of weeks the son has passed is exactly the number of days the grandson has passed. Grandfather _____ years old, son _____ years old, grandson _____ years old.$$$10.1$$$5
+It is known that the difference in age between grandfather and father, father and grandson is the same. I also know that the sum of my grandfather and grandson is 84 years old. This age plus the age of the grandson is exactly 100 years old, grandfather _____ years old, father _____ years old, grandson _____ years old.$$$10.1$$$16
+Xiaolin’s orchard received 310 kilograms of pears this year. The apples collected were 19 times that of pears. How many kilograms of apples were collected?$$$10.1$$$6000
+This year's mother's age is 4 times that of Xiaoli, and after 5 years it is 3 times that of Xiaoli. How old is Xiaoli this year?$$$10.1$$$10
+The father and the three sons are 108 years old. If they are six years old, the father's age is exactly equal to the sum of the three sons. How old is my father this year?$$$10.1$$$60
+Xiao Ming is 8 years old and Xiao Hong is 12 years old. 15 years later, Xiao Hong is a few years older than Xiao Ming?$$$10.1$$$4
+The brothers are 6 years old. This year's brother is $\frac{3}{5}$. After a few years, my brother's age is $\frac{2}{3}$?$$$10.2$$$9
+In the pond of the Lotus Village, 940 fish fry were stocked last year. The fry stocked this year is three times that of last year. How many tails have been stocked this year than last year?$$$10.1$$$1880
+Xiaohongjia raised 4 boxes of bees this year, collecting a total of 380 kilograms of honey. Last year, an average of 84 kilograms of honey was collected per box. How many kilograms of honey per box per year is higher than last year?$$$10.1$$$11
+This year, Debbie is 3 years older than Binbin. After 5 years, he is _____ years older than Binbin.$$$10.1$$$3
+When he was 8 years old, his father was 32 years old. How old is his father when his father’s age is 2 times stronger?$$$10.1$$$48
+Fish farms stocked 896 fry last year, and the number of stocks stocked this year was twice that of last year. How many tails are stocked this year?$$$10.1$$$1792
+Xiaoling is 8 years old this year, grandfather is 64 years old, how many times is Grandpa’s age Xiaoling? How old is Grandpa than Xiaoling?$$$10.1$$$56
+My mother is 32 years old, 24 years older than Xiaoling and 72 years old. How old is my grandmother's age?$$$10.2$$$9
+Xiaogang’s share of 990 kW/hr in January-March this year, how many kilowatt-hours does Xiaogang’s average electricity use per day?$$$10.1$$$11
+Xiao Ming is 8 years old this year. His father’s age is 4 times that of Xiao Ming. How old is Dad than Xiao Ming?$$$10.1$$$33
+This year, Debbie is 3 years older than Binbin. After 5 years, he is much older than Binbin.$$$10.1$$$3
+A professional beekeeper, raising 24 boxes of bees this year. Last year, 5 boxes of bees brewed 375 kilograms of honey. According to the amount of honey produced last year, how many kilograms of honey can be brewed this year.$$$10.1$$$1800
+Xiaoming was 24 years younger than her mother the previous year. This year's mother is three times as old as Xiao Ming. How old is Xiao Ming and his mother this year?$$$10.1$$$36
+My father is 45 years old. Five years ago, his father was four times the age of his son. How old is his son this year?$$$10.1$$$15
+My brother is 9 years old today, my brother is 15 years old, how many years older than my brother in 10 years?$$$10.1$$$6
+Xiao Ming is 7 years old this year. My mother is 21 years older than Xiao Ming. My father’s age is 5 times that of Xiao Ming. How old is my mother? Dad?$$$10.1$$$35
+Dad and Xiaoqiang were 28 years old when they were eight years old. This year, Xiaoqiang’s age is one-third of that of Dad. How many years old is Dad and Xiaoqiang after 8 years?$$$10.1$$$3613
+Xiao Ming is 18 years old and Xiao Qiang is 14 years old. When the age of two is 70 years old, how many years are they?$$$10.1$$$33
+Dad: I am 32 years old this year. Son: I am 8 years old this year. How old is my father older than his son after 10 years?$$$10.1$$$twenty four
+Six years ago, my mother’s age was five times that of her son. Six years later, the mother and child’s age was 78 years old. How old is this year?$$$10.1$$$51
+In 1994, Grandpa’s age was 10 times that of his grandson. In 12 years, his grandfather’s age was four times that of his grandson. How long was his grandson in 1994?$$$10.1$$$6
+The sum of the ages of A and B is 29 years old. It is known that A is 3 years younger than B. How many years are A and B?$$$10.1$$$16
+Grandpa is 71 years old, 5 years older than Xiaohua’s age. How old is Xiaohua?$$$10.1$$$11
+The age of Xiaoqiang’s mother is 4 times that of Xiaoqiang. Xiaoqiang is 27 years younger than her mother. What is the age of each of them?$$$10.1$$$36
+My brother is 5 years old this year. My brother is 18 years old. After a few years, my brother’s age is twice that of his younger brother.$$$10.2$$$8
+My father is 45 years old and my son is 15 years old. A few years ago, my father’s age was 11 times that of his son.$$$10.2$$$12
+Xiaolin’s orchard received 310 kilograms of pears this year, and the apples collected were 19 times that of pears.$$$10.1$$$6000
+A piece of land, 12 tons of rice last year, due to floods reduced by 25 percent compared with the previous year. How many tons of rice is produced in this area before the land?$$$10.1$$$16
+I am 8 years old this year, my father is 35 years old. When I was 16 years old, how old is my father?$$$10.1$$$43
+Fengxiang County has a bumper harvest this year. The income of a 4-acre orchard in a household in Tianjiazhuang is 11,111 yuan. According to this calculation, how many yuan is the total income of 800 acres of orchards in the township? How much is the total income of the county's 16,000-acre orchard?$$$10.1$$$12
+The age with my mother is 52 years old. My mother’s age is 4 times more than 2 years old. How old is my mother? ?$$$10.1$$$70
+The age of Xiaohua and my mother is 48 years old. My mother’s age is 5 times that of Xiaohong’s age. How old is Xiaohua and Mom? ?$$$10.1$$$64
+This year, the age of the two brothers is 66 years old, and the age of the brother is exactly twice that of the younger brother. How old is the brother this year? ?$$$10.1$$$86
+The sum of Xiaomin’s and Dad’s age is 64, and Dad’s age is 3 times that of Xiaomin. How old is Xiao Min and her father? ?$$$10.1$$$81
+In the ages of elephants, tigers, and monkeys, elephants and tigers are 90 years old, elephants and monkeys are 70 years old, and tigers and monkeys are 40 years old. Please count, how old are the three animals? ?$$$10.1$$$52
+My brother is 14 years old and my sister is 8 years old. When the brothers and sisters are 42 years old, how old should they be? ?$$$10.1$$$87
+The brothers are now 28 years old. Three years ago, my brother was 2 years older than his brother. How many years are the brothers now? ?$$$10.1$$$31
+My brother is 14 years old and my sister is 8 years old. When the brothers and sisters are 52 years old, how old should they be?$$$10.1$$$10
+This year, Xiaoqiang is 7 years old and his father is 35 years old. When the age of the two is 68 years old, how old are they? ?$$$10.1$$$28
+Xiaoqin, Xiaojing, Xiaolian are three years old and are 20 years old. Xiaoqin is 1 year older than Xiaojing, and Xiaolian is 2 years younger than Xiaojing. How old are the three people? ?$$$10.1$$$48
+Wang Ming is 8 years old this year. Zhang Fan is 14 years old. When the age of the two is 48 years old, how old are they? ?$$$10.1$$$25
+Xiaoling is 6 years old this year. Her father is 36 years old. When the two are 50 years old, how old are they?$$$10.1$$$92
+This year, my sister is 8 years old and my sister is 14 years old. When the age of the two is 54, how old is the younger sister? ?$$$10.1$$$93
+This year, the age of Xiaogang and Xiaoqiang is 21 years old. One year ago, Xiaogang was 3 years younger than Xiaoqiang. How many years are Xiaogang and Xiaoqiang each year? ?$$$10.1$$$27
+Huang Qi and Hu Min are 23 years old this year. After 4 years, Huang Wei will be 3 years older than Hu Min. How many years are Huang Wei and Hu Min? ?$$$10.1$$$94
+The age of Xiaoxi and Xiaole is 23 years old. After 5 years, Xiaoxi is 5 years older than Xiaole. How many years are Xiaoxi and Xiaole?$$$10.1$$$47
+This year, Xiaoqiang is 7 years old and his father is 35 years old. When the two are aged and 58 years old, how old are they? ?$$$10.1$$$33
+The father is 39 years old. Asked a few years ago, my father is four times the age of his son? ?$$$10.2$$$89
+The ages of A and B are 35 years old, and A is 5 years younger than B. How many years are you asking A and B? ?$$$10.1$$$31
+The age difference between the two brothers is 5 years old, and the age of the brother after 7 years is three times that of the younger brother 4 years ago. How old are the two brothers this year? ?$$$10.1$$$twenty three
+The age of both A and B is 63 years old. When A is half of the age of B, the age at that time is exactly the age of A. So, how many years are A and B now? ?$$$10.1$$$62
+The age of Li Jun 5 years ago is the same as that of Chen Hua after 6 years. The age of Li Jun 8 years later and the age of Chen Hua 10 years later is 77 years old. How many years are Li Jun and Chen Hua? ?$$$10.1$$$42
+My brother is now three times the age of his younger brother. His brother’s age is the same as his brother’s current age. His brother and brother are now 30 years old. Q: How old is my brother? ?$$$10.1$$$72
+Dad, brother, and sister are now 64 years old. When the age of the father is three times that of the older brother, the sister is 9 years old; when the age of the older brother is twice the age of the younger sister, the age of the father is 34 years old. How old are the three people now? ?$$$10.1$$$91
+Xiao Gang said: Last year, my father was 4 years older than my mother. I am 26 years younger than my mother. Please count, this year, Xiaogang’s father is a few years older than Xiaogang? ?$$$10.1$$$16
+Lao Zhang, A Ming and Xiao Hong are 91 years old. It is known that Amin is 22 years old and twice as young as Xiao Hong. How old is it? ?$$$10.1$$$47
+Xiaodong is 12 years old. Five years ago, Grandpa’s age was 9 times that of Xiaodong’s age. How old is Grandpa this year? ?$$$10.1$$$74
+A family of three, the age of the three is 72 years old. Mom and Dad are the same age, mother is four times the age of the child, how old are the three? ?$$$10.1$$$76
+Three years ago, my father’s age was exactly six times that of his son Xiaogang’s age. This year’s father and son’s age is 55 years old. How old is Xiaogang? ?$$$10.1$$$6
+My father’s age 15 years ago is equivalent to his son’s age 12 years later. When his father’s age is 4 times that of his son, how old is his father? ?$$$10.1$$$37
+The ages of the three grandparents are exactly 100 years old. The number of years the grandfather has lived is exactly the number of months the grandson has passed. The number of weeks the son has passed is exactly the number of days the grandson has passed. How many years are your grandfather, son, and grandson? ?$$$10.1$$$73
+The difference in age between grandfather and father, father and grandson is the same. I also know that the sum of the ages of my grandfather and grandson is 84 years old. This age plus the age of the grandson is exactly 100 years old. How many years are the ages of the three? ?$$$10.1$$$43
+Ten years ago, Tian Hao was seven times older than her daughter. After 15 years, Tian Hao was twice as old as her daughter. How old are the mothers and daughters?$$$10.1$$$46
+The brothers are a bit silly, thinking that they will be one year old and others will not grow up. One day my brother said to his brother: In five years, my age is twice that of you. My brother said: No, I am as big as you in five years. How old are they? ?$$$10.1$$$25
+It is known that the difference in age between grandfather and father, father and grandson is the same. I also know that the sum of the ages of my grandfather and grandson is 84 years old. This age plus the age of the grandson is exactly 100 years old. How many years are the ages of the three? ?$$$10.1$$$46
+Ten years ago, Tian Hao was seven times older than her daughter. After 15 years, Tian Hao was twice as old as her daughter. How old are the mothers and daughters? ?$$$10.1$$$93
+My father is 36 years older than his son. Five years later, his father is four times the age of his son. How old is his son this year? ?$$$10.1$$$85
+This year's mother and daughter are 45 years old. After 5 years, the mother's age is exactly four times that of her daughter. How many years is this year's mother and daughter? ?$$$10.1$$$41
+Dad is 35 years old, bright and bright this year, 5 years old, this year my father's age is several times brighter? Next year?$$$10.2$$$50
+The turnover of the 38th Women's Store in the first quarter of this year is 1,5846.8 yuan, 17036.64 yuan and 18,574.06 yuan respectively. What is the average monthly turnover?$$$10.1$$$82
+This year, Li Jun’s father is three times the age of Li Jun. Ten years ago, his father’s age was five times that of Li Jun’s age. How many years did Li Jun be?$$$10.1$$$3
+My mother is 43 years old and her daughter is 11 years old. Asked a few years ago, my mother's age is 5 times that of her daughter; after a few years, my mother's age is 3 times that of her daughter?$$$10.2$$$47
+This year is 1998, the age of the parents (integer) and is 78 years old, the age of the brothers is 17 years old. Four years later (2002), the age of the father is four times the age of the younger brother, and the age of the mother is three times that of the older brother. Then, when the age of the father is three times the age of the brother, which year is the year of AD?$$$10.1$$$41
+Four years ago, the age of the parents (integer) was 78 years old, and the age of the brothers was 17 years old. Now, the age of the father is four times the age of the younger brother, and the age of the mother is three times that of the older brother. Ask the age of all of you this year?$$$10.1$$$76
+Xiaohong is more than 400 yuan for Xiaoming, and Xiaohong’s money is 3 times that of Xiaoming. How many yuan do Xiaohong and Xiaoming have?$$$10.1$$$51
+My mother's age is 24 years older than Xiaohong. My mother's age is 4 times that of Xiaohong's age. How many years are Xiaohong and mother?$$$10.1$$$5
+Dad is 29 years older than his son. This year, Dad’s age is four times as old as his son’s age. How many years are the father and son?$$$10.1$$$88
+Grandpa’s age is 5 times more than Xiao Ming’s 10 years old. Xiao Ming’s age is 55 years younger than Grandpa’s. What is the age of Grandpa?$$$10.1$$$54
+Grandpa is 72 years old, which is exactly six times the age of Xiaodong. How old is Xiaodong?$$$10.1$$$95
+Fengxiang County has a bumper harvest this year. The income of a 4-acre orchard in a household in Tianjiazhuang is 11,111 yuan. According to this calculation, how many yuan is the total income of 800 acres of orchards in the township? How much is the total income of 16,000 acres of orchards in the county?$$$10.1$$$94
+Dad is 35 years old, bright and bright this year, 5 years old, this year's father's age is several times brighter? Next year?$$$10.2$$$92
+Lili was 2 years old last year and her sister is 8 years old this year. (1) Last year, my sister’s age is several times that of Lili? (2) How many years is my sister’s age?$$$10.2$$$45
+Ten years ago, Tian Hao was seven times older than her daughter. After 15 years, Tian Hao was twice as old as her daughter. Now, how old are the mothers and daughters?$$$10.1$$$68
+A family of three, the age of the three is 72 years old. Mom and Dad are the same age, mother is four times the age of the child, mother and father are _____ years old, and the child is _____ years old.$$$10.1$$$50
+My daughter is 12 years old and my mother is 30 years old. A few years ago my mother was four times as old as her daughter?$$$10.2$$$78
+Li Dabo’s family raised 800 chickens last year. The number of chickens raised this year is three times that of last year. How many more have been raised this year?$$$10.1$$$99
+This year's January and March is a total of _____ days, and February has __ days.$$$10.1$$$11
+A city set up 216 artificial bird nests last year. This year's artificial bird nest is twice as many as last year. How many artificial nests are there this year?$$$10.1$$$15
+Xiaoqing is 9 years old this year, and his father is four times his age. How old is Dad? How old is Dad than Xiaoqing?$$$10.1$$$10
+There are 35 male students in the second grade and 37 female students. How many people are there? 50 of them participated in the “Red Journey” of this summer vacation. How many people did not participate in the “Red Journey”?$$$10.1$$$75
+How many days are there in January and March of this year, and how many days are in February.$$$10.1$$$51
+My mother is 32 years old and 24 years older than Cong Cong. Grandma is 752 years old, and my grandmother is several times older than Congcong?$$$10.2$$$81
+Xiaoying’s piece of watermelon land, this year harvested 2.4 tons of watermelon, 20% more than last year, how many tons of watermelon was collected last year?$$$10.1$$$53
+Xiaobing and his father, the age of the three mothers is 79 years old. It is known that the mother is 26 years older than the little soldier. The father is 3 years older than the mother. What is the age of the three?$$$10.1$$$14
+Xiaohua is 8 years old and Dad is 38 years old. How old is Dad than Xiaohua?$$$10.1$$$42
+Xiaohua is 8 years old and Dad is 29 years older than her. How old is Dad this year?$$$10.1$$$twenty two
+My mother is 30 years old, my father is 2 years older than my mother, how old is my father?$$$10.1$$$89
+Mom is 30 years old, mother is 2 years older than Dad, how old is Dad?$$$10.1$$$78
+Grandma is 73 years old, 37 years older than her mother. How old is my mother this year?$$$10.1$$$79
+Xiaofang is 8 years old this year. Dad is 18 years old. When Xiaofang is a few years old, his father’s age is 3 times that of Xiaofang.$$$10.2$$$55
+Xiao Gang and Xiao Qiang are 24 years old this year. Four years ago, Xiao Gang was 6 years younger than Xiao Xiao. How old are they this year?$$$10.1$$$64
+There are 35 male students in the second grade and 37 female students. Among them, 50 people participated in the “Red Journey” of this summer vacation. How many people did not participate in the “Red Journey”?$$$10.1$$$70
+Dad is less than 40 years old. Dad: My age is 72, and it is also a multiple of 3. Wang Ming: How old is Dad this year?$$$10$$$A: Dad is 24 or 36 years old this year.
+Inequality is used to express the quantitative relationship: Xiaoming is x years old, Xiaoqiang is y years old, grandfather is 70 years old, Xiaoming is twice as old as Xiaoqiang’s age and not less than Grandpa’s age.$$$10$$$Solution: 2x+5y≥70
+According to the intent of the inequality: Xiaohua is twice the age of this year, no more than the age of his father's previous year. If Xiaohua's age is x years old, and his father's age is 24 years old, try to write the inequality of x satisfaction.$$$10$$$Solution: The meaning of the question is: 2x≤x+24-2
+The following relations are expressed by inequalities: (1) the ocean area on the earth is larger than the land area; (2) the teacher's age is twice as large as Xiaoming's age.$$$10$$$(2) Teacher's age > Xiaoming's age × 2
+Xiaojun is still less than 25 years old. His age is a multiple of 3 years ago. The age is now a multiple of 2 and a multiple of 5. How old is Xiaojun now?$$$10$$$A: Xiaojun is now 20 years old.
